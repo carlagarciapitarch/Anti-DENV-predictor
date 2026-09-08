@@ -22,3 +22,6 @@ G --> H[SHAP Interpretation]
 H --> I[ADME Analysis]
 I --> J[Compound Similarity Analysis]
 ```
+
+## **Reproducibility**
+To reproduce the analysis, it is recommended to create a virtual environment and install the dependencies indicated in requirements.txt.
