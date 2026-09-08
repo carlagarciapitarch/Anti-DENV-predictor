@@ -1,6 +1,6 @@
 # **QSAR models for the identification of active molecules against dengue virus**
 
-In this repository you can find Anti-DENV predictor, an algorithm that predicts the activity of possible dengue virus inhibitors. It uses a quantitative structure–activity relationship (QSAR) model that correlates molecular descriptors and antiviral activity.
+In this repository you can find Anti-DENV predictor, an algorithm that predicts the activity of possible dengue virus inhibitors. It uses a quantitative structure–activity relationship (QSAR) model that correlates molecular descriptors and antiviral activity. The idea started as a Master's Thesis project and continued with the creation of Anti-DENV predictor, a machine learning-assisted computational tool that can be used by scientists to accelerate drug discovery stage of dengue virus inhibitors and select promising candidates. 
 
 ## **Description and main purpose**
 This repository contains the raw and processed data, code, and results of a QSAR (Quantitative Structure-Activity Relationship) study aimed at developing predictive models for identifying molecules with potential antiviral activity against the dengue virus.
