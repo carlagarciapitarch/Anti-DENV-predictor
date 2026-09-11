@@ -1,0 +1,2 @@
+This file explains how to use "API_AntiDenv_predictor.py". Specifically, it shows the followed steps, the required input, output and how to execute it.
+
