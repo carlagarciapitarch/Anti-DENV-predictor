@@ -30,13 +30,13 @@ I --> J[Compound Similarity Analysis]
 
 **01_raw_data/**
 
-Contains the original data used as the starting point for the study. More specifically, it contains data obtained from five different databases: PubChem, BindingDB, ChEMBL, DenvInD, and DrugRepV.
+It contains the original data used as the starting point for the study. More specifically, it contains data obtained from five different databases: PubChem, BindingDB, ChEMBL, DenvInD, and DrugRepV.
 
 The data in this folder correspond to the original sources and are kept separate from the processed data to ensure the traceability of the analysis.
 
 **02_data_processing/**
 
-Contains the scripts and results related to data processing and cleaning. Depending on the dataset, the tasks performed include:
+It contains the scripts and results related to data processing and cleaning. Depending on the dataset, the tasks performed include:
 - Filtering records for "dengue virus".
 - Filtering records based on activity values (IC50 or EC50).
 - Standardization of units.
@@ -48,7 +48,7 @@ Contains the scripts and results related to data processing and cleaning. Depend
 
 **03_combined_data/**
 
-Contains the combination of all processed datasets. Once combined, duplicate entries are removed to obtain the final dataset, which is subsequently used for molecular descriptor calculation and model development.
+It contains the combination of all processed datasets. Once combined, duplicate entries are removed to obtain the final dataset, which is subsequently used for molecular descriptor calculation and model development.
 
 **04_molecular_descriptors/**
 
@@ -56,13 +56,13 @@ At this stage, molecular descriptors (Mordred descriptors) are calculated to rep
 
 **05_molecular_descriptor_selection/**
 
-Contains the procedures used to reduce and select the set of molecular descriptors. Specifically, Pearson and Spearman correlation analyses were performed, after which the descriptor selection method that yielded the best results was selected.
+It contains the procedures used to reduce and select the set of molecular descriptors. Specifically, Pearson and Spearman correlation analyses were performed, after which the descriptor selection method that yielded the best results was selected.
 
 The objective of this stage is to identify the most informative variables, reduce dimensionality, and avoid problems arising from redundant or highly correlated variables.
 
 **06_ML_models/**
 
-Contains the development and evaluation of the ML models. The models used in this study were: Random Forest, Support Vector Machines, k-NN, Naive Bayes, Logistic Regression, AdaBoost, Gradient Boosting, ExtraTrees, Multilayer Perceptron, and XGBoost.
+It contains the development and evaluation of the ML models. The models used in this study were: Random Forest, Support Vector Machines, k-NN, Naive Bayes, Logistic Regression, AdaBoost, Gradient Boosting, ExtraTrees, Multilayer Perceptron, and XGBoost.
 
 The tasks performed include:
 - Splitting the data into training and test sets.
@@ -102,6 +102,13 @@ The main results obtained in the study include:
 - Prioritization of potentially interesting compounds for further studies. Specifically, seven potential candidates were identified: Islatravir, Zabicipril, Sabizabulin, Trimethoprim, Ramipril, Combretastatin A-1, and Emvododstat.
 - Preliminary evaluation of the ADME properties of the prioritized compounds, with favorable results for most of them.
 - Identification of molecular fingerprints that were more frequently present in active molecules compared with inactive molecules.
+
+### **Reproducibility**
+To reproduce the analysis, it is recommended to create a virtual environment and install the dependencies indicated in requirements.txt. 
+
+
+## **02_AntiDENV_predictor_creation**
+It contains "modelo_svm_pearson_0,6_api.pkl" and "API_AntiDenv_predictor.py". On one hand, "modelo_svm_pearson_0,6_api.pkl" is the best model obtained in the previous comparison. It is SVM model with radial kernel. On the other hand, "API_AntiDenv_predictor.py" is the API code that is used to connect the trained model to the website’s frontend. It handles the communication between the user input and the model, sending the user’s input to the model and retrieving the corresponding results to display on the website.
 
 ### **Reproducibility**
 To reproduce the analysis, it is recommended to create a virtual environment and install the dependencies indicated in requirements.txt. 
