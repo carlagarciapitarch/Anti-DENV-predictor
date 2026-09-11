@@ -1,0 +1,17 @@
+PUBCHEM_RESULT_TAG,PUBCHEM_SID,PUBCHEM_CID,PUBCHEM_EXT_DATASOURCE_SMILES,PUBCHEM_ACTIVITY_OUTCOME,PUBCHEM_ACTIVITY_SCORE,PUBCHEM_ACTIVITY_URL,PUBCHEM_ASSAYDATA_COMMENT,Standard Type,Activity Comment
+RESULT_TYPE,,,,,,,,STRING,STRING
+RESULT_DESCR,,,,,,,,Standardized activity type (e.g. IC50 rather than Ic-50/Ic50/ic50/ic-50),Additional comments
+1,103175627,5329103,CCN(CC)CCNC(=O)C1=C(NC(=C1C)/C=C\2/C3=C(C=CC(=C3)Cl)NC2=O)C,Active,,,Potential missing data,Activity,Active
+2,103200288,4705,COC1=C(C=C2C(=C1)C(=NC=N2)NC3=CC(=CC=C3)Br)OC,Active,,,Potential missing data,Activity,Active
+3,103227581,5328768,C1=CC(=C(C=C1/C=C(\C#N)/C(=O)N)O)O,Active,,,Potential missing data,Activity,Active
+4,103235175,3820,C1C2=C(C3=CC=CC=C3NC1=O)NC4=C2C=C(C=C4)Br,Active,,,Potential missing data,Activity,Active
+5,103309289,1474853,COC1=C(C=C2C(=C1)C(=NC=N2)NC3=CC=C(C=C3)OC4=CC=CC=C4)OC,Active,,,Potential missing data,Activity,Active
+6,103319670,3894,C1=CC=C(C(=C1)CN(CC2=C(C=CC(=C2)O)O)C3=CC(=C(C=C3)O)C(=O)O)O,Active,,,Potential missing data,Activity,Active
+7,103319671,3896,C1=CC(=C(C=C1NCC2=C(C=CC(=C2)O)O)C(=O)O)O,Active,,,Potential missing data,Activity,Active
+8,103324188,6419747,CN1C=C(C2=CC=CC=C21)/C=C\3/C4=C(C=CC(=C4)S(=O)(=O)N)NC3=O,Active,,,Potential missing data,Activity,Active
+9,103440978,1694,C1(=C(C2=NNN=C2C(=C1Br)Br)Br)Br,Active,,,Potential missing data,Activity,Active
+10,103501598,10302451,CN1CCN(CC1)CCOC2=CC3=C(C(=C2)OC4CCOCC4)C(=NC=N3)NC5=C(C=CC6=C5OCO6)Cl,Active,,,Potential missing data,Activity,Active
+11,103550736,4216,C1CNCCN(C1)S(=O)(=O)C2=CC=CC3=C2C=CC=C3I,Active,,,Potential missing data,Activity,Active
+12,103619537,44576263,CC1=C(C=C(C=C1)NC(=O)C2=CC(=CC(=C2)N3C=C(N=C3)C)C(F)(F)F)N4CC5=CN=C(N=C5N(C4=O)C)NC,Active,,,Potential missing data,Activity,Active
+13,103619538,5311510,C1=CC(=CC(=C1)C(=O)N)C2=CC(=NC=N2)NC3=CC=C(C=C3)OC(F)(F)F,Active,,,Potential missing data,Activity,Active
+14,504815221,11540687,CC1=C(C(=CC=C1)Cl)NC(=O)C2=CN=C(S2)NC3=CC(=NC(=N3)C)N4CCN(CC4)CCO.O,Active,,,Potential missing data,Activity,Active

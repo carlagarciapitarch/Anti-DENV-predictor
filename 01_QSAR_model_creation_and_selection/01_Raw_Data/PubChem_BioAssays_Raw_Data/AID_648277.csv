@@ -1,0 +1,166 @@
+PUBCHEM_RESULT_TAG,PUBCHEM_SID,PUBCHEM_CID,PUBCHEM_EXT_DATASOURCE_SMILES,PUBCHEM_ACTIVITY_OUTCOME,PUBCHEM_ACTIVITY_SCORE,PUBCHEM_ACTIVITY_URL,PUBCHEM_ASSAYDATA_COMMENT,Standard Type,Standard Relation,Standard Value,Standard Units,Activity Comment
+RESULT_TYPE,,,,,,,,STRING,STRING,FLOAT,STRING,STRING
+RESULT_DESCR,,,,,,,,Standardized activity type (e.g. IC50 rather than Ic-50/Ic50/ic50/ic-50),"Qualifier (e.g. >, <, =) for 'Standard Value'",Standardized activity value transformed to common units: e.g. mM concentrations converted to nM,Selected units for 'Standard Type': e.g. concentrations are in nM,Additional comments
+1,103214531,697033,CC1=CC=C(C=C1)/C=C\2/C(=O)NC(=O)N2,Inactive,,,Potential missing data,Inhibition,,,,Not Active
+2,103214783,5371900,COC1=CC=C(C=C1)/C=C\2/C(=O)NC(=O)N2,Unspecified,,,,Inhibition,=,24,%,
+3,103214784,7028616,COC1=CC=CC(=C1)/C=C\2/C(=O)NC(=O)N2,Unspecified,,,,Inhibition,=,18,%,
+4,103215393,135411750,C1=CC=C2C(=C1)/C(=C/C3=C(NC(=O)N3)O)/C=N2,Unspecified,,,,Inhibition,=,36,%,
+5,103215408,6993866,C1=CC(=C(C=C1Cl)Cl)/C=C\2/C(=O)NC(=O)N2,Unspecified,,,,Inhibition,=,15,%,
+6,103215513,5706042,C1=CC=C(C=C1)/C=C\2/C(=O)NC(=O)N2,Unspecified,,,,Inhibition,=,38,%,
+7,103215514,11299386,C1=CC=C2C=C(C=CC2=C1)/C=C\3/C(=O)NC(=O)N3,Unspecified,,,,Inhibition,=,36,%,
+8,103215545,6508822,C1=CSC(=C1)/C=C\2/C(=O)NC(=O)N2,Unspecified,,,,Inhibition,=,16,%,
+9,103215546,5370029,C1=COC(=C1)/C=C\2/C(=O)NC(=O)N2,Unspecified,,,,Inhibition,=,25,%,
+10,103215559,7028602,COC1=CC=CC=C1/C=C\2/C(=O)NC(=O)N2,Unspecified,,,,Inhibition,=,18,%,
+11,103215560,1550940,C1=CC(=CC=C1/C=C\2/C(=O)NC(=O)N2)O,Unspecified,,,,Inhibition,=,26,%,
+12,103215623,15716900,C1=CC(=CC(=C1)O)/C=C\2/C(=O)NC(=O)N2,Unspecified,,,,Inhibition,=,27,%,
+13,103215703,6185786,C1=CC(=CC=C1/C=C\2/C(=O)NC(=O)N2)[N+](=O)[O-],Unspecified,,,,Inhibition,=,26,%,
+14,103215760,6251666,CN(C)C1=CC=C(C=C1)/C=C\2/C(=O)NC(=O)N2,Unspecified,,,,Inhibition,=,29,%,
+15,103264200,1286262,C1=CC(=CC=C1/C=C\2/C(=O)NC(=S)S2)[N+](=O)[O-],Unspecified,,,,Inhibition,=,46,%,
+16,103264239,1389107,C1=COC(=C1)/C=C/C=C\2/C(=O)NC(=S)S2,Unspecified,,,,Inhibition,=,26,%,
+17,103264772,1273210,C1=CC=C(C=C1)/C=C\2/C(=O)NC(=S)S2,Unspecified,,,,Inhibition,=,34,%,
+18,103265093,1241451,C1=CC(=CC=C1/C=C\2/C(=O)NC(=S)S2)C#N,Unspecified,,,,Inhibition,=,42,%,
+19,103289393,5437,C1C(=O)NC(=O)S1,Unspecified,,,,Inhibition,=,13,%,
+20,103290332,1241442,C1=CC=C(C=C1)/C=C\2/C(=O)NC(=O)S2,Unspecified,,,,Inhibition,=,25,%,
+21,103290427,3157013,C1=CC=C(C=C1)CC2C(=O)NC(=O)S2,Inactive,,,Potential missing data,Inhibition,,,,Not Active
+22,103290893,1276529,C1=CC(=CC=C1/C=C\2/C(=O)NC(=O)S2)O,Unspecified,,,,Inhibition,=,32,%,
+23,103290920,5373936,COC1=CC=C(C=C1)/C=C\2/C(=O)NC(=O)S2,Unspecified,,,,Inhibition,=,19,%,
+24,103354056,10006,C1C(=O)NC(=O)N1,Inactive,,,Potential missing data,Inhibition,,,,Not Active
+25,103513674,1201546,C1C(=O)NC(=S)S1,Unspecified,,,,Inhibition,=,14,%,
+26,103514740,1419166,CC1=CC=C(C=C1)/C=C\2/C(=O)NC(=S)S2,Unspecified,,,,Inhibition,=,41,%,
+27,103514741,1241606,COC1=CC=C(C=C1)/C=C\2/C(=O)NC(=S)S2,Unspecified,,,,Inhibition,=,42,%,
+28,103514751,1241135,C1=CC=NC(=C1)/C=C\2/C(=O)NC(=S)S2,Unspecified,,,,Inhibition,=,31,%,
+29,103535220,5708137,COC1=C(C=CC(=C1)/C=C\2/C(=O)NC(=O)S2)O,Unspecified,,,,Inhibition,=,19,%,
+30,103571235,1204288,COC1=C(C=C(C=C1)/C=C\2/C(=O)NC(=S)S2)OC,Unspecified,,,,Inhibition,=,50,%,
+31,103571729,1539584,COC1=C(C=C(C=C1)/C=C\2/C(=O)NC(=O)S2)OC,Unspecified,,,,Inhibition,=,16,%,
+32,103571947,1268920,COC1=C(C=CC(=C1)/C=C\2/C(=O)NC(=S)S2)O,Unspecified,,,,Inhibition,=,42,%,
+33,103572026,5337713,C1=CC(=C(C=C1/C=C\2/C(=O)NC(=S)S2)O)O,Unspecified,,,,Inhibition,=,50,%,
+34,103572029,1551238,COC1=CC=CC(=C1)/C=C\2/C(=O)NC(=S)S2,Unspecified,,,,Inhibition,=,33,%,
+35,103592034,1241131,C1=CC(=CC=C1/C=C\2/C(=O)NC(=S)S2)O,Unspecified,,,,Inhibition,=,47,%,
+36,103592035,1273212,CN(C)C1=CC=C(C=C1)/C=C\2/C(=O)NC(=S)S2,Unspecified,,,,Inhibition,=,36,%,
+37,103628544,5985287,CC1=CC=C(C=C1)/C=C\2/C(=O)NC(=O)S2,Unspecified,,,,Inhibition,=,17,%,
+38,103628718,1243769,COC1=CC=CC(=C1)/C=C\2/C(=O)NC(=O)S2,Unspecified,,,,Inhibition,=,17,%,
+39,103628721,1641793,CN(C)C1=CC=C(C=C1)/C=C\2/C(=O)NC(=O)S2,Unspecified,,,,Inhibition,=,20,%,
+40,103647268,1379669,C1=CC(=CC(=C1)O)/C=C\2/C(=O)NC(=S)S2,Unspecified,,,,Inhibition,=,29,%,
+41,103647269,1206905,COC1=CC=CC=C1/C=C\2/C(=O)NC(=S)S2,Unspecified,,,,Inhibition,=,33,%,
+42,103647336,5757257,C1=CC=C2C=C(C=CC2=C1)/C=C\3/C(=O)NC(=S)S3,Unspecified,,,,Inhibition,=,56,%,
+43,103647338,6249565,C1=CC=C2C=C(C=CC2=C1)/C=C\3/C(=O)NC(=O)S3,Inactive,,,Potential missing data,Inhibition,,,,Not Active
+44,103647717,44589293,CCCCC/C=C\1/C(=O)NC(=S)S1,Unspecified,,,,Inhibition,=,35,%,
+45,103647720,3095431,C/C(=C/1\C(=O)NC(=S)S1)/C2=CC=CC=C2,Unspecified,,,,Inhibition,=,23,%,
+46,103686957,135966009,C1=CC=C2C(=C1)/C(=C\C3=C(NC(=S)N3)O)/C=N2,Unspecified,,,,Inhibition,=,55,%,
+47,103703139,7188333,COC1=C(C=CC(=C1)/C=C\2/C(=O)NC(=O)N2)O,Unspecified,,,,Inhibition,=,13,%,
+48,103703145,2189796,COC1=C(C=C(C=C1)/C=C\2/C(=O)NC(=O)N2)OC,Unspecified,,,,Inhibition,=,18,%,
+49,103703173,1206234,C1=CC(=CC(=C1)O)/C=C\2/C(=O)NC(=O)S2,Unspecified,,,,Inhibition,=,18,%,
+50,103723445,1230091,C1=CC(=C(C=C1Cl)Cl)/C=C\2/C(=O)NC(=O)S2,Unspecified,,,,Inhibition,=,13,%,
+51,104246600,703698,C1=CC=C(C=C1)C[C@H]2C(=O)NC(=O)N2,Inactive,,,Potential missing data,Inhibition,,,,Not Active
+52,136921143,56950036,C\1COC2=CC=CC=C2/C1=C\3/C(=O)NC(=O)S3,Unspecified,,,,Inhibition,=,35,%,
+53,136921144,710236,C1=CC(=CC=C1/C=C\2/C(=O)NC(=S)N2)C#N,Unspecified,,,,Inhibition,=,37,%,
+54,136921145,56949625,CC(=O)N1[C@@H](C(=O)NC1=S)CC2=CC=CC=C2,Inactive,,,Potential missing data,Inhibition,,,,Not Active
+55,136921146,703702,C1=CC=C(C=C1)C[C@@H]2C(=O)NC(=O)N2,Inactive,,,Potential missing data,Inhibition,,,,Not Active
+56,136921147,14775823,C(CCN)C[C@H]1C(=O)NC(=S)N1,Unspecified,,,,Inhibition,=,11,%,
+57,136921148,12918237,C1=CC(=C(C=C1CC2C(=O)NC(=O)N2)O)O,Inactive,,,Potential missing data,Inhibition,,,,Not Active
+58,136922741,5554521,C1=CC(=C(C=C1Cl)Cl)/C=C\2/C(=O)NC(=S)N2,Unspecified,,,,Inhibition,=,41,%,
+59,136922742,6228205,C(=C\1/C(=O)NC(=S)S1)\C2=C(C(=C(C(=C2F)F)F)F)F,Unspecified,,,,Inhibition,=,27,%,
+60,136922743,2305256,C1=CC(=CC=C1/C=C\2/C(=O)NC(=S)N2)[N+](=O)[O-],Unspecified,,,,Inhibition,=,35,%,
+61,136922744,1550494,CN(C)C1=CC=C(C=C1)/C=C\2/C(=O)NC(=S)N2,Unspecified,,,,Inhibition,=,42,%,
+62,136922745,56949753,CC(=O)N1C=C(C2=CC=CC=C21)/C=C\3/C(=O)NC(=S)N3,Unspecified,,,,Inhibition,=,43,%,
+63,136922746,2287842,CN1C=C(C2=CC=CC=C21)/C=C\3/C(=O)NC(=O)N3,Unspecified,,,,Inhibition,=,34,%,
+64,136922747,1391777,C1=CC(=CC(=C1)O)/C=C\2/C(=O)NC(=S)N2,Unspecified,,,,Inhibition,=,28,%,
+65,136922813,697118,C1=C(SC(=C1)Cl)/C=C\2/C(=O)NC(=O)N2,Unspecified,,,,Inhibition,=,16,%,
+66,136922814,1257539,C1=C(SC(=C1)Cl)/C=C\2/C(=O)NC(=O)S2,Unspecified,,,,Inhibition,=,11,%,
+67,136922815,9881274,C/C(=C/1\C(=O)NC(=S)S1)/C2=CC=CS2,Unspecified,,,,Inhibition,=,45,%,
+68,136922816,717436,C1=CC=NC(=C1)/C=C\2/C(=O)NC(=S)N2,Unspecified,,,,Inhibition,=,47,%,
+69,136922924,56949901,C1=CSC(=C1Cl)/C=C\2/C(=O)NC(=O)N2,Inactive,,,Potential missing data,Inhibition,,,,Not Active
+70,136924450,57392211,CCC/C=C/C1C(=O)NC(=S)N1,Inactive,,,Potential missing data,Inhibition,,,,Not Active
+71,136924451,56950161,C1CCC(CC1)/C=C\2/C(=O)NC(=S)N2,Unspecified,,,,Inhibition,=,30,%,
+72,136924452,40475934,CC(C)C[C@H]1C(=O)NC(=S)N1,Inactive,,,Potential missing data,Inhibition,,,,Not Active
+73,136924453,12162534,CC(=O)N1[C@H](C(=O)NC1=S)CC2=CC=CC=C2,Inactive,,,Potential missing data,Inhibition,,,,Not Active
+74,136924454,57392212,C1=CSC(=C1)CC2C(=O)NC(=S)N2,Inactive,,,Potential missing data,Inhibition,,,,Not Active
+75,136924455,56949628,CC(=O)N1[C@H](C(=O)NC1=S)CC2=CNC3=CC=CC=C32,Inactive,,,Potential missing data,Inhibition,,,,Not Active
+76,136926005,6512500,C/C(=C/1\C(=O)NC(=S)S1)/C2=CC3=CC=CC=C3C=C2,Unspecified,,,,Inhibition,=,42,%,
+77,136926006,56949631,C(=C\1/C(=O)NC(=S)N1)\C2=C(C(=C(C(=C2F)F)F)F)F,Unspecified,,,,Inhibition,=,24,%,
+78,136926007,1250057,CN1C=C(C2=CC=CC=C21)/C=C\3/C(=O)NC(=S)S3,Unspecified,,,,Inhibition,=,45,%,
+79,136926008,2011515,CN1C=C(C2=CC=CC=C21)/C=C\3/C(=O)NC(=O)S3,Unspecified,,,,Inhibition,=,41,%,
+80,136926185,56949903,C1=CSC(=C1Cl)/C=C\2/C(=O)NC(=S)N2,Unspecified,,,,Inhibition,=,46,%,
+81,136926186,56949902,C1=CSC(=C1Cl)/C=C\2/C(=O)NC(=S)S2,Unspecified,,,,Inhibition,=,47,%,
+82,136926969,1204987,C1=CC=NC(=C1)/C=C\2/C(=O)NC(=O)S2,Unspecified,,,,Inhibition,=,15,%,
+83,136927717,56950037,C\1COC2=CC=CC=C2/C1=C\3/C(=O)NC(=S)S3,Unspecified,,,,Inhibition,=,44,%,
+84,136927718,136078835,C\1=NC=N/C1=C/C2=C(NC(=S)N2)O,Unspecified,,,,Inhibition,=,29,%,
+85,136927719,57393968,CCCC/C=C/C1C(=O)NC(=S)N1,Inactive,,,Potential missing data,Inhibition,,,,Not Active
+86,136927720,56950163,C/C(=C/1\C(=O)NC(=S)S1)/C2=CC=C(C=C2)F,Inactive,,,Potential missing data,Inhibition,,,,Not Active
+87,136927721,1274030,C1C(=O)NC(=S)N1,Inactive,,,Potential missing data,Inhibition,,,,Not Active
+88,136927722,56951616,CC(=O)N1[C@H](C(=O)NC1=S)CCC(=O)N,Inactive,,,Potential missing data,Inhibition,,,,Not Active
+89,136927723,56950309,C1=CC(=CC=C1C[C@H]2C(=O)NC(=S)N2)O,Inactive,,,Potential missing data,Inhibition,,,,Not Active
+90,136927724,11084774,C1=CSC(=C1)CC2C(=O)NC(=O)N2,Inactive,,,Potential missing data,Inhibition,,,,Not Active
+91,136927725,56950308,C1=CC=C2C(=C1)C(=CN2)C[C@H]3C(=O)NC(=S)N3,Inactive,,,Potential missing data,Inhibition,,,,Not Active
+92,136927726,1550957,C1=CC=C2C(=C1)C(=CN2)C[C@H]3C(=O)NC(=O)N3,Inactive,,,Potential missing data,Inhibition,,,,Not Active
+93,136929214,1396823,C1=CC=C(C=C1)/C=C\2/C(=O)NC(=S)N2,Unspecified,,,,Inhibition,=,35,%,
+94,136929329,1526552,COC1=CC=CC=C1/C=C\2/C(=O)NC(=O)S2,Unspecified,,,,Inhibition,=,17,%,
+95,136929330,1241133,C1=CSC(=C1)/C=C\2/C(=O)NC(=S)S2,Unspecified,,,,Inhibition,=,44,%,
+96,136929331,1421105,C1=CSC(=C1)/C=C\2/C(=O)NC(=O)S2,Unspecified,,,,Inhibition,=,11,%,
+97,136929332,56949755,C1=CSC(=C1Br)/C=C\2/C(=O)NC(=O)N2,Unspecified,,,,Inhibition,=,13,%,
+98,136929333,56949754,C1=CSC(=C1Br)/C=C\2/C(=O)NC(=O)S2,Inactive,,,Potential missing data,Inhibition,,,,Not Active
+99,136930935,6509991,C1CCC(CC1)/C=C\2/C(=O)NC(=O)S2,Unspecified,,,,Inhibition,=,25,%,
+100,136930936,56950162,C/C(=C/1\C(=O)NC(=S)N1)/C2=CC=C(C=C2)C3CCCCC3,Unspecified,,,,Inhibition,=,12,%,
+101,136930937,135679857,C1=CC2=C/C(=C\C3=C(NC(=S)N3)O)/N=C2C=C1,Unspecified,,,,Inhibition,=,44,%,
+102,136930938,56950166,C1=COC(=C1)/C=C/C=C\2/C(=O)NC(=S)N2,Unspecified,,,,Inhibition,=,37,%,
+103,136930939,5975296,C1=COC(=C1)/C=C/C=C\2/C(=O)NC(=O)S2,Inactive,,,Potential missing data,Inhibition,,,,Not Active
+104,136930940,15643297,C1=CC=C(C=C1)CC2C(=O)NC(=S)S2,Inactive,,,Potential missing data,Inhibition,,,,Not Active
+105,136932454,2246682,C1=CC=C2C=C(C=CC2=C1)/C=C\3/C(=O)NC(=S)N3,Unspecified,,,,Inhibition,=,46,%,
+106,136932455,56949630,C(=C\1/C(=O)NC(=O)N1)\C2=C(C(=C(C(=C2F)F)F)F)F,Unspecified,,,,Inhibition,=,14,%,
+107,136932456,56949751,CC(=O)N1C=C(C2=CC=CC=C21)/C=C\3/C(=O)NC(=O)S3,Unspecified,,,,Inhibition,=,11,%,
+108,136932457,13782444,C1=CC(=C(C=C1/C=C\2/C(=O)NC(=O)N2)O)O,Unspecified,,,,Inhibition,=,37,%,
+109,136932542,5776681,C1=C(SC=C1Br)/C=C\2/C(=O)NC(=S)S2,Unspecified,,,,Inhibition,=,47,%,
+110,136932543,56950035,C/C(=C/1\C(=O)NC(=S)N1)/C2=CC=CS2,Unspecified,,,,Inhibition,=,43,%,
+111,136932597,5469195,C1=CSC(=C1)/C=C\2/C(=O)NC(=S)N2,Unspecified,,,,Inhibition,=,48,%,
+112,136932598,1269435,C1=COC(=C1)/C=C\2/C(=O)NC(=S)S2,Unspecified,,,,Inhibition,=,52,%,
+113,136932642,56949904,C1=C(SC(=C1)Br)/C=C\2/C(=O)NC(=O)N2,Unspecified,,,,Inhibition,=,22,%,
+114,136932643,1813162,C1=C(SC(=C1)Cl)/C=C\2/C(=O)NC(=S)N2,Unspecified,,,,Inhibition,=,42,%,
+115,136934385,56950038,C\1COC2=CC=CC=C2/C1=C\3/C(=O)NC(=S)N3,Unspecified,,,,Inhibition,=,43,%,
+116,136934386,57397504,CCCC/C=C/C1C(=O)NC(=S)S1,Unspecified,,,,Inhibition,=,18,%,
+117,136934387,57397505,CCCCC/C=C\1/C(=O)NC(=S)N1,Unspecified,,,,Inhibition,=,18,%,
+118,136934388,56950164,C/C(=C/1\C(=O)NC(=S)N1)/C2=CC=C(C=C2)F,Inactive,,,Potential missing data,Inhibition,,,,Not Active
+119,136934389,12162535,C1=CC=C(C=C1)C[C@H]2C(=O)NC(=S)N2,Inactive,,,Potential missing data,Inhibition,,,,Not Active
+120,136934390,56949626,CC(=O)N1[C@H](C(=O)NC1=S)CCCCN,Inactive,,,Potential missing data,Inhibition,,,,Not Active
+121,136935907,5718018,C1=CC(=CC=C1/C=C\2/C(=O)NC(=S)N2)O,Unspecified,,,,Inhibition,=,48,%,
+122,136935971,56950034,C1=C(SC=C1Br)/C=C\2/C(=O)NC(=S)N2,Unspecified,,,,Inhibition,=,42,%,
+123,136936008,2243892,C1=CC(=C(C=C1/C=C\2/C(=O)NC(=O)S2)O)O,Unspecified,,,,Inhibition,=,44,%,
+124,136936009,740292,COC1=CC=CC=C1/C=C\2/C(=O)NC(=S)N2,Unspecified,,,,Inhibition,=,28,%,
+125,136936010,56949898,C1=CSC(=C1Br)/C=C\2/C(=O)NC(=S)S2,Unspecified,,,,Inhibition,=,60,%,
+126,136936054,8271435,C1=C(SC(=C1)Br)/C=C\2/C(=O)NC(=O)S2,Inactive,,,Potential missing data,Inhibition,,,,Not Active
+127,136936818,2057001,COC1=CC=C(C=C1)/C=C/C=C\2/C(=O)NC(=S)N2,Unspecified,,,,Inhibition,=,13,%,
+128,136937116,135420896,C1=CC=C2C(=C1)/C(=C/C3=C(NC(=O)S3)O)/C=N2,Unspecified,,,,Inhibition,=,26,%,
+129,136937511,57399191,CCC/C=C/C1C(=O)NC(=S)S1,Unspecified,,,,Inhibition,=,23,%,
+130,136937512,56950165,C1=CC=C(C=C1)C(=C2C(=O)NC(=S)N2)C3=CC=CC=C3,Inactive,,,Potential missing data,Inhibition,,,,Not Active
+131,136937513,3002856,C1=CC=C(C=C1)C[C@@H]2C(=O)NC(=S)N2,Unspecified,,,,Inhibition,=,14,%,
+132,136939038,56951614,C/C(=C/1\C(=O)NC(=S)N1)/C2=CC=CC=C2,Inactive,,,Potential missing data,Inhibition,,,,Not Active
+133,136939039,56949627,C/C(=C/1\C(=O)NC(=S)N1)/C2=CC3=CC=CC=C3C=C2,Unspecified,,,,Inhibition,=,33,%,
+134,136939040,56950307,C/C(=C/1\C(=O)NC(=O)S1)/C2=CC3=CC=CC=C3C=C2,Unspecified,,,,Inhibition,=,30,%,
+135,136939041,1565907,C1=CC(=CC=C1/C=C\2/C(=O)NC(=O)S2)[N+](=O)[O-],Inactive,,,Potential missing data,Inhibition,,,,Not Active
+136,136939042,56949752,CC(=O)N1C=C(C2=CC=CC=C21)/C=C\3/C(=O)NC(=S)S3,Unspecified,,,,Inhibition,=,46,%,
+137,136939043,7039125,COC1=CC=CC(=C1)/C=C\2/C(=O)NC(=S)N2,Unspecified,,,,Inhibition,=,28,%,
+138,136939044,7032560,C1=CC(=C(C=C1/C=C\2/C(=O)NC(=S)N2)O)O,Unspecified,,,,Inhibition,=,36,%,
+139,136939156,2246840,COC1=C(C=CC(=C1)/C=C\2/C(=O)NC(=S)N2)O,Unspecified,,,,Inhibition,=,38,%,
+140,136939157,1550469,C1=COC(=C1)/C=C\2/C(=O)NC(=S)N2,Unspecified,,,,Inhibition,=,46,%,
+141,136939200,1202332,C1=C(SC(=C1)Br)/C=C\2/C(=O)NC(=S)S2,Unspecified,,,,Inhibition,=,50,%,
+142,136940729,1224674,C1=CC(=CC=C1/C=C\2/C(=O)NC(=S)S2)N,Inactive,,,Potential missing data,Inhibition,,,,Not Active
+143,136940730,56949629,CC(=O)N1[C@H](C(=O)NC1=S)CC2=CC=C(C=C2)O,Inactive,,,Potential missing data,Inhibition,,,,Not Active
+144,136942044,135501994,C1=CC=C2C(=C1)/C(=C\C3=C(NC(=S)S3)O)/C=N2,Unspecified,,,,Inhibition,=,44,%,
+145,136942258,1550643,C1=CC(=C(C=C1Cl)Cl)/C=C\2/C(=O)NC(=S)S2,Unspecified,,,,Inhibition,=,46,%,
+146,136942259,56950310,C(=C\1/C(=O)NC(=O)S1)\C2=C(C(=C(C(=C2F)F)F)F)F,Unspecified,,,,Inhibition,=,12,%,
+147,136942260,5469194,CC1=CC=C(C=C1)/C=C\2/C(=O)NC(=S)N2,Unspecified,,,,Inhibition,=,31,%,
+148,136942418,5896341,C1=C(SC(=C1)Cl)/C=C\2/C(=O)NC(=S)S2,Unspecified,,,,Inhibition,=,54,%,
+149,136943939,135729012,C\1=NC=N/C1=C/C2=C(NC(=S)S2)O,Unspecified,,,,Inhibition,=,53,%,
+150,136943940,57402704,CCCC/C=C\1/C(=O)NC(=S)N1,Unspecified,,,,Inhibition,=,25,%,
+151,136943941,17388315,C1CCC(CC1)/C=C\2/C(=O)NC(=S)S2,Unspecified,,,,Inhibition,=,22,%,
+152,136943942,1365576,COC1=CC=C(C=C1)/C=C/C=C\2/C(=O)NC(=S)S2,Unspecified,,,,Inhibition,=,51,%,
+153,136943943,56950305,COC1=CC=C(C=C1)/C=C/C=C\2/C(=O)NC(=O)S2,Unspecified,,,,Inhibition,=,18,%,
+154,136943944,56951615,CC(C)C[C@H]1C(=O)NC(=S)N1C(=O)C,Inactive,,,Potential missing data,Inhibition,,,,Not Active
+155,136943945,56950306,C(CC(=O)N)[C@H]1C(=O)NC(=S)N1,Unspecified,,,,Inhibition,=,10,%,
+156,136943946,56924644,C1=CC(=C(C=C1CC2C(=O)NC(=S)N2)O)O,Unspecified,,,,Inhibition,=,15,%,
+157,136945426,46502699,CN1C=C(C2=CC=CC=C21)/C=C\3/C(=O)NC(=S)N3,Unspecified,,,,Inhibition,=,50,%,
+158,136945427,722749,COC1=CC=C(C=C1)/C=C\2/C(=O)NC(=S)N2,Unspecified,,,,Inhibition,=,50,%,
+159,136945428,1584948,COC1=C(C=C(C=C1)/C=C\2/C(=O)NC(=S)N2)OC,Unspecified,,,,Inhibition,=,44,%,
+160,136945537,1379703,C1=COC(=C1)/C=C\2/C(=O)NC(=O)S2,Unspecified,,,,Inhibition,=,20,%,
+161,136945538,56949899,C1=CSC(=C1Br)/C=C\2/C(=O)NC(=S)N2,Unspecified,,,,Inhibition,=,44,%,
+162,136945590,56949900,C1=CSC(=C1Cl)/C=C\2/C(=O)NC(=O)S2,Unspecified,,,,Inhibition,=,23,%,
+163,136945591,5468923,C1=C(SC(=C1)Br)/C=C\2/C(=O)NC(=S)N2,Unspecified,,,,Inhibition,=,46,%,

@@ -1,0 +1,17 @@
+PUBCHEM_RESULT_TAG,PUBCHEM_SID,PUBCHEM_CID,PUBCHEM_EXT_DATASOURCE_SMILES,PUBCHEM_ACTIVITY_OUTCOME,PUBCHEM_ACTIVITY_SCORE,PUBCHEM_ACTIVITY_URL,PUBCHEM_ASSAYDATA_COMMENT,PubChem Standard Value,Standard Type,Standard Relation,Standard Value,Standard Units
+RESULT_TYPE,,,,,,,,FLOAT,STRING,STRING,FLOAT,STRING
+RESULT_DESCR,,,,,,,,PubChem standardized value transformed from 'Standard Value'. The unit is always micromolar,Standardized activity type (e.g. IC50 rather than Ic-50/Ic50/ic50/ic-50),"Qualifier (e.g. >, <, =) for 'Standard Value'",Standardized activity value transformed to common units: e.g. mM concentrations converted to nM,Selected units for 'Standard Type': e.g. concentrations are in nM
+RESULT_UNIT,,,,,,,,MICROMOLAR,,,,
+RESULT_IS_ACTIVE_CONCENTRATION,,,,,,,,TRUE,,,,
+RESULT_IS_ACTIVE_CONCENTRATION_QUALIFIER,,,,,,,,,,TRUE,,
+1,318372173,122178194,CC1=CN(C(=O)NC1=O)[C@H]2C[C@@H]([C@H](O2)CO[Si](C)(C)C(C)(C)C)N3C(=CN=N3)C4=CC5=C(C=C4)C=C(C=C5)OC,Unspecified,,,,13,CC50,=,13000,nM
+2,318372182,122178202,CC1=CN(C(=O)NC1=O)[C@H]2C[C@@H]([C@H](O2)CO[Si](C)(C)C(C)(C)C)N3C(=CN=N3)C4=CC=CC=C4,Unspecified,,,,32,CC50,=,32000,nM
+3,318372188,122178208,CC1=CN(C(=O)NC1=O)[C@H]2C[C@@H]([C@H](O2)CO[Si](C)(C)C(C)(C)C)N3C(=CN=N3)C4CCCCC4,Unspecified,,,,24,CC50,=,24000,nM
+4,318372189,122178209,CC1=CN(C(=O)NC1=O)[C@H]2C[C@@H]([C@H](O2)CO[Si](C)(C)C(C)(C)C)N3C=C(N=N3)C4=CC5=C(C=C4)C=C(C=C5)OC,Unspecified,,,,200,CC50,>,200000,nM
+5,318372194,122178213,CC1=CN(C(=O)NC1=O)[C@H]2C[C@@H]([C@H](O2)CO[Si](C)(C)C(C)(C)C)N3C(SCC3=O)C4=CC5=C(C=C4)NC=C5,Unspecified,,,,15,CC50,=,15000,nM
+6,318372196,122178215,CC1=CN(C(=O)NC1=O)[C@H]2C[C@@H]([C@H](O2)CO[Si](C)(C)C(C)(C)C)N3C(SCC3=O)C4=C5C=CC=CC5=CC6=CC=CC=C64,Unspecified,,,,27,CC50,=,27000,nM
+7,318372202,122178221,CC1=CN(C(=O)NC1=O)[C@H]2C[C@@H]([C@H](O2)CO[Si](C)(C)C(C)(C)C)NC(=O)C(C3=CC=CC=C3)(C4=CC=CC=C4)C5=CC=CC=C5,Unspecified,,,,15,CC50,=,15000,nM
+8,318372204,122178223,CC1=CN(C(=O)NC1=O)[C@H]2C[C@@H]([C@H](O2)CO[Si](C)(C)C(C)(C)C)NC(=O)C3=CC=CC4=CC=CC=C43,Unspecified,,,,200,CC50,>,200000,nM
+9,318372211,122178230,CC1=CN(C(=O)NC1=O)[C@H]2C[C@@H]([C@H](O2)CO[Si](C)(C)C(C)(C)C)NC(=O)CCCCC3=CC=C(C=C3)F,Unspecified,,,,23,CC50,=,23000,nM
+10,318372212,122178231,CC1=CN(C(=O)NC1=O)[C@H]2C[C@@H]([C@H](O2)CO[Si](C)(C)C(C)(C)C)NS(=O)(=O)C3=CC4=CC=CC=C4C=C3,Unspecified,,,,12,CC50,=,12000,nM
+11,318372214,122178233,CC1=CN(C(=O)NC1=O)[C@H]2C[C@@H]([C@H](O2)CO[Si](C)(C)C(C)(C)C)NC(=O)NC34CC5CC(C3)CC(C5)C4,Unspecified,,,,16,CC50,=,16000,nM

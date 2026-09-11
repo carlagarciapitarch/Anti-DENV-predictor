@@ -1,0 +1,7 @@
+PUBCHEM_RESULT_TAG,PUBCHEM_SID,PUBCHEM_CID,PUBCHEM_EXT_DATASOURCE_SMILES,PUBCHEM_ACTIVITY_OUTCOME,PUBCHEM_ACTIVITY_SCORE,PUBCHEM_ACTIVITY_URL,PUBCHEM_ASSAYDATA_COMMENT,Standard Type,Standard Text Value,Standard Units
+RESULT_TYPE,,,,,,,,STRING,STRING,STRING
+RESULT_DESCR,,,,,,,,Standardized activity type (e.g. IC50 rather than Ic-50/Ic50/ic50/ic-50),Standardized version of non-numeric measurement,Selected units for 'Standard Type': e.g. concentrations are in nM
+1,504794349,172439377,CN([C@@H](CC1=CC=C(C=C1)N=C(N)N)C(=O)N[C@@H](CCCCN)C(=O)N[C@H](C2=CC=CC=C2)C(=O)N)S(=O)(=O)C3=CC=CC=C3,Unspecified,,,,Stability,Stable,%
+2,504801959,172444657,CN([C@@H](CC1=CC=C(C=C1)C(=N)N)C(=O)N[C@@H](CCCCN)C(=O)N[C@H](C2=CC=CC=C2)C(=O)N)S(=O)(=O)C3=CC=CC=C3,Unspecified,,,,Stability,Stable,%
+3,504810139,172450346,C1=CC=C(C=C1)[C@H](C(=O)N)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CC2=CC=C(C=C2)N=C(N)N)NS(=O)(=O)C3=CC=CC=C3,Unspecified,,,,Stability,Stable,%
+4,504822275,172458774,CN([C@@H](CCCN=C(N)N)C(=O)N[C@@H](CCCCN)C(=O)N[C@H](C1=CC=CC=C1)C(=O)N)S(=O)(=O)C2=CC=CC=C2,Unspecified,,,,Stability,Stable,%

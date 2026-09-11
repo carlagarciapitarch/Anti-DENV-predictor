@@ -1,0 +1,16 @@
+PUBCHEM_RESULT_TAG,PUBCHEM_SID,PUBCHEM_CID,PUBCHEM_EXT_DATASOURCE_SMILES,PUBCHEM_ACTIVITY_OUTCOME,PUBCHEM_ACTIVITY_SCORE,PUBCHEM_ACTIVITY_URL,PUBCHEM_ASSAYDATA_COMMENT,Standard Type,Standard Relation,Standard Value,Standard Units
+RESULT_TYPE,,,,,,,,STRING,STRING,FLOAT,STRING
+RESULT_DESCR,,,,,,,,Standardized activity type (e.g. IC50 rather than Ic-50/Ic50/ic50/ic-50),"Qualifier (e.g. >, <, =) for 'Standard Value'",Standardized activity value transformed to common units: e.g. mM concentrations converted to nM,Selected units for 'Standard Type': e.g. concentrations are in nM
+1,461514284,162642836,C[C@H]1C[C@H](C[C@@H]2[C@@H]1[C@@H]([C@@H](C(=C2)C)/C(=C/COC(=O)C)/C)/C=C/C=C/C(=O)O)O,Unspecified,,,,Activity,=,98.5,%
+2,461518965,162646155,C/C=C(\C)/[C@H]1[C@H]([C@@H]2[C@H](C[C@@H](C[C@H]2C=C1C)OC(=O)C)C)/C=C/C=C/C(=O)O,Unspecified,,,,Activity,=,91.9,%
+3,461520716,162647397,C[C@H]1C[C@H](C[C@@H]2[C@@H]1[C@@H]([C@@H](C(=C2)C)/C(=C/CO)/C)/C=C/C=C/C(=O)O)O,Unspecified,,,,Activity,=,85.8,%
+4,461524014,162649695,C[C@H]1[C@@H](CC[C@@H]2[C@@H]1[C@@H]([C@@H](C(=C2)C)/C(=C/COC(=O)C)/C)/C=C/C=C/C(=O)O)O,Unspecified,,,,Activity,=,93.5,%
+5,461531588,162654989,C[C@H]1[C@H](CC[C@@H]2[C@@H]1[C@@H]([C@@H](C(=C2)C)/C(=C/COC(=O)C)/C)/C=C/C=C/C(=O)O)O,Unspecified,,,,Activity,=,95.6,%
+6,461532632,162655705,C/C=C(\C)/[C@H]1[C@H]([C@@H]2[C@H](C[C@@H](C[C@H]2C=C1C)O)C)/C=C/C=C/C(=O)O,Unspecified,,,,Activity,=,97,%
+7,461538961,162660210,C/C=C(\C)/[C@H]1[C@H]([C@@H]2[C@H](C[C@H](C[C@H]2C=C1C)O)C)/C=C/C=C/C(=O)O,Unspecified,,,,Activity,=,99,%
+8,461542649,162662738,C[C@H]1C[C@@H](C[C@@H]2[C@@H]1[C@@H]([C@@H](C(=C2)C)/C(=C/CO)/C)/C=C/C=C/C(=O)O)O,Unspecified,,,,Activity,=,79.3,%
+9,461544738,162664238,C[C@H]1CCC[C@@H]2[C@@H]1[C@@H]([C@@H](C(=C2)C)/C(=C/CO)/C)/C=C/C=C/C(=O)O,Unspecified,,,,Activity,=,100,%
+10,461545976,162665104,C[C@H]1CC(=O)C[C@@H]2[C@@H]1[C@@H]([C@@H](C(=C2)C)/C(=C/CO)/C)/C=C/C=C/C(=O)O,Unspecified,,,,Activity,=,100,%
+11,461548041,162666526,C[C@H]1CC(=O)C[C@@H]2[C@@H]1[C@@H]([C@@H](C(=C2)C)/C(=C/COC(=O)C)/C)/C=C/C=C/C(=O)O,Unspecified,,,,Activity,=,98.8,%
+12,461550941,162668557,C/C=C(\C)/[C@H]1[C@H]([C@@H]2[C@H](CC(=O)C[C@H]2C=C1C)C)/C=C/C=C/C(=O)O,Unspecified,,,,Activity,=,96.9,%
+13,461563002,162677078,C[C@H]1[C@@H](CC[C@@H]2[C@@H]1[C@@H]([C@@H](C(=C2)C)/C(=C/CO)/C)/C=C/C=C/C(=O)O)O,Unspecified,,,,Activity,=,98.1,%

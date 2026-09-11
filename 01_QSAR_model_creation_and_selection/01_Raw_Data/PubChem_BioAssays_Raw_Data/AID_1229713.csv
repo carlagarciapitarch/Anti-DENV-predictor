@@ -1,0 +1,19 @@
+PUBCHEM_RESULT_TAG,PUBCHEM_SID,PUBCHEM_CID,PUBCHEM_EXT_DATASOURCE_SMILES,PUBCHEM_ACTIVITY_OUTCOME,PUBCHEM_ACTIVITY_SCORE,PUBCHEM_ACTIVITY_URL,PUBCHEM_ASSAYDATA_COMMENT,PubChem Standard Value,Standard Type,Standard Relation,Standard Value,Standard Units,Activity Comment
+RESULT_TYPE,,,,,,,,FLOAT,STRING,STRING,FLOAT,STRING,STRING
+RESULT_DESCR,,,,,,,,PubChem standardized value transformed from 'Standard Value'. The unit is always micromolar,Standardized activity type (e.g. IC50 rather than Ic-50/Ic50/ic50/ic-50),"Qualifier (e.g. >, <, =) for 'Standard Value'",Standardized activity value transformed to common units: e.g. mM concentrations converted to nM,Selected units for 'Standard Type': e.g. concentrations are in nM,Additional comments
+RESULT_UNIT,,,,,,,,MICROMOLAR,,,,,
+RESULT_IS_ACTIVE_CONCENTRATION,,,,,,,,TRUE,,,,,
+RESULT_IS_ACTIVE_CONCENTRATION_QUALIFIER,,,,,,,,,,TRUE,,,
+1,103317460,5328887,COC1=C(C=C2C(=C1)C(=C(C=N2)C#N)NC3=C(C=C(C=C3)Cl)Cl)OC,Active,,,,5.7,EC50,<,5700,nM,
+2,103424235,5328896,COC1=CC2=NC=C(C(=C2C=C1)NC3=C(C=C(C=C3)Cl)Cl)C#N,Inactive,,,Potential missing data,,EC50,,,,Not Active
+3,103768600,49799036,C1CN(CCN1CCO)C2=NC3=C(C(=N2)NC4=CC=C(C=C4)S(=O)(=O)N)NC=N3,Inactive,,,Potential missing data,,EC50,,,,Not Active
+4,103768671,46898022,C1COCCN1C2=NC3=C(C(=N2)NC4=CC=C(C=C4)S(=O)(=O)N)NC=N3,Inactive,,,Potential missing data,,EC50,,,,Not Active
+5,103768781,49799133,C1CN(CCN1CCO)C2=NC3=C(C(=N2)NC4=CC=CC=C4)NC=N3,Inactive,,,Potential missing data,,EC50,,,,Not Active
+6,318373032,122178642,CC1=CC(=CC(=O)N1CC2=CC=C(C=C2)C(F)(F)F)OCC3=C(C=C(C=C3)F)F,Active,,,,4.8,EC50,<,4800,nM,
+7,318373033,122178643,CC1=CC(=CC(=O)N1CC2=CC=C(C=C2)OC)OCC3=CC(=CC=C3)F,Active,,,,6.4,EC50,<,6400,nM,
+8,318373034,122178644,CC1=CC(=CC(=O)N1CC2=CC=C(C=C2)Cl)OCC3=CC(=CC=C3)F,Active,,,,6.4,EC50,<,6400,nM,
+9,318373035,22050000,CC1=CC(=CC(=O)N1CC2=CC=C(C=C2)OC)OCC3=C(C=C(C=C3)F)F,Active,,,,4.6,EC50,<,4600,nM,
+10,318373036,122178645,CC1=CC(=CC(=O)N1CC2=CC=C(C=C2)C3=CC=CC=C3)OCC4=C(C=C(C=C4)F)F,Inactive,,,Potential missing data,,EC50,,,,Not Active
+11,318373037,122178646,CC1=CC(=CC(=O)N1CC2=CN(N=N2)CC3=CC(=CC=C3)Br)OCC4=C(C=C(C=C4)F)F,Inactive,,,Potential missing data,,EC50,,,,Not Active
+12,318373038,122178647,CC1=CC(=CC(=O)N1CC2=CN(N=N2)CC3=CC(=CC=C3)C(F)(F)F)OCC4=C(C=C(C=C4)F)F,Inactive,,,Potential missing data,,EC50,,,,Not Active
+13,318373039,122178648,CN1CCN(CC1)C2=CC=C(C=C2)NC3=C4C=CC(=CC4=NC=C3C#N)OC,Inactive,,,Potential missing data,,EC50,,,,Not Active

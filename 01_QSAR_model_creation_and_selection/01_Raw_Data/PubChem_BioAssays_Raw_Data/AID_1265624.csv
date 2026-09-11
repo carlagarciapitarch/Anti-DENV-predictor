@@ -1,0 +1,6 @@
+PUBCHEM_RESULT_TAG,PUBCHEM_SID,PUBCHEM_CID,PUBCHEM_EXT_DATASOURCE_SMILES,PUBCHEM_ACTIVITY_OUTCOME,PUBCHEM_ACTIVITY_SCORE,PUBCHEM_ACTIVITY_URL,PUBCHEM_ASSAYDATA_COMMENT,Standard Type,Standard Relation,Standard Value,Standard Units
+RESULT_TYPE,,,,,,,,STRING,STRING,FLOAT,STRING
+RESULT_DESCR,,,,,,,,Standardized activity type (e.g. IC50 rather than Ic-50/Ic50/ic50/ic-50),"Qualifier (e.g. >, <, =) for 'Standard Value'",Standardized activity value transformed to common units: e.g. mM concentrations converted to nM,Selected units for 'Standard Type': e.g. concentrations are in nM
+1,336888035,127038866,CC(C)(C)C1=CC=C(C=C1)COC2=CC=C(C=C2)[C@H](C(=O)N)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCN=C(N)N)NC(=O)C3=CC=C(S3)Cl,Unspecified,,,,permeability,=,0.44,%
+2,336890152,127040513,COC1=CC=CC(=C1)COC2=CC=C(C=C2)[C@H](C(=O)N)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCN=C(N)N)NC(=O)C3=CC=C(S3)C4=CC=CS4,Unspecified,,,,permeability,=,1.15,%
+3,336890153,127040514,C1=CSC(=C1)C2=CC=C(S2)C(=O)N[C@@H](CCCN=C(N)N)C(=O)N[C@@H](CCCCN)C(=O)N[C@H](C3=CC=C(C=C3)OCC4=CC(=C(C=C4)Cl)Cl)C(=O)N,Unspecified,,,,permeability,=,2.5,%

@@ -1,0 +1,22 @@
+PUBCHEM_RESULT_TAG,PUBCHEM_SID,PUBCHEM_CID,PUBCHEM_EXT_DATASOURCE_SMILES,PUBCHEM_ACTIVITY_OUTCOME,PUBCHEM_ACTIVITY_SCORE,PUBCHEM_ACTIVITY_URL,PUBCHEM_ASSAYDATA_COMMENT,Standard Type,Standard Relation,Standard Value,Standard Units
+RESULT_TYPE,,,,,,,,STRING,STRING,FLOAT,STRING
+RESULT_DESCR,,,,,,,,Standardized activity type (e.g. IC50 rather than Ic-50/Ic50/ic50/ic-50),"Qualifier (e.g. >, <, =) for 'Standard Value'",Standardized activity value transformed to common units: e.g. mM concentrations converted to nM,Selected units for 'Standard Type': e.g. concentrations are in nM
+1,469802988,164612066,C1C[C@H](N(C1)C(=O)C2=CC3=CC(=C(C=C3N2)O)O)C(=O)NC4=CC=CC=C4,Unspecified,,,,Inhibition,=,36,%
+2,469805298,164613730,CC1=CC=C(C=C1)S(=O)(=O)N[C@H](C(=O)NC2=NC3=CC(=C(C=C3S2)O)O)C(C)(C)C,Unspecified,,,,Inhibition,=,44,%
+3,469806507,164614579,C1C[C@H](N(C1)C(=O)C2=NC3=C(S2)C=CC(=C3)O)C(=O)NC4=CC=CC=C4,Unspecified,,,,Inhibition,=,47,%
+4,469813222,164619458,CC1=CC=C(C=C1)S(=O)(=O)N[C@@H](C)C(=O)NC2=NC3=CC(=C(C=C3S2)O)O,Unspecified,,,,Inhibition,=,39,%
+5,469813341,164619546,C1=CC=C(C=C1)C(=O)N(CC(=O)NC2=NC3=CC(=C(C=C3S2)O)O)C4=CC=CC=C4,Unspecified,,,,Inhibition,=,56,%
+6,469815840,164621366,CC1=CC=C(C=C1)S(=O)(=O)N[C@@H](CC2=CC=CC=C2)C(=O)NC3=NC4=CC(=C(C=C4S3)O)O,Unspecified,,,,Inhibition,=,33,%
+7,469816068,164621530,C1C[C@H](N(C1)C(=O)C2=CN=C3C=C(C(=CC3=C2)O)O)C(=O)NC4=CC=CC=C4,Unspecified,,,,Inhibition,=,23,%
+8,469816577,164621886,C1=CC(=CC=C1C(C2=CC=C(C=C2)O)C(=O)NC3=NC4=CC(=C(C=C4S3)O)O)O,Unspecified,,,,Inhibition,=,45,%
+9,469817071,164622235,C1=CC=C(C=C1)C(=O)NCCC(=O)NC2=NC3=CC(=C(C=C3S2)O)O,Unspecified,,,,Inhibition,=,23,%
+10,469817179,164622319,CC[C@H](C)[C@@H](C(=O)NC1=NC2=CC(=C(C=C2S1)O)O)NS(=O)(=O)C3=CC=C(C=C3)C,Unspecified,,,,Inhibition,=,33,%
+11,469819148,164623745,CCN(CC)C(=O)C[C@@H](C(=O)NC1=NC2=CC(=C(C=C2S1)O)O)NC(=O)C3=CC=CC=C3,Unspecified,,,,Inhibition,=,16,%
+12,469819209,164623793,CC1=CC=C(C=C1)S(=O)(=O)N[C@H](C)C(=O)NC2=NC3=CC(=C(C=C3S2)O)O,Unspecified,,,,Inhibition,=,14,%
+13,469821067,164625125,C1=CC=C(C=C1)C(=O)N[C@@H](CC(=O)O)C(=O)NC2=NC3=CC(=C(C=C3S2)O)O,Unspecified,,,,Inhibition,=,32,%
+14,469821342,29262595,C1=CC(=CC=C1C(=O)NC2=NC3=C(S2)C=C(C=C3)[N+](=O)[O-])I,Unspecified,,,,Inhibition,=,36,%
+15,469822557,164626001,CC1=CC=C(C=C1)S(=O)(=O)N[C@@H](CSCC2=CC=CC=C2)C(=O)NC3=NC4=CC(=C(C=C4S3)O)O,Unspecified,,,,Inhibition,=,57,%
+16,469823051,164626227,C1=CC=C(C=C1)C(=O)N[C@@H](CC2=CC=C(C=C2)O)C(=O)NC3=NC4=CC(=C(C=C4S3)O)O,Unspecified,,,,Inhibition,=,63,%
+17,469824413,164626890,C1C[C@H](N(C1)C(=O)C2=CC3=CC(=C(C=C3C=C2)O)O)C(=O)NC4=CC=CC=C4,Unspecified,,,,Inhibition,=,9,%
+18,469827617,164628555,C1=CC(=CC=C1C(C2=CC=C(C=C2)Cl)C(=O)NC3=NC4=CC(=C(C=C4S3)O)O)Cl,Unspecified,,,,Inhibition,=,58,%
+19,469843318,83407660,C1=CC=C(C=C1)NC(=O)C2=NC3=C(S2)C=CC(=C3)O,Unspecified,,,,Inhibition,=,20,%

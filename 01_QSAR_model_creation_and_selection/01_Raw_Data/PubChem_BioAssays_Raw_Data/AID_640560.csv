@@ -1,0 +1,11 @@
+PUBCHEM_RESULT_TAG,PUBCHEM_SID,PUBCHEM_CID,PUBCHEM_EXT_DATASOURCE_SMILES,PUBCHEM_ACTIVITY_OUTCOME,PUBCHEM_ACTIVITY_SCORE,PUBCHEM_ACTIVITY_URL,PUBCHEM_ASSAYDATA_COMMENT,Standard Type,Standard Units,Activity Comment
+RESULT_TYPE,,,,,,,,STRING,STRING,STRING
+RESULT_DESCR,,,,,,,,Standardized activity type (e.g. IC50 rather than Ic-50/Ic50/ic50/ic-50),Selected units for 'Standard Type': e.g. concentrations are in nM,Additional comments
+1,136922690,57391234,C1=CC=C(C=C1)OC2=CC=C(C=C2)NC(=O)CN3C=C(N=N3)CNC(=O)CN4C(=O)C5=CC=CC=C5S4,Active,,,Potential missing data,Inhibition,%,Active
+2,136925933,57392999,C1=CC=C(C=C1)OC2=CC=CC(=C2)NC(=O)CN3C=C(N=N3)CNC(=O)CN4C(=O)C5=CC=CC=C5S4,Active,,,Potential missing data,Inhibition,%,Active
+3,136925934,57393000,C1=CC=C(C=C1)C(=O)CN2C=C(N=N2)COC3=CC=CC(=C3)NC(=O)CN4C(=O)C5=CC=CC=C5S4,Active,,,Potential missing data,Inhibition,%,Active
+4,136925935,57393001,C1=CC=C(C=C1)OC2=CC=C(C=C2)NC(=O)CN3C=C(N=N3)COC4=CC=CC(=C4)NC(=O)CN5C(=O)C6=CC=CC=C6S5,Active,,,Potential missing data,Inhibition,%,Active
+5,136925936,57393002,C1=CC=C(C=C1)OC2=CC=CC=C2NC(=O)CN3C=C(N=N3)COC4=CC=CC(=C4)NC(=O)CN5C(=O)C6=CC=CC=C6S5,Active,,,Potential missing data,Inhibition,%,Active
+6,136932398,57396495,C1=CC=C(C=C1)OC2=CC=CC(=C2)NC(=O)CN3C=C(N=N3)COC4=CC=CC(=C4)NC(=O)CN5C(=O)C6=CC=CC=C6S5,Active,,,Potential missing data,Inhibition,%,Active
+7,136935850,57398280,C1=CC=C(C=C1)NC(=O)CN2C=C(N=N2)COC3=CC=CC(=C3)NC(=O)CN4C(=O)C5=CC=CC=C5S4,Active,,,Potential missing data,Inhibition,%,Active
+8,136938980,57399942,COC(=O)C1=CC=CC(=C1)CN2C=C(N=N2)COC3=CC=CC(=C3)NC(=O)CN4C(=O)C5=CC=CC=C5S4,Active,,,Potential missing data,Inhibition,%,Active

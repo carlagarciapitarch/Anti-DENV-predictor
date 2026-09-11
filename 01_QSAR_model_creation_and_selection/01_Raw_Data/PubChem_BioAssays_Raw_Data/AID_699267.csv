@@ -1,0 +1,17 @@
+PUBCHEM_RESULT_TAG,PUBCHEM_SID,PUBCHEM_CID,PUBCHEM_EXT_DATASOURCE_SMILES,PUBCHEM_ACTIVITY_OUTCOME,PUBCHEM_ACTIVITY_SCORE,PUBCHEM_ACTIVITY_URL,PUBCHEM_ASSAYDATA_COMMENT,Standard Type,Standard Relation,Standard Value,Standard Units
+RESULT_TYPE,,,,,,,,STRING,STRING,FLOAT,STRING
+RESULT_DESCR,,,,,,,,Standardized activity type (e.g. IC50 rather than Ic-50/Ic50/ic50/ic-50),"Qualifier (e.g. >, <, =) for 'Standard Value'",Standardized activity value transformed to common units: e.g. mM concentrations converted to nM,Selected units for 'Standard Type': e.g. concentrations are in nM
+1,163313815,71449744,C1=CC=C(C=C1)C/C=N\NC(=O)C2=CC(=NC3=CC=CC=C32)/C=N/NC4=CC=C(C=C4)S(=O)(=O)N,Unspecified,,,,Inhibition,=,31.06,%
+2,163313817,60194995,C1=CC=C(C=C1)CCCNC(=O)C2=CC(=NC3=CC=CC=C32)/C=N/NC4=CC(=CC=C4)Cl,Unspecified,,,,Inhibition,=,32.15,%
+3,163313818,136205824,CCOC(=O)C1=CC(=C(C(=C1)/C=N/NC(=O)C2=CC3=C(C=C2)OCO3)O)/C=N/NC(=O)C4=CC5=C(C=C4)OCO5,Unspecified,,,,Inhibition,=,35.44,%
+4,163317262,71451560,C1=CC=C(C=C1)/C=C/C=N\NC(=O)C2=CC(=NC3=CC=CC=C32)/C=N/NC4=CC=CC(=C4)C(F)(F)F,Unspecified,,,,Inhibition,=,27.44,%
+5,163317263,60194992,C1=CC=C(C=C1)CCCCNC(=O)C2=CC(=NC3=CC=CC=C32)/C=N/NC4=CC=C(C=C4)S(=O)(=O)N,Unspecified,,,,Inhibition,=,29.35,%
+6,163320746,60194993,C1=CC=C(C=C1)CCCNC(=O)C2=CC(=NC3=CC=CC=C32)/C=N/NC4=CC(=CC=C4)Br,Unspecified,,,,Inhibition,=,24.17,%
+7,163324104,60194991,C1=CC=C(C=C1)CCCNC(=O)C2=CC(=NC3=CC=CC=C32)/C=N/NC4=CC=C(C=C4)S(=O)(=O)N,Unspecified,,,,Inhibition,=,20.61,%
+8,163324105,136274365,CCNC(=S)N/N=C\C1=CC(=CC(=C1O)/C=N\NC(=S)NCC)C(=O)OCC,Unspecified,,,,Inhibition,=,28.2,%
+9,163324106,136205829,C1=CC=C2C(=C1)NC(=N2)N/N=C/C3=C(C(=CC=C3)/C=N/NC4=NC5=CC=CC=C5N4)O,Unspecified,,,,Inhibition,=,31.9,%
+10,163327585,60194994,C1=CC=C(C=C1)CCCCNC(=O)C2=CC(=NC3=CC=CC=C32)/C=N/NC4=CC(=CC=C4)Br,Unspecified,,,,Inhibition,=,30.64,%
+11,163331087,136268773,CCOC(=O)C1=CC(=C(C(=C1)/C=N\NC(=S)N)O)/C=N\NC(=S)N,Unspecified,,,,Inhibition,=,24.42,%
+12,163334577,71460572,C1=CC=C(C=C1)CC/C=N\NC(=O)C2=CC(=NC3=CC=CC=C32)/C=N/NC4=CC=CC(=C4)C(F)(F)F,Unspecified,,,,Inhibition,=,20.95,%
+13,163334578,136205818,CCOC(=O)C1=CC(=C(C(=C1)/C=N/NC(=O)NC2=CC=CC=C2)O)/C=N/NC(=O)NC3=CC=CC=C3,Unspecified,,,,Inhibition,=,44.11,%
+14,163337979,136205810,CCOC(=O)C1=CC(=C(C(=C1)/C=N/N2C(=O)C3=CC=CC=C3C2=O)O)/C=N/N4C(=O)C5=CC=CC=C5C4=O,Unspecified,,,,Inhibition,=,27.98,%

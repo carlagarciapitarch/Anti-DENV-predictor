@@ -1,0 +1,15 @@
+PUBCHEM_RESULT_TAG,PUBCHEM_SID,PUBCHEM_CID,PUBCHEM_EXT_DATASOURCE_SMILES,PUBCHEM_ACTIVITY_OUTCOME,PUBCHEM_ACTIVITY_SCORE,PUBCHEM_ACTIVITY_URL,PUBCHEM_ASSAYDATA_COMMENT,PubChem Standard Value,Standard Type,Standard Relation,Standard Value,Standard Units,Data Validity Comment
+RESULT_TYPE,,,,,,,,FLOAT,STRING,STRING,FLOAT,STRING,STRING
+RESULT_DESCR,,,,,,,,PubChem standardized value transformed from 'Standard Value'. The unit is always micromolar,Standardized activity type (e.g. IC50 rather than Ic-50/Ic50/ic50/ic-50),"Qualifier (e.g. >, <, =) for 'Standard Value'",Standardized activity value transformed to common units: e.g. mM concentrations converted to nM,Selected units for 'Standard Type': e.g. concentrations are in nM,Comment reflecting whether the values for this activity measurement are likely to be correct
+RESULT_UNIT,,,,,,,,MICROMOLAR,,,,,
+RESULT_IS_ACTIVE_CONCENTRATION,,,,,,,,TRUE,,,,,
+RESULT_IS_ACTIVE_CONCENTRATION_QUALIFIER,,,,,,,,,,TRUE,,,
+1,104252876,520822,C1=CC(=C(C=C1C(F)(F)F)N)N,Unspecified,,,,9000,IC50,=,9e+06,nM,
+2,242624425,2801468,CC1=CC(=C(C=C1Cl)N)N,Unspecified,,,,9300,IC50,=,9.3e+06,nM,
+3,374265748,122197562,C1=CC(=CC(=C1)S(=O)(=O)NC2=CC=C(C=C2)C(=O)O)NC(=O)NC3=C(C=C(C=C3)Cl)N,Unspecified,,,,452,IC50,=,452000,nM,Outside typical range
+4,374274038,134133625,C1=CC(=CC(=C1)S(=O)(=O)NC2=CC=C(C=C2)C(=O)O)NC(=O)NC3=C(C=C(C=C3)C(F)(F)F)N,Unspecified,,,,91,IC50,=,91000,nM,
+5,374293129,75316,CC1=CC(=C(C=C1)C(=O)O)N,Unspecified,,,,2800,IC50,=,2.8e+06,nM,
+6,374318076,134145727,C1=CC(=CC=C1C(=O)O)NS(=O)(=O)C2=CC=C(C=C2)NC(=O)NC3=C(C=C(C=C3)C(F)(F)F)N,Unspecified,,,,110,IC50,=,110000,nM,Outside typical range
+7,374340288,134151968,C1=CC(=CC=C1C(=O)O)NS(=O)(=O)C2=CC=C(C=C2)NC(=O)NC3=C(C=C(C=C3)Cl)N,Unspecified,,,,435,IC50,=,435000,nM,Outside typical range
+8,374348399,134154289,C1=CC(=CC=C1C(=O)O)OS(=O)(=O)C2=CC=C(C=C2)NC(=O)NC3=C(C=C(C=C3)Cl)N,Unspecified,,,,368,IC50,=,368000,nM,Outside typical range
+9,374353161,122197561,C1=CC(=CC(=C1)S(=O)(=O)OC2=CC=C(C=C2)C(=O)O)NC(=O)NC3=C(C=C(C=C3)Cl)N,Unspecified,,,,369,IC50,=,369000,nM,Outside typical range

@@ -1,0 +1,15 @@
+PUBCHEM_RESULT_TAG,PUBCHEM_SID,PUBCHEM_CID,PUBCHEM_EXT_DATASOURCE_SMILES,PUBCHEM_ACTIVITY_OUTCOME,PUBCHEM_ACTIVITY_SCORE,PUBCHEM_ACTIVITY_URL,PUBCHEM_ASSAYDATA_COMMENT,Standard Type,Standard Relation,Standard Value,Standard Units
+RESULT_TYPE,,,,,,,,STRING,STRING,FLOAT,STRING
+RESULT_DESCR,,,,,,,,Standardized activity type (e.g. IC50 rather than Ic-50/Ic50/ic50/ic-50),"Qualifier (e.g. >, <, =) for 'Standard Value'",Standardized activity value transformed to common units: e.g. mM concentrations converted to nM,Selected units for 'Standard Type': e.g. concentrations are in nM
+1,336887579,127038506,C1=CSC(=C1)C(=O)N[C@@H](CCCN=C(N)N)C(=O)N[C@@H](CCCCN)C(=O)N[C@H](C2=CC=C(C=C2)OCC3=CC=C(C=C3)C(F)(F)F)C(=O)N,Unspecified,,,,Retention_time,=,3.15,min
+2,336887973,127038827,C1=CC=C(C=C1)COC2=CC=C(C=C2)[C@H](C(=O)N)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCN=C(N)N)NC(=O)C3=CC4=CC=CC=C4S3,Unspecified,,,,Retention_time,=,3.13,min
+3,336888035,127038866,CC(C)(C)C1=CC=C(C=C1)COC2=CC=C(C=C2)[C@H](C(=O)N)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCN=C(N)N)NC(=O)C3=CC=C(S3)Cl,Unspecified,,,,Retention_time,=,3.34,min
+4,336888460,127039186,C1=CC(=CC=C1COC2=CC=C(C=C2)[C@H](C(=O)N)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCN=C(N)N)NC(=O)C3=CC4=C(S3)SC=C4)C(F)(F)F,Unspecified,,,,Retention_time,=,3.39,min
+5,336888461,127039187,C1=CC=C2C(=C1)C=C(S2)C(=O)N[C@@H](CCCN=C(N)N)C(=O)N[C@@H](CCCCN)C(=O)N[C@H](C3=CC=C(C=C3)OCC4=CC=C(C=C4)C(F)(F)F)C(=O)N,Unspecified,,,,Retention_time,=,3.47,min
+6,336889294,127039816,C1=CC(=CC=C1COC2=CC=C(C=C2)[C@H](C(=O)N)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCN=C(N)N)NC(=O)C3=NC=CS3)C(F)(F)F,Unspecified,,,,Retention_time,=,3.11,min
+7,336889295,127039817,COC1=CC=CC(=C1)COC2=CC=C(C=C2)[C@H](C(=O)N)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCN=C(N)N)NC(=O)C3=CC=CS3,Unspecified,,,,Retention_time,=,2.71,min
+8,336889726,127040160,C1=CSC(=C1)C(=O)N[C@@H](CCCN=C(N)N)C(=O)N[C@@H](CCCCN)C(=O)N[C@H](C2=CC=C(C=C2)OCC3=CC(=C(C=C3)Cl)Cl)C(=O)N,Unspecified,,,,Retention_time,=,3.22,min
+9,336889729,127040163,C1=CC(=C(C(=C1)Cl)COC2=CC=C(C=C2)[C@H](C(=O)N)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCN=C(N)N)NC(=O)C3=CC4=C(S3)C=CS4)Cl,Unspecified,,,,Retention_time,=,3.28,min
+10,336890152,127040513,COC1=CC=CC(=C1)COC2=CC=C(C=C2)[C@H](C(=O)N)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCN=C(N)N)NC(=O)C3=CC=C(S3)C4=CC=CS4,Unspecified,,,,Retention_time,=,3.28,min
+11,336890153,127040514,C1=CSC(=C1)C2=CC=C(S2)C(=O)N[C@@H](CCCN=C(N)N)C(=O)N[C@@H](CCCCN)C(=O)N[C@H](C3=CC=C(C=C3)OCC4=CC(=C(C=C4)Cl)Cl)C(=O)N,Unspecified,,,,Retention_time,=,3.6,min
+12,336893536,127042988,C1=CC=C(C=C1)COC2=CC=C(C=C2)[C@H](C(=O)N)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCN=C(N)N)NC(=O)C3=CC=CC=C3,Unspecified,,,,Retention_time,=,2.83,min

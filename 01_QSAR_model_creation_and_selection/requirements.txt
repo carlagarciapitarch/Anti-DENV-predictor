@@ -1,0 +1,133 @@
+absl-py==2.4.0
+annotated-doc==0.0.4
+annotated-types==0.8.0
+anyio==4.14.2
+asttokens==3.0.1
+biopython==1.87
+CachedMethods==0.1.4
+certifi==2026.2.25
+CGRtools==4.0.41
+charset-normalizer==3.4.5
+CIMtools==4.0.8
+click==8.4.2
+cloudpickle @ file:///home/task_176493044812725/conda-bld/cloudpickle_1764930461965/work
+cmapPy==4.0.1
+comm==0.2.3
+contourpy @ file:///home/task_176364358398678/conda-bld/contourpy_1763643923238/work
+cycler @ file:///home/task_176606792107398/croot/cycler_1766067942240/work
+debugpy==1.8.20
+decorator==5.2.1
+detect-installer==0.1.0
+dnspython==2.8.0
+email-validator==2.3.0
+et_xmlfile @ file:///croot/et_xmlfile_1756462486635/work
+executing==2.2.1
+fastapi==0.139.2
+fastapi-cli==0.0.32
+fastapi-cloud-cli==0.22.2
+fastar==0.11.0
+filelock==3.29.0
+fonttools @ file:///home/task_177425656160545/croot/fonttools_1774256591114/work
+fsspec==2026.4.0
+grpcio==1.80.0
+h11==0.16.0
+h5py==3.16.0
+httpcore==1.0.9
+httptools==0.8.0
+httpx==0.28.1
+idna==3.11
+igraph==1.0.0
+ipykernel==6.31.0
+ipython==8.39.0
+itsdangerous==2.2.0
+jedi==0.19.2
+Jinja2==3.1.6
+joblib @ file:///home/conda/feedstock_root/build_artifacts/joblib_1765794027227/work
+jupyter_client==8.8.0
+jupyter_core==5.9.1
+kiwisolver @ file:///home/task_176415927184728/conda-bld/kiwisolver_1764159298260/work
+llvmlite @ file:///home/task_177546926491521/croot/llvmlite_1775469291483/work
+lxml==6.1.0
+Markdown==3.10.2
+markdown-it-py==4.2.0
+MarkupSafe==3.0.3
+matplotlib==3.10.8
+matplotlib-inline==0.2.1
+mdurl==0.1.2
+mordredcommunity==2.0.7
+mpmath==1.3.0
+nest-asyncio==1.6.0
+networkx==2.8.8
+numba @ file:///home/task_177555772543485/croot/numba_1775557756986/work
+numpy==1.26.4
+openpyxl @ file:///croot/openpyxl_1736366913861/work
+p2smi==1.1.1
+packaging @ file:///home/task_176104874243446/conda-bld/packaging_1761049080023/work
+pandas==3.0.1
+parso==0.8.6
+pexpect==4.9.0
+pillow @ file:///home/task_177247536746608/croot/pillow_1772475415073/work
+platformdirs==4.9.4
+prompt_toolkit==3.0.52
+protobuf==7.34.1
+psutil==7.2.2
+ptyprocess==0.7.0
+pure_eval==0.2.3
+pydantic==2.13.4
+pydantic-extra-types==2.11.1
+pydantic-settings==2.14.2
+pydantic_core==2.46.4
+Pygments==2.20.0
+pyjnius==1.7.0
+pyparsing @ file:///home/task_176397389694487/conda-bld/pyparsing_1763973908808/work
+pyPept @ git+https://github.com/Boehringer-Ingelheim/pyPept.git@4214ca54c0d0e3cb0a15b906bf04955108898ab1
+PyQt6==6.10.2
+PyQt6_sip @ file:///home/task_177247745577496/croot/pyqt-split_1772477503697/work/pyqt_sip
+python-dateutil @ file:///croot/python-dateutil_1716495738603/work
+python-dotenv==1.2.2
+python-multipart==0.0.32
+PyYAML==6.0.3
+pyzmq==27.1.0
+rdkit==2025.9.6
+requests==2.32.5
+rich==15.0.0
+rich-toolkit==0.20.3
+rignore==0.8.0
+scikit-learn @ file:///home/conda/feedstock_root/build_artifacts/bld/rattler-build_scikit-learn_1765801245/work/dist/scikit_learn-1.8.0-cp312-cp312-linux_x86_64.whl#sha256=52bcc2137fa95cf1c42b9ba0e99697e403fcf95c9e2289651f38cbb3eae42a70
+scipy @ file:///home/conda/feedstock_root/build_artifacts/scipy-split_1771879143114/work/dist/scipy-1.17.1-cp312-cp312-linux_x86_64.whl#sha256=141f721c574c72812b8184918c7a44890af730e8cea9be70bb2be8428a2b6f25
+sentry-sdk==2.66.1
+setuptools==80.10.2
+shap @ file:///home/task_177461177333246/croot/shap_1774612540430/work
+shellingham==1.5.4
+sip @ file:///home/task_177080696340261/croot/sip_1770807533821/work
+six @ file:///croot/six_1744271502820/work
+slicer @ file:///home/task_177425896876231/croot/slicer_1774259007845/work
+spyder-kernels==2.5.2
+stack-data==0.6.3
+starlette==1.3.1
+sympy==1.14.0
+tensorboard==2.20.0
+tensorboard-data-server==0.7.2
+texttable==1.7.0
+threadpoolctl @ file:///home/conda/feedstock_root/build_artifacts/threadpoolctl_1741878222898/work
+torch==2.12.0+cpu
+torchsummary==1.5.1
+torchvision==0.27.0+cpu
+tornado @ file:///home/task_177430343901755/croot/tornado_1774303628178/work
+tqdm @ file:///home/task_177139829076527/croot/tqdm_1771398703645/work
+traitlets==5.14.3
+typer==0.27.0
+typing-inspection==0.4.2
+typing_extensions @ file:///croot/typing_extensions_1756280817316/work
+UpSetPlot==0.9.0
+urllib3==2.6.3
+uvicorn==0.51.0
+uvloop==0.22.1
+venn==0.1.3
+watchfiles==1.2.0
+wcwidth==0.6.0
+websockets==16.1.1
+Werkzeug==3.1.8
+wheel==0.46.3
+wurlitzer==3.1.1
+xgboost @ file:///home/task_177465307606770/croot/xgboost-split_1774653112985/work/python-package

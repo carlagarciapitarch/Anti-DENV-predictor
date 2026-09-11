@@ -1,0 +1,18 @@
+PUBCHEM_RESULT_TAG,PUBCHEM_SID,PUBCHEM_CID,PUBCHEM_EXT_DATASOURCE_SMILES,PUBCHEM_ACTIVITY_OUTCOME,PUBCHEM_ACTIVITY_SCORE,PUBCHEM_ACTIVITY_URL,PUBCHEM_ASSAYDATA_COMMENT,PubChem Standard Value,Standard Type,Standard Relation,Standard Value,Standard Units
+RESULT_TYPE,,,,,,,,FLOAT,STRING,STRING,FLOAT,STRING
+RESULT_DESCR,,,,,,,,PubChem standardized value transformed from 'Standard Value'. The unit is always micromolar,Standardized activity type (e.g. IC50 rather than Ic-50/Ic50/ic50/ic-50),"Qualifier (e.g. >, <, =) for 'Standard Value'",Standardized activity value transformed to common units: e.g. mM concentrations converted to nM,Selected units for 'Standard Type': e.g. concentrations are in nM
+RESULT_UNIT,,,,,,,,MICROMOLAR,,,,
+RESULT_IS_ACTIVE_CONCENTRATION,,,,,,,,TRUE,,,,
+RESULT_IS_ACTIVE_CONCENTRATION_QUALIFIER,,,,,,,,,,TRUE,,
+1,103567492,501640,CCCCCCCCCN1C[C@@H]([C@H]([C@@H]([C@H]1CO)O)O)O,Active,,,,3.3,EC90,=,3.3,uM
+2,103567492,501640,CCCCCCCCCN1C[C@@H]([C@H]([C@@H]([C@H]1CO)O)O)O,Active,,,,1.1,EC50,=,1100,nM
+3,124956527,16066800,C1CCC(CC1)(CCCCCN2C[C@@H]([C@H]([C@@H]([C@H]2CO)O)O)O)O,Active,,,,8.7,EC90,=,8.7,uM
+4,124956527,16066800,C1CCC(CC1)(CCCCCN2C[C@@H]([C@H]([C@@H]([C@H]2CO)O)O)O)O,Active,,,,4,EC50,=,4000,nM
+5,124963141,52936275,C[C@@H]1CCCCC1OCCCCCCN2C[C@@H]([C@H]([C@@H]([C@H]2CO)O)O)O,Active,,,,0.6,EC90,=,0.6,uM
+6,124963141,52936275,C[C@@H]1CCCCC1OCCCCCCN2C[C@@H]([C@H]([C@@H]([C@H]2CO)O)O)O,Active,,,,0.075,EC50,=,75,nM
+7,124969775,45137165,CC1=CC(=C(C=C1)C)OCCCCCCN2C[C@@H]([C@H]([C@@H]([C@H]2CO)O)O)O,Active,,,,0.6,EC90,=,0.6,uM
+8,124969775,45137165,CC1=CC(=C(C=C1)C)OCCCCCCN2C[C@@H]([C@H]([C@@H]([C@H]2CO)O)O)O,Active,,,,0.1,EC50,=,100,nM
+9,124972378,53324749,C[C@@H]1CC[C@H](C(C1)OCCCCCCN2C[C@@H]([C@H]([C@@H]([C@H]2CO)O)O)O)C(C)C,Active,,,,0.2,EC90,=,0.2,uM
+10,124972378,53324749,C[C@@H]1CC[C@H](C(C1)OCCCCCCN2C[C@@H]([C@H]([C@@H]([C@H]2CO)O)O)O)C(C)C,Active,,,,0.1,EC50,=,100,nM
+11,124974965,45137161,CC1CCC(CC1)OCCCCCCN2C[C@@H]([C@H]([C@@H]([C@H]2CO)O)O)O,Active,,,,6.75,EC50,=,6750,nM
+12,124974965,45137161,CC1CCC(CC1)OCCCCCCN2C[C@@H]([C@H]([C@@H]([C@H]2CO)O)O)O,Unspecified,,,,13,EC90,=,13,uM

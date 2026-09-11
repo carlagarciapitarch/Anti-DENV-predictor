@@ -1,0 +1,25 @@
+PUBCHEM_RESULT_TAG,PUBCHEM_SID,PUBCHEM_CID,PUBCHEM_EXT_DATASOURCE_SMILES,PUBCHEM_ACTIVITY_OUTCOME,PUBCHEM_ACTIVITY_SCORE,PUBCHEM_ACTIVITY_URL,PUBCHEM_ASSAYDATA_COMMENT,Standard Type,Standard Relation,Standard Value,Standard Units
+RESULT_TYPE,,,,,,,,STRING,STRING,FLOAT,STRING
+RESULT_DESCR,,,,,,,,Standardized activity type (e.g. IC50 rather than Ic-50/Ic50/ic50/ic-50),"Qualifier (e.g. >, <, =) for 'Standard Value'",Standardized activity value transformed to common units: e.g. mM concentrations converted to nM,Selected units for 'Standard Type': e.g. concentrations are in nM
+1,312358931,118714511,C1=CC=C(C=C1)[C@@H](C(=O)N)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCN=C(N)N)NC(=O)C2=CC=CC=C2,Unspecified,,,,Inhibition,<=,5,%
+2,336888859,127039493,C1=CC=C(C=C1)[C@H](C(=O)N)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCN=C(N)N)NC(=O)C2=CC=CC=C2,Unspecified,,,,Inhibition,=,12.5,%
+3,336893536,127042988,C1=CC=C(C=C1)COC2=CC=C(C=C2)[C@H](C(=O)N)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCN=C(N)N)NC(=O)C3=CC=CC=C3,Unspecified,,,,Inhibition,=,18.4,%
+4,440112194,155512141,C1=CC=C(C=C1)[C@H](C(=O)N)NC(=O)CN(CCCCN)C(=O)[C@H](CCCN=C(N)N)NC(=O)C2=CC=CC=C2,Unspecified,,,,Inhibition,=,10.6,%
+5,440114142,155513431,CCC(C1=CC=CC=C1)(C(=O)N)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCN=C(N)N)NC(=O)C2=CC=CC=C2,Unspecified,,,,Inhibition,=,8.7,%
+6,440117802,155515844,C1=CC=C(C=C1)[C@H](C(=O)N)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCN=C(N)N)N[C@@H](C2=CC=CC=C2)C(F)(F)F,Unspecified,,,,Inhibition,<=,5,%
+7,440140794,155530803,CC(C1=CC=CC=C1)(C(=O)N)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCN=C(N)N)NC(=O)C2=CC=CC=C2,Unspecified,,,,Inhibition,<=,5,%
+8,440144322,155533121,C1=CC=C(C=C1)[C@H](C(=O)N)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCN=C(N)N)N[C@H](C2=CC=CC=C2)C(F)(F)F,Unspecified,,,,Inhibition,<=,5,%
+9,440145318,155533808,CN([C@H](C1=CC=CC=C1)C(=O)N)C(=O)[C@H](CCCCN)NC(=O)[C@H](CCCN=C(N)N)NC(=O)C2=CC=CC=C2,Unspecified,,,,Inhibition,<=,5,%
+10,440145644,155534021,C[C@@](C1=CC=CC=C1)(C(=O)N)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCN=C(N)N)NC(=O)C2=CC=CC=C2,Unspecified,,,,Inhibition,=,11.8,%
+11,440145652,155534027,C1=CC=C(C=C1)[C@H](C(=O)N)NC(=O)C[C@H](CCCCN)NC(=O)[C@H](CCCN=C(N)N)NC(=O)C2=CC=CC=C2,Unspecified,,,,Inhibition,<=,5,%
+12,440146653,155534703,C1=CC=C(C=C1)C(=O)N[C@@H](CCCN=C(N)N)C(=O)N[C@@H](CCCCN)C(=O)N(CC(=O)N)C2=CC=CC=C2,Unspecified,,,,Inhibition,<=,5,%
+13,440149906,155536763,C[C@@](C1=CC=CC=C1)(C(=O)N)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCN=C(N)N)N(C)C(=O)C2=CC=CC=C2,Unspecified,,,,Inhibition,=,10.9,%
+14,440151939,155538123,CN([C@@H](CCCCN)C(=O)N[C@H](C1=CC=CC=C1)C(=O)N)C(=O)[C@H](CCCN=C(N)N)NC(=O)C2=CC=CC=C2,Unspecified,,,,Inhibition,<=,5,%
+15,440159940,155541714,C1=CC=C(C=C1)[C@H](C(=O)N)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCN=C(N)N)NC(=O)C(=O)C2=CC=CC=C2,Unspecified,,,,Inhibition,=,33.5,%
+16,440160033,155541751,C[C@](C1=CC=CC=C1)(C(=O)N)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCN=C(N)N)NC(=O)C2=CC=CC=C2,Unspecified,,,,Inhibition,=,20.7,%
+17,440166083,155544199,C1=CC=C(C=C1)[C@H](C(=O)N)NC(=O)[C@H](CCCCN)NC(=O)CN(CCCN=C(N)N)C(=O)C2=CC=CC=C2,Unspecified,,,,Inhibition,<=,5,%
+18,440169175,155545415,C1=CC=C(C=C1)[C@H](CC(=O)N)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCN=C(N)N)NC(=O)C2=CC=CC=C2,Unspecified,,,,Inhibition,=,7.5,%
+19,440188366,155553086,CN([C@@H](CCCN=C(N)N)C(=O)N[C@@H](CCCCN)C(=O)N[C@H](C1=CC=C(C=C1)OCC2=CC=CC=C2)C(=O)N)C(=O)C3=CC=CC=C3,Unspecified,,,,Inhibition,<=,5,%
+20,440204229,155559399,CN([C@@H](CCCN=C(N)N)C(=O)N[C@@H](CCCCN)C(=O)N[C@H](C1=CC=CC=C1)C(=O)N)C(=O)C2=CC=CC=C2,Unspecified,,,,Inhibition,<=,5,%
+21,440208711,155561134,C1=CC=C(C=C1)C(=O)N[C@@H](CCCN=C(N)N)C(=O)N[C@@H](CCCCN)C(=O)NC(C2=CC=CC=C2)(C3=CC=CC=C3)C(=O)N,Unspecified,,,,Inhibition,=,45.5,%
+22,440224202,155567266,C1=CC=C(C=C1)C(=O)N[C@@H](CCCN=C(N)N)C(=O)N[C@@H](CCCCN)CC(=O)N(CC(=O)N)C2=CC=CC=C2,Unspecified,,,,Inhibition,<=,5,%

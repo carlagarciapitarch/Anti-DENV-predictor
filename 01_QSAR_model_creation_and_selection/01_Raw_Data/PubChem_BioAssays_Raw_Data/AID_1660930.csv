@@ -1,0 +1,13 @@
+PUBCHEM_RESULT_TAG,PUBCHEM_SID,PUBCHEM_CID,PUBCHEM_EXT_DATASOURCE_SMILES,PUBCHEM_ACTIVITY_OUTCOME,PUBCHEM_ACTIVITY_SCORE,PUBCHEM_ACTIVITY_URL,PUBCHEM_ASSAYDATA_COMMENT,Standard Type,Standard Relation,Standard Value,Standard Units
+RESULT_TYPE,,,,,,,,STRING,STRING,FLOAT,STRING
+RESULT_DESCR,,,,,,,,Standardized activity type (e.g. IC50 rather than Ic-50/Ic50/ic50/ic-50),"Qualifier (e.g. >, <, =) for 'Standard Value'",Standardized activity value transformed to common units: e.g. mM concentrations converted to nM,Selected units for 'Standard Type': e.g. concentrations are in nM
+1,336893536,127042988,C1=CC=C(C=C1)COC2=CC=C(C=C2)[C@H](C(=O)N)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCN=C(N)N)NC(=O)C3=CC=CC=C3,Unspecified,,,,Inhibition,=,52.3,%
+2,442047568,156010306,C1=CC=C(C=C1)COC2=CC=C(C=C2)[C@@H](C(=O)NCC3=CC=C(C=C3)N=C(N)N)NC(=O)C4=CC=C(C=C4)OC5=CC=CC=C5.C(=O)(C(F)(F)F)O,Unspecified,,,,Inhibition,=,80.5,%
+3,442047738,156010437,CCCCCCC(=O)N[C@@H](C1=CC=C(C=C1)OCC2=CC=CC=C2)C(=O)NCC3=CC=C(C=C3)N=C(N)N.C(=O)(C(F)(F)F)O,Unspecified,,,,Inhibition,=,81,%
+4,442048167,156010749,CCCCCC(=O)N[C@@H](C1=CC=C(C=C1)OCC2=CC=CC=C2)C(=O)NCC3=CN=C(C=C3)N=C(N)N.C(=O)(C(F)(F)F)O,Unspecified,,,,Inhibition,=,31.5,%
+5,442049753,156011928,C1=CC=C(C=C1)COC2=CC=C(C=C2)[C@@H](C(=O)NCC3=CC=C(C=C3)N=C(N)N)NC(=O)C4=CC=C(C=C4)C5=CC=C(C=C5)Cl.C(=O)(C(F)(F)F)O,Unspecified,,,,Inhibition,=,79.9,%
+6,442051694,156013315,COC1=CC=CC(=C1)COC2=CC=C(C=C2)C(=O)N[C@@H](C3=CC=C(C=C3)OCC4=CC=CC=C4)C(=O)NCC5=CC=C(C=C5)N=C(N)N.C(=O)(C(F)(F)F)O,Unspecified,,,,Inhibition,=,21.9,%
+7,442060775,156019663,C1CCC(CC1)OC2=CC=C(C=C2)C(=O)N[C@@H](C3=CC=C(C=C3)OCC4=CC=CC=C4)C(=O)NCC5=CC=C(C=C5)N=C(N)N.C(=O)(C(F)(F)F)O,Unspecified,,,,Inhibition,=,72.6,%
+8,442061420,156020107,C1=CC=C(C=C1)COC2=CC=C(C=C2)[C@@H](C(=O)NCC3=CC=C(C=C3)N=C(N)N)NC(=O)C4=CC=C(C=C4)OCC5=CC=CC=C5.C(=O)(C(F)(F)F)O,Unspecified,,,,Inhibition,=,27.4,%
+9,442064609,156022260,CCCCCC(=O)N[C@@H](C1=CC=C(C=C1)OCC2=CC=C(C=C2)C(F)(F)F)C(=O)NCC3=CC=C(C=C3)N=C(N)N.C(=O)(C(F)(F)F)O,Unspecified,,,,Inhibition,=,60.3,%
+10,461563607,162677490,CCCCCC(=O)N[C@@H](C1=CC=C(C=C1)OCC2=CC=CC=C2)C(=O)NCC3=CC=C(C=C3)CN=C(N)N.C(=O)(C(F)(F)F)O,Unspecified,,,,Inhibition,=,79.5,%

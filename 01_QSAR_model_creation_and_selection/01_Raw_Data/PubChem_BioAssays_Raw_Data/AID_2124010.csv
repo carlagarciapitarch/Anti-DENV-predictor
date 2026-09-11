@@ -1,0 +1,211 @@
+PUBCHEM_RESULT_TAG,PUBCHEM_SID,PUBCHEM_CID,PUBCHEM_EXT_DATASOURCE_SMILES,PUBCHEM_ACTIVITY_OUTCOME,PUBCHEM_ACTIVITY_SCORE,PUBCHEM_ACTIVITY_URL,PUBCHEM_ASSAYDATA_COMMENT,Standard Type,Standard Relation,Standard Value,Standard Units,Data Validity Comment
+RESULT_TYPE,,,,,,,,STRING,STRING,FLOAT,STRING,STRING
+RESULT_DESCR,,,,,,,,Standardized activity type (e.g. IC50 rather than Ic-50/Ic50/ic50/ic-50),"Qualifier (e.g. >, <, =) for 'Standard Value'",Standardized activity value transformed to common units: e.g. mM concentrations converted to nM,Selected units for 'Standard Type': e.g. concentrations are in nM,Comment reflecting whether the values for this activity measurement are likely to be correct
+1,242194387,3248847,C1=CC=C2C(=C1)N=CC(=N2)SCC3=CN4C=CC=CC4=N3,Unspecified,,,,Inhibition,=,30.91,%,
+2,242194387,3248847,C1=CC=C2C(=C1)N=CC(=N2)SCC3=CN4C=CC=CC4=N3,Unspecified,,,,Inhibition,=,7.184,%,
+3,242194387,3248847,C1=CC=C2C(=C1)N=CC(=N2)SCC3=CN4C=CC=CC4=N3,Unspecified,,,,Inhibition,=,10.21,%,
+4,242194387,3248847,C1=CC=C2C(=C1)N=CC(=N2)SCC3=CN4C=CC=CC4=N3,Unspecified,,,,Inhibition,=,-5.606,%,
+5,336889294,127039816,C1=CC(=CC=C1COC2=CC=C(C=C2)[C@H](C(=O)N)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCN=C(N)N)NC(=O)C3=NC=CS3)C(F)(F)F,Unspecified,,,,Inhibition (mean),=,89.52,%,
+6,336889294,127039816,C1=CC(=CC=C1COC2=CC=C(C=C2)[C@H](C(=O)N)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCN=C(N)N)NC(=O)C3=NC=CS3)C(F)(F)F,Unspecified,,,,Inhibition (mean),=,69.82,%,
+7,336889294,127039816,C1=CC(=CC=C1COC2=CC=C(C=C2)[C@H](C(=O)N)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCN=C(N)N)NC(=O)C3=NC=CS3)C(F)(F)F,Unspecified,,,,Inhibition (mean),=,36.55,%,
+8,336889294,127039816,C1=CC(=CC=C1COC2=CC=C(C=C2)[C@H](C(=O)N)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCN=C(N)N)NC(=O)C3=NC=CS3)C(F)(F)F,Unspecified,,,,Inhibition (mean),=,12.5,%,
+9,336889294,127039816,C1=CC(=CC=C1COC2=CC=C(C=C2)[C@H](C(=O)N)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCN=C(N)N)NC(=O)C3=NC=CS3)C(F)(F)F,Unspecified,,,,Inhibition (mean),=,-3.849,%,
+10,336889294,127039816,C1=CC(=CC=C1COC2=CC=C(C=C2)[C@H](C(=O)N)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCN=C(N)N)NC(=O)C3=NC=CS3)C(F)(F)F,Unspecified,,,,Inhibition (mean),=,-14.72,%,
+11,374296293,134139660,B([C@H](CCCN=C(N)N)NC(=O)[C@H](CC1=CC=C(C=C1)CN)NC(=O)C2=CC=CC=C2)(O)O,Unspecified,,,,Inhibition (mean),=,98.46,%,
+12,374296293,134139660,B([C@H](CCCN=C(N)N)NC(=O)[C@H](CC1=CC=C(C=C1)CN)NC(=O)C2=CC=CC=C2)(O)O,Unspecified,,,,Inhibition (mean),=,97.38,%,
+13,374296293,134139660,B([C@H](CCCN=C(N)N)NC(=O)[C@H](CC1=CC=C(C=C1)CN)NC(=O)C2=CC=CC=C2)(O)O,Unspecified,,,,Inhibition (mean),=,91.6,%,
+14,374296293,134139660,B([C@H](CCCN=C(N)N)NC(=O)[C@H](CC1=CC=C(C=C1)CN)NC(=O)C2=CC=CC=C2)(O)O,Unspecified,,,,Inhibition (mean),=,73.16,%,
+15,374296293,134139660,B([C@H](CCCN=C(N)N)NC(=O)[C@H](CC1=CC=C(C=C1)CN)NC(=O)C2=CC=CC=C2)(O)O,Unspecified,,,,Inhibition (mean),=,39.2,%,
+16,374296293,134139660,B([C@H](CCCN=C(N)N)NC(=O)[C@H](CC1=CC=C(C=C1)CN)NC(=O)C2=CC=CC=C2)(O)O,Unspecified,,,,Inhibition (mean),=,13.16,%,
+17,469879910,136558582,C1CN(CCC1C2=CC=CC=N2)CC3=CC4=NC=CN=C4C=C3,Unspecified,,,,Inhibition,=,-1.294,%,
+18,469879910,136558582,C1CN(CCC1C2=CC=CC=N2)CC3=CC4=NC=CN=C4C=C3,Unspecified,,,,Inhibition,=,-6.132,%,
+19,469879910,136558582,C1CN(CCC1C2=CC=CC=N2)CC3=CC4=NC=CN=C4C=C3,Unspecified,,,,Inhibition,=,3.525,%,
+20,469879910,136558582,C1CN(CCC1C2=CC=CC=N2)CC3=CC4=NC=CN=C4C=C3,Unspecified,,,,Inhibition,=,-8.132,%,
+21,494426908,132305662,C1CN(CCN1CC2=CC3=C(C=C2)C=NN3)C4=NC=CC5=C4C=CS5,Unspecified,,,,Inhibition,=,-0.953,%,
+22,494426908,132305662,C1CN(CCN1CC2=CC3=C(C=C2)C=NN3)C4=NC=CC5=C4C=CS5,Unspecified,,,,Inhibition,=,-13.31,%,Outside typical range
+23,494426908,132305662,C1CN(CCN1CC2=CC3=C(C=C2)C=NN3)C4=NC=CC5=C4C=CS5,Unspecified,,,,Inhibition,=,8.61,%,
+24,494426908,132305662,C1CN(CCN1CC2=CC3=C(C=C2)C=NN3)C4=NC=CC5=C4C=CS5,Unspecified,,,,Inhibition,=,-15.01,%,Outside typical range
+25,520054135,57920419,C1=CC2=C(C(=C(S2)C(=O)O)Br)N=C1,Unspecified,,,,Inhibition,=,2.093,%,
+26,520054135,57920419,C1=CC2=C(C(=C(S2)C(=O)O)Br)N=C1,Unspecified,,,,Inhibition,=,-10.53,%,Outside typical range
+27,520054135,57920419,C1=CC2=C(C(=C(S2)C(=O)O)Br)N=C1,Unspecified,,,,Inhibition,=,12.01,%,
+28,520054135,57920419,C1=CC2=C(C(=C(S2)C(=O)O)Br)N=C1,Unspecified,,,,Inhibition,=,-8.71,%,
+29,520054139,121583691,C1=CC=C(C=C1)OCCS(=O)(=O)C2=NC=CS2,Unspecified,,,,Inhibition,=,-11.12,%,Outside typical range
+30,520054139,121583691,C1=CC=C(C=C1)OCCS(=O)(=O)C2=NC=CS2,Unspecified,,,,Inhibition,=,-11.35,%,Outside typical range
+31,520054139,121583691,C1=CC=C(C=C1)OCCS(=O)(=O)C2=NC=CS2,Unspecified,,,,Inhibition,=,-2.799,%,
+32,520054139,121583691,C1=CC=C(C=C1)OCCS(=O)(=O)C2=NC=CS2,Unspecified,,,,Inhibition,=,-5.023,%,
+33,520054167,128849760,CN1C(=NC=N1)SC2=NC(=NS2)C3CCCC3,Unspecified,,,,Inhibition,=,3.958,%,
+34,520054167,128849760,CN1C(=NC=N1)SC2=NC(=NS2)C3CCCC3,Unspecified,,,,Inhibition,=,-9.352,%,
+35,520054167,128849760,CN1C(=NC=N1)SC2=NC(=NS2)C3CCCC3,Unspecified,,,,Inhibition,=,5.267,%,
+36,520054167,128849760,CN1C(=NC=N1)SC2=NC(=NS2)C3CCCC3,Unspecified,,,,Inhibition,=,-3.657,%,
+37,520055915,97236396,C1=CSC(=C1)C2=NOC(=N2)C[S@](=O)C3=CC=CS3,Unspecified,,,,Inhibition,=,5.816,%,
+38,520055915,97236396,C1=CSC(=C1)C2=NOC(=N2)C[S@](=O)C3=CC=CS3,Unspecified,,,,Inhibition,=,-21.48,%,Outside typical range
+39,520055915,97236396,C1=CSC(=C1)C2=NOC(=N2)C[S@](=O)C3=CC=CS3,Unspecified,,,,Inhibition,=,3.976,%,
+40,520055915,97236396,C1=CSC(=C1)C2=NOC(=N2)C[S@](=O)C3=CC=CS3,Unspecified,,,,Inhibition,=,0.907,%,
+41,520056901,167966443,C1=C(N=CO1)CNCC2=CSC(=N2)C(F)(F)F,Unspecified,,,,Inhibition,=,-3.735,%,
+42,520056901,167966443,C1=C(N=CO1)CNCC2=CSC(=N2)C(F)(F)F,Unspecified,,,,Inhibition,=,-9.44,%,
+43,520056901,167966443,C1=C(N=CO1)CNCC2=CSC(=N2)C(F)(F)F,Unspecified,,,,Inhibition,=,1.673,%,
+44,520056901,167966443,C1=C(N=CO1)CNCC2=CSC(=N2)C(F)(F)F,Unspecified,,,,Inhibition,=,-15.22,%,Outside typical range
+45,520057908,121530707,C1CN(CCC1N2C=C(C=N2)Br)CC3=CSN=N3,Unspecified,,,,Inhibition,=,5.635,%,
+46,520057908,121530707,C1CN(CCC1N2C=C(C=N2)Br)CC3=CSN=N3,Unspecified,,,,Inhibition,=,-11.21,%,Outside typical range
+47,520057908,121530707,C1CN(CCC1N2C=C(C=N2)Br)CC3=CSN=N3,Unspecified,,,,Inhibition,=,5.64,%,
+48,520057908,121530707,C1CN(CCC1N2C=C(C=N2)Br)CC3=CSN=N3,Unspecified,,,,Inhibition,=,-3.217,%,
+49,520057914,130622986,CC1=NN=NN1CC2=NC=C(S2)Br,Unspecified,,,,Inhibition,=,-5.001,%,
+50,520057914,130622986,CC1=NN=NN1CC2=NC=C(S2)Br,Unspecified,,,,Inhibition,=,-12.18,%,Outside typical range
+51,520057914,130622986,CC1=NN=NN1CC2=NC=C(S2)Br,Unspecified,,,,Inhibition,=,-10.12,%,Outside typical range
+52,520057914,130622986,CC1=NN=NN1CC2=NC=C(S2)Br,Unspecified,,,,Inhibition,=,-13.51,%,Outside typical range
+53,520059020,72000161,C1=CC2=NC(=CC(=O)N2C=C1)CN3C=CC(=O)C4=C3C=CS4,Unspecified,,,,Inhibition,=,4.395,%,
+54,520059020,72000161,C1=CC2=NC(=CC(=O)N2C=C1)CN3C=CC(=O)C4=C3C=CS4,Unspecified,,,,Inhibition,=,-8.568,%,
+55,520059020,72000161,C1=CC2=NC(=CC(=O)N2C=C1)CN3C=CC(=O)C4=C3C=CS4,Unspecified,,,,Inhibition,=,3.864,%,
+56,520059020,72000161,C1=CC2=NC(=CC(=O)N2C=C1)CN3C=CC(=O)C4=C3C=CS4,Unspecified,,,,Inhibition,=,-1.761,%,
+57,520063582,137989751,COC1=CC2=C(C=C1)C(=O)NN2S(=O)(=O)C3=CC=C(C=C3)C(=O)O,Unspecified,,,,Inhibition,=,-6.382,%,
+58,520063582,137989751,COC1=CC2=C(C=C1)C(=O)NN2S(=O)(=O)C3=CC=C(C=C3)C(=O)O,Unspecified,,,,Inhibition,=,-21.24,%,Outside typical range
+59,520063582,137989751,COC1=CC2=C(C=C1)C(=O)NN2S(=O)(=O)C3=CC=C(C=C3)C(=O)O,Unspecified,,,,Inhibition,=,5.927,%,
+60,520063582,137989751,COC1=CC2=C(C=C1)C(=O)NN2S(=O)(=O)C3=CC=C(C=C3)C(=O)O,Unspecified,,,,Inhibition,=,-15.38,%,Outside typical range
+61,520063590,167791004,CC1=COC(=N1)SCC2=C(N=C(S2)OC)Cl,Unspecified,,,,Inhibition,=,12.21,%,
+62,520063590,167791004,CC1=COC(=N1)SCC2=C(N=C(S2)OC)Cl,Unspecified,,,,Inhibition,=,-6.965,%,
+63,520063590,167791004,CC1=COC(=N1)SCC2=C(N=C(S2)OC)Cl,Unspecified,,,,Inhibition,=,2.833,%,
+64,520063590,167791004,CC1=COC(=N1)SCC2=C(N=C(S2)OC)Cl,Unspecified,,,,Inhibition,=,-13.13,%,Outside typical range
+65,520063601,7889206,CC1=NN=C(O1)CSC2=NC=NC3=C2C=CS3,Unspecified,,,,Inhibition,=,54.96,%,
+66,520063601,7889206,CC1=NN=C(O1)CSC2=NC=NC3=C2C=CS3,Unspecified,,,,Inhibition,=,40.53,%,
+67,520063601,7889206,CC1=NN=C(O1)CSC2=NC=NC3=C2C=CS3,Unspecified,,,,Inhibition,=,30.9,%,
+68,520063601,7889206,CC1=NN=C(O1)CSC2=NC=NC3=C2C=CS3,Unspecified,,,,Inhibition,=,8.232,%,
+69,520065538,138005712,C1(=C(SC2=C1SN=N2)Br)C(=O)O,Unspecified,,,,Inhibition,=,4.971,%,
+70,520065538,138005712,C1(=C(SC2=C1SN=N2)Br)C(=O)O,Unspecified,,,,Inhibition,=,-5.551,%,
+71,520065538,138005712,C1(=C(SC2=C1SN=N2)Br)C(=O)O,Unspecified,,,,Inhibition,=,-5.365,%,
+72,520065538,138005712,C1(=C(SC2=C1SN=N2)Br)C(=O)O,Unspecified,,,,Inhibition,=,-3.569,%,
+73,520066694,129370177,C[S@@](=O)C1=NN=CN1CC2=CC=C(S2)Cl,Unspecified,,,,Inhibition,=,-6.665,%,
+74,520066694,129370177,C[S@@](=O)C1=NN=CN1CC2=CC=C(S2)Cl,Unspecified,,,,Inhibition,=,-21.8,%,Outside typical range
+75,520066694,129370177,C[S@@](=O)C1=NN=CN1CC2=CC=C(S2)Cl,Unspecified,,,,Inhibition,=,0.166,%,
+76,520066694,129370177,C[S@@](=O)C1=NN=CN1CC2=CC=C(S2)Cl,Unspecified,,,,Inhibition,=,-11.72,%,Outside typical range
+77,520067549,126816063,C1=CC=C(C=C1)C=CC2=NN(N=N2)CC3=CC=C(C=C3)C(=O)N,Unspecified,,,,Inhibition,=,12.66,%,
+78,520067549,126816063,C1=CC=C(C=C1)C=CC2=NN(N=N2)CC3=CC=C(C=C3)C(=O)N,Unspecified,,,,Inhibition,=,4.327,%,
+79,520067549,126816063,C1=CC=C(C=C1)C=CC2=NN(N=N2)CC3=CC=C(C=C3)C(=O)N,Unspecified,,,,Inhibition,=,8.504,%,
+80,520067549,126816063,C1=CC=C(C=C1)C=CC2=NN(N=N2)CC3=CC=C(C=C3)C(=O)N,Unspecified,,,,Inhibition,=,-4.901,%,
+81,520067574,135690425,C1=CC=C(C(=C1)SCC2=NC3=C(C(=O)N2)SC=C3)Cl,Unspecified,,,,Inhibition,=,25.99,%,
+82,520067574,135690425,C1=CC=C(C(=C1)SCC2=NC3=C(C(=O)N2)SC=C3)Cl,Unspecified,,,,Inhibition,=,-7.624,%,
+83,520067574,135690425,C1=CC=C(C(=C1)SCC2=NC3=C(C(=O)N2)SC=C3)Cl,Unspecified,,,,Inhibition,=,18,%,
+84,520067574,135690425,C1=CC=C(C(=C1)SCC2=NC3=C(C(=O)N2)SC=C3)Cl,Unspecified,,,,Inhibition,=,-5.284,%,
+85,520067588,71979618,C1=C(N=CS1)CN2C(=NC(=N2)Br)Br,Unspecified,,,,Inhibition,=,-1.339,%,
+86,520067588,71979618,C1=C(N=CS1)CN2C(=NC(=N2)Br)Br,Unspecified,,,,Inhibition,=,-9.566,%,
+87,520067588,71979618,C1=C(N=CS1)CN2C(=NC(=N2)Br)Br,Unspecified,,,,Inhibition,=,2.391,%,
+88,520067588,71979618,C1=C(N=CS1)CN2C(=NC(=N2)Br)Br,Unspecified,,,,Inhibition,=,-6.975,%,
+89,520068368,53520900,C1=NN=C(S1)SCCCSC2=NN=CS2,Unspecified,,,,Inhibition,=,-0.768,%,
+90,520068368,53520900,C1=NN=C(S1)SCCCSC2=NN=CS2,Unspecified,,,,Inhibition,=,-4.629,%,
+91,520068368,53520900,C1=NN=C(S1)SCCCSC2=NN=CS2,Unspecified,,,,Inhibition,=,-7.134,%,
+92,520068368,53520900,C1=NN=C(S1)SCCCSC2=NN=CS2,Unspecified,,,,Inhibition,=,-6.111,%,
+93,520069350,75511068,C1=CN2C=NN(C(=O)C2=C1)CC3=CN=C(S3)Cl,Unspecified,,,,Inhibition,=,7.352,%,
+94,520069350,75511068,C1=CN2C=NN(C(=O)C2=C1)CC3=CN=C(S3)Cl,Unspecified,,,,Inhibition,=,-0.072,%,
+95,520069350,75511068,C1=CN2C=NN(C(=O)C2=C1)CC3=CN=C(S3)Cl,Unspecified,,,,Inhibition,=,0.188,%,
+96,520069350,75511068,C1=CN2C=NN(C(=O)C2=C1)CC3=CN=C(S3)Cl,Unspecified,,,,Inhibition,=,-5.199,%,
+97,520069945,659961,C1CN(CCN1CC=CC2=CC=CC=C2)S(=O)(=O)C3=CC=CS3,Unspecified,,,,Inhibition,=,2.781,%,
+98,520069945,659961,C1CN(CCN1CC=CC2=CC=CC=C2)S(=O)(=O)C3=CC=CS3,Unspecified,,,,Inhibition,=,-8.178,%,
+99,520069945,659961,C1CN(CCN1CC=CC2=CC=CC=C2)S(=O)(=O)C3=CC=CS3,Unspecified,,,,Inhibition,=,21.77,%,
+100,520069945,659961,C1CN(CCN1CC=CC2=CC=CC=C2)S(=O)(=O)C3=CC=CS3,Unspecified,,,,Inhibition,=,-7.46,%,
+101,520070002,137932334,C1=C(C=NC=N1)OCC2=NN=C(S2)C(F)(F)F,Unspecified,,,,Inhibition,=,-8.015,%,
+102,520070002,137932334,C1=C(C=NC=N1)OCC2=NN=C(S2)C(F)(F)F,Unspecified,,,,Inhibition,=,-18.14,%,Outside typical range
+103,520070002,137932334,C1=C(C=NC=N1)OCC2=NN=C(S2)C(F)(F)F,Unspecified,,,,Inhibition,=,-9.023,%,
+104,520070002,137932334,C1=C(C=NC=N1)OCC2=NN=C(S2)C(F)(F)F,Unspecified,,,,Inhibition,=,-16.94,%,Outside typical range
+105,520070592,17481456,C1=CC=C(C=C1)N2C(=O)N(N=N2)CCOC3=CC=C(C=C3)C#N,Unspecified,,,,Inhibition,=,-2.04,%,
+106,520070592,17481456,C1=CC=C(C=C1)N2C(=O)N(N=N2)CCOC3=CC=C(C=C3)C#N,Unspecified,,,,Inhibition,=,-4.329,%,
+107,520070592,17481456,C1=CC=C(C=C1)N2C(=O)N(N=N2)CCOC3=CC=C(C=C3)C#N,Unspecified,,,,Inhibition,=,-0.08,%,
+108,520070592,17481456,C1=CC=C(C=C1)N2C(=O)N(N=N2)CCOC3=CC=C(C=C3)C#N,Unspecified,,,,Inhibition,=,-7.794,%,
+109,520071601,44118324,COC(=O)C1=CC2=C(N1)C(=CS2)Br,Unspecified,,,,Inhibition,=,7.722,%,
+110,520071601,44118324,COC(=O)C1=CC2=C(N1)C(=CS2)Br,Unspecified,,,,Inhibition,=,-13.99,%,Outside typical range
+111,520071601,44118324,COC(=O)C1=CC2=C(N1)C(=CS2)Br,Unspecified,,,,Inhibition,=,11.71,%,
+112,520071601,44118324,COC(=O)C1=CC2=C(N1)C(=CS2)Br,Unspecified,,,,Inhibition,=,-5.437,%,
+113,520071611,145897765,C1=C(N=C(S1)CSC2=NN=C(S2)C(F)(F)F)C#N,Unspecified,,,,Inhibition,=,-10.16,%,Outside typical range
+114,520071611,145897765,C1=C(N=C(S1)CSC2=NN=C(S2)C(F)(F)F)C#N,Unspecified,,,,Inhibition,=,-4.457,%,
+115,520071611,145897765,C1=C(N=C(S1)CSC2=NN=C(S2)C(F)(F)F)C#N,Unspecified,,,,Inhibition,=,-9.012,%,
+116,520071611,145897765,C1=C(N=C(S1)CSC2=NN=C(S2)C(F)(F)F)C#N,Unspecified,,,,Inhibition,=,-11.44,%,Outside typical range
+117,520073041,167819997,C1=CON=C1C2=NN=C(S2)NCC3=NNN=N3,Unspecified,,,,Inhibition,=,-2.018,%,
+118,520073041,167819997,C1=CON=C1C2=NN=C(S2)NCC3=NNN=N3,Unspecified,,,,Inhibition,=,-12.39,%,Outside typical range
+119,520073041,167819997,C1=CON=C1C2=NN=C(S2)NCC3=NNN=N3,Unspecified,,,,Inhibition,=,-2.383,%,
+120,520073041,167819997,C1=CON=C1C2=NN=C(S2)NCC3=NNN=N3,Unspecified,,,,Inhibition,=,-15.63,%,Outside typical range
+121,520073837,71919410,COCC1=NN(C(=O)O1)CC#CC2=CC=C(C=C2)Cl,Unspecified,,,,Inhibition,=,2.768,%,
+122,520073837,71919410,COCC1=NN(C(=O)O1)CC#CC2=CC=C(C=C2)Cl,Unspecified,,,,Inhibition,=,-4.232,%,
+123,520073837,71919410,COCC1=NN(C(=O)O1)CC#CC2=CC=C(C=C2)Cl,Unspecified,,,,Inhibition,=,5.179,%,
+124,520073837,71919410,COCC1=NN(C(=O)O1)CC#CC2=CC=C(C=C2)Cl,Unspecified,,,,Inhibition,=,-7.026,%,
+125,520073918,40012279,C1=COC(=C1)CNC(=O)C2=CSC(=C2)Br,Unspecified,,,,Inhibition,=,0.818,%,
+126,520073918,40012279,C1=COC(=C1)CNC(=O)C2=CSC(=C2)Br,Unspecified,,,,Inhibition,=,-11.95,%,Outside typical range
+127,520073918,40012279,C1=COC(=C1)CNC(=O)C2=CSC(=C2)Br,Unspecified,,,,Inhibition,=,6.825,%,
+128,520073918,40012279,C1=COC(=C1)CNC(=O)C2=CSC(=C2)Br,Unspecified,,,,Inhibition,=,-4.809,%,
+129,520073941,72154814,C1=CC=C(C=C1)C=CCN2C(=O)C=CC(=N2)N3C=NC=N3,Unspecified,,,,Inhibition,=,-8.491,%,
+130,520073941,72154814,C1=CC=C(C=C1)C=CCN2C(=O)C=CC(=N2)N3C=NC=N3,Unspecified,,,,Inhibition,=,-10.23,%,Outside typical range
+131,520073941,72154814,C1=CC=C(C=C1)C=CCN2C(=O)C=CC(=N2)N3C=NC=N3,Unspecified,,,,Inhibition,=,-6.997,%,
+132,520073941,72154814,C1=CC=C(C=C1)C=CCN2C(=O)C=CC(=N2)N3C=NC=N3,Unspecified,,,,Inhibition,=,-6.724,%,
+133,520074722,71971196,C1=CSC(=C1Br)CSC2=NNN=C2,Unspecified,,,,Inhibition,=,10.96,%,
+134,520074722,71971196,C1=CSC(=C1Br)CSC2=NNN=C2,Unspecified,,,,Inhibition,=,-12.93,%,Outside typical range
+135,520074722,71971196,C1=CSC(=C1Br)CSC2=NNN=C2,Unspecified,,,,Inhibition,=,11.34,%,
+136,520074722,71971196,C1=CSC(=C1Br)CSC2=NNN=C2,Unspecified,,,,Inhibition,=,-4.709,%,
+137,520074776,42956628,CCSC1=NN=C(S1)SCCN2C(=O)N3C=CC=CC3=N2,Unspecified,,,,Inhibition,=,2.677,%,
+138,520074776,42956628,CCSC1=NN=C(S1)SCCN2C(=O)N3C=CC=CC3=N2,Unspecified,,,,Inhibition,=,-18.84,%,Outside typical range
+139,520074776,42956628,CCSC1=NN=C(S1)SCCN2C(=O)N3C=CC=CC3=N2,Unspecified,,,,Inhibition,=,5.403,%,
+140,520074776,42956628,CCSC1=NN=C(S1)SCCN2C(=O)N3C=CC=CC3=N2,Unspecified,,,,Inhibition,=,-13.51,%,Outside typical range
+141,520076297,676564,C1=CC=C(C=C1)S(=O)(=O)C2=C(SC(=N2)N)Cl,Unspecified,,,,Inhibition,=,-10.87,%,Outside typical range
+142,520076297,676564,C1=CC=C(C=C1)S(=O)(=O)C2=C(SC(=N2)N)Cl,Unspecified,,,,Inhibition,=,-23.46,%,Outside typical range
+143,520076297,676564,C1=CC=C(C=C1)S(=O)(=O)C2=C(SC(=N2)N)Cl,Unspecified,,,,Inhibition,=,-1.349,%,
+144,520076297,676564,C1=CC=C(C=C1)S(=O)(=O)C2=C(SC(=N2)N)Cl,Unspecified,,,,Inhibition,=,-17.28,%,Outside typical range
+145,520076359,122135243,CC1=C(SN=N1)CN2C=CC(=N2)Br,Unspecified,,,,Inhibition,=,-4.203,%,
+146,520076359,122135243,CC1=C(SN=N1)CN2C=CC(=N2)Br,Unspecified,,,,Inhibition,=,-3.973,%,
+147,520076359,122135243,CC1=C(SN=N1)CN2C=CC(=N2)Br,Unspecified,,,,Inhibition,=,0.654,%,
+148,520076359,122135243,CC1=C(SN=N1)CN2C=CC(=N2)Br,Unspecified,,,,Inhibition,=,-5.41,%,
+149,520077094,177664011,C1=CC(=C(N=C1)[S@@](=O)CC2=NC=CC=N2)Br,Unspecified,,,,Inhibition,=,-0.101,%,
+150,520077094,177664011,C1=CC(=C(N=C1)[S@@](=O)CC2=NC=CC=N2)Br,Unspecified,,,,Inhibition,=,-5.36,%,
+151,520077094,177664011,C1=CC(=C(N=C1)[S@@](=O)CC2=NC=CC=N2)Br,Unspecified,,,,Inhibition,=,2.18,%,
+152,520077094,177664011,C1=CC(=C(N=C1)[S@@](=O)CC2=NC=CC=N2)Br,Unspecified,,,,Inhibition,=,-6.387,%,
+153,520077119,71863671,C1=COC(=C1)C2=NN(C(=O)O2)CCS(=O)(=O)C3=CC=C(C=C3)C#N,Unspecified,,,,Inhibition,=,2.14,%,
+154,520077119,71863671,C1=COC(=C1)C2=NN(C(=O)O2)CCS(=O)(=O)C3=CC=C(C=C3)C#N,Unspecified,,,,Inhibition,=,-12.25,%,Outside typical range
+155,520077119,71863671,C1=COC(=C1)C2=NN(C(=O)O2)CCS(=O)(=O)C3=CC=C(C=C3)C#N,Unspecified,,,,Inhibition,=,5.55,%,
+156,520077119,71863671,C1=COC(=C1)C2=NN(C(=O)O2)CCS(=O)(=O)C3=CC=C(C=C3)C#N,Unspecified,,,,Inhibition,=,-4.795,%,
+157,520077243,86817306,C1=CSC(=C1)CSC2=NN=C(O2)CN3C=NC=N3,Unspecified,,,,Inhibition,=,-3.482,%,
+158,520077243,86817306,C1=CSC(=C1)CSC2=NN=C(O2)CN3C=NC=N3,Unspecified,,,,Inhibition,=,-11.71,%,Outside typical range
+159,520077243,86817306,C1=CSC(=C1)CSC2=NN=C(O2)CN3C=NC=N3,Unspecified,,,,Inhibition,=,4.461,%,
+160,520077243,86817306,C1=CSC(=C1)CSC2=NN=C(O2)CN3C=NC=N3,Unspecified,,,,Inhibition,=,-11.11,%,Outside typical range
+161,520078139,760981,CC1=C(SC2=C1C(=O)NC(=N2)C3=CC=CS3)C,Unspecified,,,,Inhibition,=,-9.146,%,
+162,520078139,760981,CC1=C(SC2=C1C(=O)NC(=N2)C3=CC=CS3)C,Unspecified,,,,Inhibition,=,-11.81,%,Outside typical range
+163,520078139,760981,CC1=C(SC2=C1C(=O)NC(=N2)C3=CC=CS3)C,Unspecified,,,,Inhibition,=,0.922,%,
+164,520078139,760981,CC1=C(SC2=C1C(=O)NC(=N2)C3=CC=CS3)C,Unspecified,,,,Inhibition,=,-5.008,%,
+165,520078140,154794054,C1=CC2=CN(N=C2C(=C1)Br)CC3=NC=CC=N3,Unspecified,,,,Inhibition,=,14.37,%,
+166,520078140,154794054,C1=CC2=CN(N=C2C(=C1)Br)CC3=NC=CC=N3,Unspecified,,,,Inhibition,=,-8.464,%,
+167,520078140,154794054,C1=CC2=CN(N=C2C(=C1)Br)CC3=NC=CC=N3,Unspecified,,,,Inhibition,=,6.271,%,
+168,520078140,154794054,C1=CC2=CN(N=C2C(=C1)Br)CC3=NC=CC=N3,Unspecified,,,,Inhibition,=,-7.167,%,
+169,520078152,136541822,C1=CSC(=C1Cl)C(=O)NCC2=NC=CS2,Unspecified,,,,Inhibition,=,-1.054,%,
+170,520078152,136541822,C1=CSC(=C1Cl)C(=O)NCC2=NC=CS2,Unspecified,,,,Inhibition,=,-3.576,%,
+171,520078152,136541822,C1=CSC(=C1Cl)C(=O)NCC2=NC=CS2,Unspecified,,,,Inhibition,=,4.387,%,
+172,520078152,136541822,C1=CSC(=C1Cl)C(=O)NCC2=NC=CS2,Unspecified,,,,Inhibition,=,0.507,%,
+173,520078226,12470768,C1=CC=C2C(=C1)C(=O)N(C=N2)CCCN3C=NC4=CC=CC=C4C3=O,Unspecified,,,,Inhibition,=,1.74,%,
+174,520078226,12470768,C1=CC=C2C(=C1)C(=O)N(C=N2)CCCN3C=NC4=CC=CC=C4C3=O,Unspecified,,,,Inhibition,=,-14.09,%,Outside typical range
+175,520078226,12470768,C1=CC=C2C(=C1)C(=O)N(C=N2)CCCN3C=NC4=CC=CC=C4C3=O,Unspecified,,,,Inhibition,=,4.077,%,
+176,520078226,12470768,C1=CC=C2C(=C1)C(=O)N(C=N2)CCCN3C=NC4=CC=CC=C4C3=O,Unspecified,,,,Inhibition,=,-12.83,%,Outside typical range
+177,520079073,47010936,C1CN(CCC1C2=NC3=CC=CC=C3O2)CC4=C(SN=N4)Cl,Unspecified,,,,Inhibition,=,8.81,%,
+178,520079073,47010936,C1CN(CCC1C2=NC3=CC=CC=C3O2)CC4=C(SN=N4)Cl,Unspecified,,,,Inhibition,=,-7.284,%,
+179,520079073,47010936,C1CN(CCC1C2=NC3=CC=CC=C3O2)CC4=C(SN=N4)Cl,Unspecified,,,,Inhibition,=,2.945,%,
+180,520079073,47010936,C1CN(CCC1C2=NC3=CC=CC=C3O2)CC4=C(SN=N4)Cl,Unspecified,,,,Inhibition,=,-8.596,%,
+181,520079079,71973387,C1=CC=C(C=C1)C=CCN2C3=C(C=CC=N3)OC2=O,Unspecified,,,,Inhibition,=,16.77,%,
+182,520079079,71973387,C1=CC=C(C=C1)C=CCN2C3=C(C=CC=N3)OC2=O,Unspecified,,,,Inhibition,=,-5.049,%,
+183,520079079,71973387,C1=CC=C(C=C1)C=CCN2C3=C(C=CC=N3)OC2=O,Unspecified,,,,Inhibition,=,18.66,%,
+184,520079079,71973387,C1=CC=C(C=C1)C=CCN2C3=C(C=CC=N3)OC2=O,Unspecified,,,,Inhibition,=,-12.13,%,Outside typical range
+185,520079085,138032899,C1CN(CCC1CC2=NC3=CC=CC=C3N2)CC4=NC=CS4,Unspecified,,,,Inhibition,=,-8.352,%,
+186,520079085,138032899,C1CN(CCC1CC2=NC3=CC=CC=C3N2)CC4=NC=CS4,Unspecified,,,,Inhibition,=,-21.36,%,Outside typical range
+187,520079085,138032899,C1CN(CCC1CC2=NC3=CC=CC=C3N2)CC4=NC=CS4,Unspecified,,,,Inhibition,=,-1.222,%,
+188,520079085,138032899,C1CN(CCC1CC2=NC3=CC=CC=C3N2)CC4=NC=CS4,Unspecified,,,,Inhibition,=,-13.36,%,Outside typical range
+189,520079121,124702284,C1=CC(=O)N(C=C1)C2=NC=C(C=N2)Br,Unspecified,,,,Inhibition,=,1.634,%,
+190,520079121,124702284,C1=CC(=O)N(C=C1)C2=NC=C(C=N2)Br,Unspecified,,,,Inhibition,=,-7.632,%,
+191,520079121,124702284,C1=CC(=O)N(C=C1)C2=NC=C(C=N2)Br,Unspecified,,,,Inhibition,=,-4.928,%,
+192,520079121,124702284,C1=CC(=O)N(C=C1)C2=NC=C(C=N2)Br,Unspecified,,,,Inhibition,=,-2.831,%,
+193,520080201,154789145,C1CS(=O)(=O)CCN1CC#CC2=CC3=C(C=C2)SN=C3,Unspecified,,,,Inhibition,=,2.545,%,
+194,520080201,154789145,C1CS(=O)(=O)CCN1CC#CC2=CC3=C(C=C2)SN=C3,Unspecified,,,,Inhibition,=,-11.79,%,Outside typical range
+195,520080201,154789145,C1CS(=O)(=O)CCN1CC#CC2=CC3=C(C=C2)SN=C3,Unspecified,,,,Inhibition,=,-9.234,%,
+196,520080201,154789145,C1CS(=O)(=O)CCN1CC#CC2=CC3=C(C=C2)SN=C3,Unspecified,,,,Inhibition,=,-14.72,%,Outside typical range
+197,520081132,71892089,CN1C(=O)C2=C(N=C1SC3=NC4=CC=CC=C4O3)SC=C2,Unspecified,,,,Inhibition,=,-0.609,%,
+198,520081132,71892089,CN1C(=O)C2=C(N=C1SC3=NC4=CC=CC=C4O3)SC=C2,Unspecified,,,,Inhibition,=,-7.447,%,
+199,520081132,71892089,CN1C(=O)C2=C(N=C1SC3=NC4=CC=CC=C4O3)SC=C2,Unspecified,,,,Inhibition,=,6.371,%,
+200,520081132,71892089,CN1C(=O)C2=C(N=C1SC3=NC4=CC=CC=C4O3)SC=C2,Unspecified,,,,Inhibition,=,-1.814,%,
+201,520081202,9334659,C1=CSC(=C1)C2=NN=C(O2)SC3=NC=NC4=C3C=CS4,Unspecified,,,,Inhibition,=,9.384,%,
+202,520081202,9334659,C1=CSC(=C1)C2=NN=C(O2)SC3=NC=NC4=C3C=CS4,Unspecified,,,,Inhibition,=,1.072,%,
+203,520081202,9334659,C1=CSC(=C1)C2=NN=C(O2)SC3=NC=NC4=C3C=CS4,Unspecified,,,,Inhibition,=,5.5,%,
+204,520081202,9334659,C1=CSC(=C1)C2=NN=C(O2)SC3=NC=NC4=C3C=CS4,Unspecified,,,,Inhibition,=,-7.637,%,
+205,520082031,2636978,C1=CC=C(C=C1)C2=NN=C(O2)SCN3C(=O)C4=CC=CC=C4N=N3,Unspecified,,,,Inhibition,=,52.47,%,
+206,520082031,2636978,C1=CC=C(C=C1)C2=NN=C(O2)SCN3C(=O)C4=CC=CC=C4N=N3,Unspecified,,,,Inhibition,=,31.55,%,
+207,520082031,2636978,C1=CC=C(C=C1)C2=NN=C(O2)SCN3C(=O)C4=CC=CC=C4N=N3,Unspecified,,,,Inhibition,=,36.2,%,
+208,520082031,2636978,C1=CC=C(C=C1)C2=NN=C(O2)SCN3C(=O)C4=CC=CC=C4N=N3,Unspecified,,,,Inhibition,=,2.985,%,

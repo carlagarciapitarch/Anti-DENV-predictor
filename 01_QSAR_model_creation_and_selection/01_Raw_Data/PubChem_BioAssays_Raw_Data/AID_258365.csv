@@ -1,0 +1,36 @@
+PUBCHEM_RESULT_TAG,PUBCHEM_SID,PUBCHEM_CID,PUBCHEM_EXT_DATASOURCE_SMILES,PUBCHEM_ACTIVITY_OUTCOME,PUBCHEM_ACTIVITY_SCORE,PUBCHEM_ACTIVITY_URL,PUBCHEM_ASSAYDATA_COMMENT,PubChem Standard Value,Standard Type,Standard Relation,Standard Value,Standard Units,Data Validity Comment
+RESULT_TYPE,,,,,,,,FLOAT,STRING,STRING,FLOAT,STRING,STRING
+RESULT_DESCR,,,,,,,,PubChem standardized value transformed from 'Standard Value'. The unit is always micromolar,Standardized activity type (e.g. IC50 rather than Ic-50/Ic50/ic50/ic-50),"Qualifier (e.g. >, <, =) for 'Standard Value'",Standardized activity value transformed to common units: e.g. mM concentrations converted to nM,Selected units for 'Standard Type': e.g. concentrations are in nM,Comment reflecting whether the values for this activity measurement are likely to be correct
+RESULT_UNIT,,,,,,,,MICROMOLAR,,,,,
+RESULT_IS_ACTIVE_CONCENTRATION,,,,,,,,TRUE,,,,,
+RESULT_IS_ACTIVE_CONCENTRATION_QUALIFIER,,,,,,,,,,TRUE,,,
+1,103474995,11974843,CCCC[C@@H](C(=O)N[C@@H](C)C(=O)N[C@@H](CCCN=C(N)N)C(=O)N[C@@H](CCCN=C(N)N)C=O)NC(=O)C1=CC=CC=C1,Unspecified,,,,22.1,Ki,=,22100,nM,
+2,103475006,11974634,CCCC[C@@H](C(=O)N[C@@H](CCCCN)C(=O)N[C@@H](C)C(=O)N[C@@H](CCCN=C(N)N)C=O)NC(=O)C1=CC=CC=C1,Unspecified,,,,500,Ki,>,500000,nM,Outside typical range
+3,103475130,11974565,CCCC[C@@H](C(=O)N[C@@H](CCCCN)C(=O)N[C@@H](CCCN=C(N)N)C(=O)N[C@H](CCCN=C(N)N)C=O)NC(=O)C1=CC=CC=C1,Unspecified,,,,51,Ki,=,51000,nM,
+4,103475141,11974733,CCCC[C@@H](C(=O)N[C@@H](CCCCN)C(=O)N[C@@H](CCCN=C(N)N)C(=O)N[C@@H](CC1=CC=C(C=C1)Cl)C=O)NC(=O)C2=CC=CC=C2,Unspecified,,,,138,Ki,=,138000,nM,Outside typical range
+5,103475212,11974842,CCCC[C@@H](C(=O)N[C@@H](CCCCN)C(=O)N[C@@H](CCCN=C(N)N)C(=O)N[C@@H](C)C=O)NC(=O)C1=CC=CC=C1,Unspecified,,,,193,Ki,=,193000,nM,Outside typical range
+6,103475240,11974635,C[C@@H](C(=O)N[C@@H](CCCCN)C(=O)N[C@@H](CCCN=C(N)N)C(=O)N[C@@H](CCCN=C(N)N)C=O)NC(=O)C1=CC=CC=C1,Active,,,,5.3,Ki,=,5300,nM,
+7,103475241,11974839,CCCC[C@@H](C(=O)N[C@@H](CCCCN)C(=O)N(C)[C@@H](CCCN=C(N)N)C(=O)N[C@@H](CCCN=C(N)N)C=O)NC(=O)C1=CC=CC=C1,Unspecified,,,,47.4,Ki,=,47400,nM,
+8,103475242,11975081,CCCC[C@@H](C(=O)N[C@@H](CCCCN)C(=O)N[C@@H](CCCN=C(N)N)C(=O)N[C@@H](CC1=CC=C(C=C1)N=C(N)N)C=O)NC(=O)C2=CC=CC=C2,Active,,,,2.8,Ki,=,2800,nM,
+9,103475245,11974958,CCCC[C@@H](C(=O)N[C@@H](CCCCN)C(=O)N[C@@H](CCCN=C(N)N)C(=O)N[C@@H](CC1=CC=CC=C1)C=O)NC(=O)C2=CC=CC=C2,Unspecified,,,,15.9,Ki,=,15900,nM,
+10,103475246,11974636,CCCC[C@@H](C(=O)N[C@@H](CCCCN)C(=O)N[C@@H](CC1=CC=CC=C1)C(=O)N[C@@H](CCCN=C(N)N)C=O)NC(=O)C2=CC=CC=C2,Unspecified,,,,40.7,Ki,=,40700,nM,
+11,103475259,11974564,CCCC[C@@H](C(=O)N(C)[C@@H](CCCCN)C(=O)N[C@@H](CCCN=C(N)N)C(=O)N[C@@H](CCCN=C(N)N)C=O)NC(=O)C1=CC=CC=C1,Unspecified,,,,113.3,Ki,=,113300,nM,Outside typical range
+12,103475260,11974840,CCCC[C@@H](C(=O)N[C@@H](CCCCN)C(=O)N[C@@H](CCCN=C(N)N)C(=O)N[C@@H](CCCN=C(N)N)C=O)N(C)C(=O)C1=CC=CC=C1,Unspecified,,,,43.7,Ki,=,43700,nM,
+13,103475261,11974638,CCCC[C@@H](C(=O)N[C@@H](CCCCN)C(=O)N[C@@H](CCCN=C(N)N)C(=O)N[C@H](C=O)C1=CC=CC=C1)NC(=O)C2=CC=CC=C2,Unspecified,,,,33,Ki,=,33000,nM,
+14,103475262,44406070,CCCC[C@@H](C(=O)N[C@@H](CCCCN)C(=O)N[C@@H](CCCN=C(N)N)C(=O)N[C@@H](CCC1=CC=CC=C1)C=O)NC(=O)C2=CC=CC=C2,Unspecified,,,,500,Ki,>,500000,nM,Outside typical range
+15,103475264,11974959,CCCC[C@@H](C(=O)N[C@@H](CC1=CC=CC=C1)C(=O)N[C@@H](CCCN=C(N)N)C(=O)N[C@@H](CCCN=C(N)N)C=O)NC(=O)C2=CC=CC=C2,Unspecified,,,,15.8,Ki,=,15800,nM,
+16,103475336,11974637,C1=CC=C(C=C1)C[C@@H](C(=O)N[C@@H](CCCCN)C(=O)N[C@@H](CCCN=C(N)N)C(=O)N[C@@H](CCCN=C(N)N)C=O)NC(=O)C2=CC=CC=C2,Active,,,,6.8,Ki,=,6800,nM,
+17,103475337,11974566,CCCC[C@@H](C(=O)N[C@@H](CCCCN)C(=O)N[C@H](CCCN=C(N)N)C(=O)N[C@@H](CCCN=C(N)N)C=O)NC(=O)C1=CC=CC=C1,Unspecified,,,,115,Ki,=,115000,nM,Outside typical range
+18,103475344,11974841,CCCC[C@@H](C(=O)N[C@H](CCCCN)C(=O)N[C@@H](CCCN=C(N)N)C(=O)N[C@@H](CCCN=C(N)N)C=O)NC(=O)C1=CC=CC=C1,Unspecified,,,,28.6,Ki,=,28600,nM,
+19,103475346,11974730,CCCC[C@@H](C(=O)N[C@@H](CCCCN)C(=O)N[C@@H](CCCN=C(N)N)C(=O)N[C@@H](CC1=CC=C(C=C1)C#N)C=O)NC(=O)C2=CC=CC=C2,Unspecified,,,,18.6,Ki,=,18600,nM,
+20,103475364,11974962,CCCC[C@@H](C(=O)N[C@@H](CCCCN)C(=O)N[C@@H](CCCN=C(N)N)C(=O)N[C@@H](CCCCN)C=O)NC(=O)C1=CC=CC=C1,Unspecified,,,,20.5,Ki,=,20500,nM,
+21,103475365,11974734,CCCC[C@@H](C(=O)N[C@@H](CCCCN)C(=O)N[C@@H](CCCCN)C(=O)N[C@@H](CCCN=C(N)N)C=O)NC(=O)C1=CC=CC=C1,Unspecified,,,,41.3,Ki,=,41300,nM,
+22,103475366,11974567,CCCC[C@H](C(=O)N[C@@H](CCCCN)C(=O)N[C@@H](CCCN=C(N)N)C(=O)N[C@@H](CCCN=C(N)N)C=O)NC(=O)C1=CC=CC=C1,Active,,,,9.4,Ki,=,9400,nM,
+23,103475373,11635300,C1=CC=C(C=C1)C(=O)N[C@@H](CCCCN)C(=O)N[C@@H](CCCN=C(N)N)C(=O)N[C@@H](CCCN=C(N)N)C=O,Active,,,,1.5,Ki,=,1500,nM,
+24,103475374,44406112,C1=CC=C(C=C1)C(=O)N[C@@H](CCCN=C(N)N)C(=O)N[C@@H](CCCN=C(N)N)C=O,Unspecified,,,,12,Ki,=,12000,nM,
+25,103475375,44406113,CCCC[C@@H](C(=O)N[C@@H](CCCCN)C(=O)N[C@@H](CCCN=C(N)N)C(=O)N[C@@H](CC1=CC=C(C=C1)C)C=O)NC(=O)C2=CC=CC=C2,Active,,,,6,Ki,=,6000,nM,
+26,103475376,11974960,CCCC[C@@H](C(=O)N[C@@H](CCCCN)C(=O)N[C@@H](CCCN=C(N)N)C(=O)N[C@@H](CC1=CC=C(C=C1)C2=CC=CC=C2)C=O)NC(=O)C3=CC=CC=C3,Unspecified,,,,11.6,Ki,=,11600,nM,
+27,103475379,44406115,CCCC[C@@H](C(=O)N[C@@H](CCCCN)C(=O)N1CCC[C@H]1C(=O)N[C@@H](CCCN=C(N)N)C=O)NC(=O)C2=CC=CC=C2,Unspecified,,,,109,Ki,=,109000,nM,Outside typical range
+28,103475380,11974466,CCCC[C@@H](C(=O)N1CCC[C@H]1C(=O)N[C@@H](CCCN=C(N)N)C(=O)N[C@@H](CCCN=C(N)N)C=O)NC(=O)C2=CC=CC=C2,Unspecified,,,,61.4,Ki,=,61400,nM,
+29,103475389,11974732,CCCC[C@@H](C(=O)N[C@@H](CCCCN)C(=O)N[C@@H](CCCN=C(N)N)C(=O)N[C@@H](CC1=CNC2=CC=CC=C21)C=O)NC(=O)C3=CC=CC=C3,Active,,,,7.5,Ki,=,7500,nM,
+30,103571548,6857723,CCCC[C@@H](C(=O)N[C@@H](CCCCN)C(=O)N[C@@H](CCCN=C(N)N)C(=O)N[C@@H](CCCN=C(N)N)C=O)NC(=O)C1=CC=CC=C1,Active,,,,5.8,Ki,=,5800,nM,

@@ -1,0 +1,16 @@
+PUBCHEM_RESULT_TAG,PUBCHEM_SID,PUBCHEM_CID,PUBCHEM_EXT_DATASOURCE_SMILES,PUBCHEM_ACTIVITY_OUTCOME,PUBCHEM_ACTIVITY_SCORE,PUBCHEM_ACTIVITY_URL,PUBCHEM_ASSAYDATA_COMMENT,PubChem Standard Value,Standard Type,Standard Relation,Standard Value,Standard Units,Activity Comment
+RESULT_TYPE,,,,,,,,FLOAT,STRING,STRING,FLOAT,STRING,STRING
+RESULT_DESCR,,,,,,,,PubChem standardized value transformed from 'Standard Value'. The unit is always micromolar,Standardized activity type (e.g. IC50 rather than Ic-50/Ic50/ic50/ic-50),"Qualifier (e.g. >, <, =) for 'Standard Value'",Standardized activity value transformed to common units: e.g. mM concentrations converted to nM,Selected units for 'Standard Type': e.g. concentrations are in nM,Additional comments
+RESULT_UNIT,,,,,,,,MICROMOLAR,,,,,
+RESULT_IS_ACTIVE_CONCENTRATION,,,,,,,,TRUE,,,,,
+RESULT_IS_ACTIVE_CONCENTRATION_QUALIFIER,,,,,,,,,,TRUE,,,
+1,242109742,46175113,C1CNCCC1C2=CN3C(=NC=C3C(=O)NC4=CC=CC=C4Cl)C=C2,Unspecified,,,,50,EC50,>,50000,nM,
+2,520004251,177377218,COC1=C(C=C(C(=C1)C2=CN=C3NC4=CC(=CC=C4)S(=O)(=O)NCCCNC2=N3)F)F,Active,,,,7.5,EC50,=,7500,nM,
+3,520041101,177377221,COC1=C(C=CC(=C1)C2=CN=C3NC4=CC(=C(C=C4)O)S(=O)(=O)NCCCNC2=N3)F,Inconclusive,,,Potential missing data,,EC50,,,,Not Determined
+4,520041156,177377219,COC1=C(C=CC(=C1F)C2=CN=C3NC4=CC(=CC=C4)S(=O)(=O)NCCCNC2=N3)F,Active,,,,1.1,EC50,=,1100,nM,
+5,520043238,172418956,COC1=C(C=CC(=C1)C2=CN=C3NC4=CC(=CC=C4)S(=O)(=O)NCCCNC2=N3)Br,Unspecified,,,,33,EC50,=,33000,nM,
+6,520044393,177377217,C1CNC2=NC(=NC=C2C3=CC(=C(C=C3)Cl)Cl)NC4=CC(=CC=C4)S(=O)(=O)NC1,Unspecified,,,,13,EC50,=,13000,nM,
+7,520045547,169491048,COC1=C(C=CC(=C1)C2=CN=C3NC4=CC(=CC=C4)S(=O)(=O)NCCCNC2=N3)F,Unspecified,,,,13,EC50,=,13000,nM,
+8,520047748,177377215,COCCOC1=C2C=C(C=C1)NC3=NC=C(C(=N3)NCCCNS2(=O)=O)C4=CC(=C(C=C4)F)OC,Unspecified,,,,23,EC50,=,23000,nM,
+9,520050546,177377214,COC1=C2C=C(C=C1)NC3=NC=C(C(=N3)NCCCNS2(=O)=O)C4=CC(=C(C=C4)F)OC,Unspecified,,,,42,EC50,=,42000,nM,
+10,520051736,177377220,COC1=C(C=C(C(=C1)C2=CN=C3NC4=CC(=CC=C4)S(=O)(=O)NCCCNC2=N3)F)Cl,Unspecified,,,,17,EC50,=,17000,nM,

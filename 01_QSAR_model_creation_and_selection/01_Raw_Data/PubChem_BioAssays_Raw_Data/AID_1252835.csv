@@ -1,0 +1,18 @@
+PUBCHEM_RESULT_TAG,PUBCHEM_SID,PUBCHEM_CID,PUBCHEM_EXT_DATASOURCE_SMILES,PUBCHEM_ACTIVITY_OUTCOME,PUBCHEM_ACTIVITY_SCORE,PUBCHEM_ACTIVITY_URL,PUBCHEM_ASSAYDATA_COMMENT,Standard Type,Activity Comment
+RESULT_TYPE,,,,,,,,STRING,STRING
+RESULT_DESCR,,,,,,,,Standardized activity type (e.g. IC50 rather than Ic-50/Ic50/ic50/ic-50),Additional comments
+1,318394031,122193290,C1=CC=C(C=C1)[C@@H](C(=O)N)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CC2=CC=C(C=C2)CN)NC(=O)C3=CC=CC=C3,Unspecified,,,Potential missing data,permeability,impermeable
+2,318394032,122193291,C1=CC=C(C=C1)[C@@H](C(=O)N)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CC2=CC=C(C=C2)C(=N)N)NC(=O)C3=CC=CC=C3,Unspecified,,,Potential missing data,permeability,impermeable
+3,318394033,122193292,C1=CC=C(C=C1)[C@@H](C(=O)N)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CC2=CC=C(C=C2)N=C(N)N)NC(=O)C3=CC=CC=C3,Unspecified,,,Potential missing data,permeability,impermeable
+4,318394035,122193294,CC(=NC1=CC=C(C=C1)C[C@@H](C(=O)N[C@@H](CCCCN)C(=O)N[C@@H](C2=CC=CC=C2)C(=O)N)NC(=O)C3=CC=CC=C3)N,Unspecified,,,Potential missing data,permeability,impermeable
+5,318394036,122193295,CC(=O)NC1=CC=C(C=C1)C[C@@H](C(=O)N[C@@H](CCCCN)C(=O)N[C@@H](C2=CC=CC=C2)C(=O)N)NC(=O)C3=CC=CC=C3,Unspecified,,,Potential missing data,permeability,impermeable
+6,318394040,122193299,C1=CC=C(C=C1)[C@@H](C(=O)N)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CC2=CC(=CC=C2)CN)NC(=O)C3=CC=CC=C3,Unspecified,,,Potential missing data,permeability,impermeable
+7,318394041,122193300,C1=CC=C(C=C1)[C@@H](C(=O)N)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CC2=CC(=CC=C2)C(=N)N)NC(=O)C3=CC=CC=C3,Unspecified,,,Potential missing data,permeability,impermeable
+8,318394042,122193301,C1=CC=C(C=C1)[C@@H](C(=O)N)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CC2=CC(=CC=C2)N=C(N)N)NC(=O)C3=CC=CC=C3,Unspecified,,,Potential missing data,permeability,impermeable
+9,318394043,122193302,C1=CC=C(C=C1)[C@@H](C(=O)N)NC(=O)[C@H](CCCCN)NC(=O)[C@H](C2=CC(=CC=C2)N=C(N)N)NC(=O)C3=CC=CC=C3,Unspecified,,,Potential missing data,permeability,impermeable
+10,318394045,122193304,C1=CC=C(C=C1)[C@@H](C(=O)N)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CC2=CC=C(C=C2)C(=N)N)NC(=O)C3=CC=C(C=C3)C(F)(F)F,Unspecified,,,Potential missing data,permeability,impermeable
+11,318394046,122193305,C1=CC=C(C=C1)[C@@H](C(=O)N)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CC2=CC(=CC=C2)C(=N)N)NC(=O)C3=CC=C(C=C3)C(F)(F)F,Unspecified,,,Potential missing data,permeability,impermeable
+12,318394047,122193306,C1=CC=C(C=C1)[C@@H](C(=O)N)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CC2=CC=C(C=C2)N=C(N)N)NC(=O)C3=CC=C(C=C3)C(F)(F)F,Unspecified,,,Potential missing data,permeability,impermeable
+13,318394049,122193308,C1=CC=C(C=C1)CCC(=O)N[C@@H](CC2=CC=C(C=C2)C(=N)N)C(=O)N[C@@H](CCCCN)C(=O)N[C@@H](C3=CC=CC=C3)C(=O)N,Unspecified,,,Potential missing data,permeability,impermeable
+14,318394050,122193309,C1=CC=C(C=C1)CCC(=O)N[C@@H](CC2=CC(=CC=C2)C(=N)N)C(=O)N[C@@H](CCCCN)C(=O)N[C@@H](C3=CC=CC=C3)C(=O)N,Unspecified,,,Potential missing data,permeability,impermeable
+15,318394258,122193488,C1=CC=C(C=C1)CCC(=O)N[C@@H](CC2=CC=C(C=C2)N=C(N)N)C(=O)N[C@@H](CCCCN)C(=O)N[C@@H](C3=CC=CC=C3)C(=O)N,Unspecified,,,Potential missing data,permeability,impermeable

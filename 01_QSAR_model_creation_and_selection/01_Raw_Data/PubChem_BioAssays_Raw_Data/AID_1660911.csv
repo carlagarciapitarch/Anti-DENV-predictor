@@ -1,0 +1,63 @@
+PUBCHEM_RESULT_TAG,PUBCHEM_SID,PUBCHEM_CID,PUBCHEM_EXT_DATASOURCE_SMILES,PUBCHEM_ACTIVITY_OUTCOME,PUBCHEM_ACTIVITY_SCORE,PUBCHEM_ACTIVITY_URL,PUBCHEM_ASSAYDATA_COMMENT,PubChem Standard Value,Standard Type,Standard Relation,Standard Value,Standard Units,Activity Comment
+RESULT_TYPE,,,,,,,,FLOAT,STRING,STRING,FLOAT,STRING,STRING
+RESULT_DESCR,,,,,,,,PubChem standardized value transformed from 'Standard Value'. The unit is always micromolar,Standardized activity type (e.g. IC50 rather than Ic-50/Ic50/ic50/ic-50),"Qualifier (e.g. >, <, =) for 'Standard Value'",Standardized activity value transformed to common units: e.g. mM concentrations converted to nM,Selected units for 'Standard Type': e.g. concentrations are in nM,Additional comments
+RESULT_UNIT,,,,,,,,MICROMOLAR,,,,,
+RESULT_IS_ACTIVE_CONCENTRATION,,,,,,,,TRUE,,,,,
+RESULT_IS_ACTIVE_CONCENTRATION_QUALIFIER,,,,,,,,,,TRUE,,,
+1,312358927,118714507,C1=CC=C(C=C1)C(=O)N[C@@H](CCCN=C(N)N)C(=O)N[C@@H](CCCCN)C(=O)NCC(=O)N,Inconclusive,,,Potential missing data,,EC50,,,,Not Determined
+2,336893536,127042988,C1=CC=C(C=C1)COC2=CC=C(C=C2)[C@H](C(=O)N)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCN=C(N)N)NC(=O)C3=CC=CC=C3,Unspecified,,,,16,EC50,=,16000,nM,
+3,442046460,156009522,CCCCCC(=O)N[C@@H](C1=CC=C(C=C1)OCC2=CC=CC=C2)C(=O)NCC3=CC=C(C=C3)C(=O)NN,Inconclusive,,,Potential missing data,,EC50,,,,Not Determined
+4,442046502,156009554,C1=CC=C(C=C1)COC2=CC=C(C=C2)[C@@H](C(=O)NCC3=CC=C(C=C3)N=C(N)N)NC(=O)C4=CC=C(C=C4)OCC5=CC=C(C=C5)Cl.C(=O)(C(F)(F)F)O,Inconclusive,,,Potential missing data,,EC50,,,,Not Determined
+5,442046590,156009626,CC(=O)N[C@@H](C1=CC=C(C=C1)OCC2=CC=CC=C2)C(=O)NCC3=CC=C(C=C3)N=C(N)N.C(=O)(C(F)(F)F)O,Inconclusive,,,Potential missing data,,EC50,,,,Not Determined
+6,442046988,156009917,CCCCCC(=O)N[C@@H](C1=CC=C(C=C1)OCC2=CC=CC=C2)C(=O)NCC3=CC=C(C=C3)N.C(=O)(C(F)(F)F)O,Inconclusive,,,Potential missing data,,EC50,,,,Not Determined
+7,442047568,156010306,C1=CC=C(C=C1)COC2=CC=C(C=C2)[C@@H](C(=O)NCC3=CC=C(C=C3)N=C(N)N)NC(=O)C4=CC=C(C=C4)OC5=CC=CC=C5.C(=O)(C(F)(F)F)O,Active,,,,3,EC50,=,3000,nM,
+8,442047738,156010437,CCCCCCC(=O)N[C@@H](C1=CC=C(C=C1)OCC2=CC=CC=C2)C(=O)NCC3=CC=C(C=C3)N=C(N)N.C(=O)(C(F)(F)F)O,Active,,,,0.52,EC50,=,520,nM,
+9,442047770,156010463,C1=CC=C(C=C1)COC2=CC=C(C=C2)[C@@H](C(=O)NCC3=CC=C(C=C3)N=C(N)N)NC(=O)C4=CC=CC=C4.C(=O)(C(F)(F)F)O,Inconclusive,,,Potential missing data,,EC50,,,,Not Determined
+10,442048090,156010693,CCCCCC(=O)N[C@@H](C1=CC=C(C=C1)OCC2=CC=CC=C2)C(=O)NCC3=CC=C(C=C3)C(=N)N.C(=O)(C(F)(F)F)O,Inconclusive,,,Potential missing data,,EC50,,,,Not Determined
+11,442048152,156010737,C1=CC=C(C=C1)C2=CC=C(C=C2)CC(=O)N[C@@H](C3=CC=C(C=C3)OCC4=C(C=CC=C4Cl)Cl)C(=O)NCC5=CC=C(C=C5)N=C(N)N.C(=O)(C(F)(F)F)O,Unspecified,,,,39,EC50,=,39000,nM,
+12,442048167,156010749,CCCCCC(=O)N[C@@H](C1=CC=C(C=C1)OCC2=CC=CC=C2)C(=O)NCC3=CN=C(C=C3)N=C(N)N.C(=O)(C(F)(F)F)O,Active,,,,5.9,EC50,=,5900,nM,
+13,442048286,156010846,C1=CC=C(C=C1)COC2=CC=C(C=C2)[C@@H](C(=O)NCC3=CC=C(C=C3)N=C(N)N)NC(=O)C4=CC=C(C=C4)C5=CC=CC=C5.C(=O)(C(F)(F)F)O,Active,,,,7.6,EC50,=,7600,nM,
+14,442048563,156011052,CCCCCC(=O)N[C@@H](C1=CC=C(C=C1)OCC2=CC=CC=C2)C(=O)NCC3=CC=CC=C3,Inconclusive,,,Potential missing data,,EC50,,,,Not Determined
+15,442048614,156011085,CCCCCC(=O)N[C@@H](C1=CC=C(C=C1)OCC2=CC=CC=C2)C(=O)NCC3=CC(=CC=C3)CN=C(N)N,Inconclusive,,,Potential missing data,,EC50,,,,Not Determined
+16,442048809,156011230,C1=CC=C(C=C1)OC2=CC=C(C=C2)C(=O)N[C@H](C3=CC=C(C=C3)OCC4=CC(=C(C=C4)Cl)Cl)C(=O)NCC5=CC=C(C=C5)CN=C(N)N.C(=O)(C(F)(F)F)O,Inconclusive,,,Potential missing data,,EC50,,,,Not Determined
+17,442049277,156011579,CCCCCC(=O)N[C@H](C1=CC=C(C=C1)OCC2=CC=CC=C2)C(=O)NCC3=CC=C(C=C3)N=C(N)N.C(=O)(C(F)(F)F)O,Active,,,,9.9,EC50,=,9900,nM,
+18,442049611,156011826,CCCCCC(=O)N[C@@H](C1=CC=C(C=C1)OCC2=CC=C(C=C2)C(C)(C)C)C(=O)NCC3=CC=C(C=C3)N=C(N)N.C(=O)(C(F)(F)F)O,Inconclusive,,,Potential missing data,,EC50,,,,Not Determined
+19,442049753,156011928,C1=CC=C(C=C1)COC2=CC=C(C=C2)[C@@H](C(=O)NCC3=CC=C(C=C3)N=C(N)N)NC(=O)C4=CC=C(C=C4)C5=CC=C(C=C5)Cl.C(=O)(C(F)(F)F)O,Active,,,,7.1,EC50,=,7100,nM,
+20,442050759,156012663,CCCCCC(=O)N[C@@H](C1=CC=C(C=C1)OCC2=CC(=CC=C2)OC)C(=O)NCC3=CC=C(C=C3)N=C(N)N.C(=O)(C(F)(F)F)O,Inconclusive,,,Potential missing data,,EC50,,,,Not Determined
+21,442050961,156012796,CCCCCC(=O)N[C@@H](C1=CC=C(C=C1)OCC2=CC=CC=C2)C(=O)NCC3=CC=CC(=C3)CN,Active,,,,4.2,EC50,=,4200,nM,
+22,442051077,156012874,CCCCCC(=O)N[C@H](C1=CC=C(C=C1)OCC2=CC(=C(C=C2)Cl)Cl)C(=O)NCC3=CC=C(C=C3)N=C(N)N.C(=O)(C(F)(F)F)O,Unspecified,,,,16,EC50,=,16000,nM,
+23,442051109,156012902,C1CCC(CC1)CC(=O)N[C@@H](C2=CC=C(C=C2)OCC3=CC=CC=C3)C(=O)NCC4=CC=C(C=C4)N=C(N)N.C(=O)(C(F)(F)F)O,Inconclusive,,,Potential missing data,,EC50,,,,Not Determined
+24,442051694,156013315,COC1=CC=CC(=C1)COC2=CC=C(C=C2)C(=O)N[C@@H](C3=CC=C(C=C3)OCC4=CC=CC=C4)C(=O)NCC5=CC=C(C=C5)N=C(N)N.C(=O)(C(F)(F)F)O,Active,,,,2.9,EC50,=,2900,nM,
+25,442052476,156013880,CCCCCC(=O)N[C@@H](C1=CC=C(C=C1)OCC2=CC=CC=C2)C(=O)NCC3=CC=NC=C3,Inconclusive,,,Potential missing data,,EC50,,,,Not Determined
+26,442052594,156013960,CCCCCC(=O)N[C@@H](C1=CC=C(C=C1)OCC2=CC=C(C=C2)C#N)C(=O)NCC3=CC=C(C=C3)N=C(N)N.C(=O)(C(F)(F)F)O,Inconclusive,,,Potential missing data,,EC50,,,,Not Determined
+27,442052753,156014073,CCCCCC(=O)N[C@@H](C1=CC=C(C=C1)OCC2=CC=CC=C2)C(=O)NCC3=CN=C(C=C3)N.C(=O)(C(F)(F)F)O,Unspecified,,,,13,EC50,=,13000,nM,
+28,442053473,156014586,CCCCCC(=O)N[C@@H](C1=CC=C(C=C1)OCC2=CC=CC=C2)C(=O)NCCCCCCN=C(N)N,Active,,,,7.7,EC50,=,7700,nM,
+29,442054010,156014946,CCCCCC(=O)N[C@@H](C1=CC=C(C=C1)OCC2=CC=CC=C2)C(=O)NC3=CC4=C(C=C3)NN=C4,Active,,,,6.9,EC50,=,6900,nM,
+30,442054361,156015167,CCCCCC(=O)N[C@@H](C1=CC=CC=C1)C(=O)NCC2=CC=C(C=C2)N=C(N)N.C(=O)(C(F)(F)F)O,Inconclusive,,,Potential missing data,,EC50,,,,Not Determined
+31,442054415,156015212,CCCCCC(=O)N[C@@H](C1=CC=C(C=C1)OCC2=CC=CC=C2)C(=O)NCC3=CC=C(C=C3)C#N,Inconclusive,,,Potential missing data,,EC50,,,,Not Determined
+32,442054772,156015438,CCCCCC(=O)N[C@@H](C1=CC=C(C=C1)OCC2=CC=CC=C2)C(=O)NCC3=CC=C(C=C3)CN.C(=O)(C(F)(F)F)O,Inconclusive,,,Potential missing data,,EC50,,,,Not Determined
+33,442054858,156015496,C1=CC=C(C=C1)COC2=CC=C(C=C2)[C@@H](C(=O)NCC3=CC=C(C=C3)N=C(N)N)NC(=O)CC4=CC=C(C=C4)C5=CC=CC=C5.C(=O)(C(F)(F)F)O,Unspecified,,,,20,EC50,=,20000,nM,
+34,442054994,156015578,CCCCCC(=O)N[C@@H](C1=CC=C(C=C1)OCC2=CC=CC=C2)C(=O)NCC3=CC=C(C=C3)NC(=O)N,Inconclusive,,,Potential missing data,,EC50,,,,Not Determined
+35,442055180,156015708,CCCCCC(=O)N[C@@H](C1=CC=C(C=C1)OCC2=CC=CC=C2)C(=O)NCCCCCCN,Unspecified,,,,13,EC50,=,13000,nM,
+36,442056187,156016390,CCCCCCCC(=O)N[C@@H](C1=CC=C(C=C1)OCC2=CC=CC=C2)C(=O)NCC3=CC=C(C=C3)N=C(N)N.C(=O)(C(F)(F)F)O,Active,,,,0.83,EC50,=,830,nM,
+37,442056241,156016434,CCCCCC(=O)N[C@@H](C1=CC=C(C=C1)OCC2=CC=CC=C2)C(=O)NC3=CC=C(C=C3)N=C(N)N.C(=O)(C(F)(F)F)O,Inconclusive,,,Potential missing data,,EC50,,,,Not Determined
+38,442057006,156016977,CCCCCC(=O)N[C@H](C1=CC=C(C=C1)OCC2=CC(=C(C=C2)Cl)Cl)C(=O)NCC3=CC=C(C=C3)CN.C(=O)(C(F)(F)F)O,Inconclusive,,,Potential missing data,,EC50,,,,Not Determined
+39,442057092,156017040,C1=CC=C(C=C1)COC2=CC=C(C=C2)[C@@H](C(=O)NCC3=CC=C(C=C3)N=C(N)N)NC(=O)C4=CC=CC=C4C5=CC=CC=C5.C(=O)(C(F)(F)F)O,Inconclusive,,,Potential missing data,,EC50,,,,Not Determined
+40,442057722,156017483,CCCCCC(=O)N[C@@H](C1=CC=C(C=C1)OCC2=CC=CC=C2)C(=O)NC3=CC=C(C=C3)CN.C(=O)(C(F)(F)F)O,Inconclusive,,,Potential missing data,,EC50,,,,Not Determined
+41,442058007,156017688,CCCCCC(=O)N[C@H](C1=CC=C(C=C1)OCC2=CC=C(C=C2)C(F)(F)F)C(=O)NCC3=CC=C(C=C3)N=C(N)N.C(=O)(C(F)(F)F)O,Inconclusive,,,Potential missing data,,EC50,,,,Not Determined
+42,442058322,156017915,C1=CC=C(C=C1)COC2=CC=C(C=C2)[C@@H](C(=O)NCC3=CC=C(C=C3)N=C(N)N)NC(=O)C4=CC=C(S4)C5=CC=CS5.C(=O)(C(F)(F)F)O,Active,,,,9.3,EC50,=,9300,nM,
+43,442059120,156018493,CCCCCC(=O)N[C@@H](C1=CC=C(C=C1)OCC2=CC=CC=C2)C(=O)NCC3=CC=C(C=C3)NC(=O)CN,Inconclusive,,,Potential missing data,,EC50,,,,Not Determined
+44,442059863,156019007,C1=CC=C(C=C1)COC2=CC=C(C=C2)[C@@H](C(=O)NCC3=CC=C(C=C3)N=C(N)N)NC(=O)C4=CC(=CC=C4)OC5=CC=CC=C5.C(=O)(C(F)(F)F)O,Active,,,,7.3,EC50,=,7300,nM,
+45,442060063,156019152,CCCCCC(=O)N[C@@H](C1=CC=C(C=C1)OCC2=CC=CC=C2)C(=O)NCCN,Inconclusive,,,Potential missing data,,EC50,,,,Not Determined
+46,442060272,156019299,CCCCCC(=O)N[C@@H](C1=CC=C(C=C1)OCC2=CC=CC=C2)C(=O)NCCCCN,Inconclusive,,,Potential missing data,,EC50,,,,Not Determined
+47,442060775,156019663,C1CCC(CC1)OC2=CC=C(C=C2)C(=O)N[C@@H](C3=CC=C(C=C3)OCC4=CC=CC=C4)C(=O)NCC5=CC=C(C=C5)N=C(N)N.C(=O)(C(F)(F)F)O,Active,,,,2.2,EC50,=,2200,nM,
+48,442061420,156020107,C1=CC=C(C=C1)COC2=CC=C(C=C2)[C@@H](C(=O)NCC3=CC=C(C=C3)N=C(N)N)NC(=O)C4=CC=C(C=C4)OCC5=CC=CC=C5.C(=O)(C(F)(F)F)O,Active,,,,2.1,EC50,=,2100,nM,
+49,442062914,156021157,CCCCCC(=O)N[C@@H](C1=CC=C(C=C1)OCC2=CC=CC=C2)C(=O)N[C@@H](CCCCN)C(=O)N,Inconclusive,,,Potential missing data,,EC50,,,,Not Determined
+50,442063172,156021333,CCCCCC(=O)N[C@@H](C1=CC=C(C=C1)OCC2=CC=CC=C2)C(=O)NCC3=CC=C(C=C3)CN(C)C,Active,,,,6.7,EC50,=,6700,nM,
+51,442063686,156021669,CCCCCC(=O)N[C@@H](C1=CC=C(C=C1)OCC2=CC=CC=C2)C(=O)NC3=CC=C(C=C3)N.C(=O)(C(F)(F)F)O,Inconclusive,,,Potential missing data,,EC50,,,,Not Determined
+52,442064083,156021941,CCCCCC(=O)N[C@@H](C1=CC=C(C=C1)OCC2=C(C=CC=C2Cl)Cl)C(=O)NCC3=CC=C(C=C3)N=C(N)N.C(=O)(C(F)(F)F)O,Inconclusive,,,Potential missing data,,EC50,,,,Not Determined
+53,442064145,156021992,CCCCC(=O)N[C@@H](C1=CC=C(C=C1)OCC2=CC=CC=C2)C(=O)NCC3=CC=C(C=C3)N=C(N)N.C(=O)(C(F)(F)F)O,Active,,,,2.8,EC50,=,2800,nM,
+54,442064500,156022201,CCCCCC(=O)N[C@@H](C1=CC=C(C=C1)OCC2=CC=CC=C2)C(=O)NCC3=CC=C(C=C3)N=C(N)N.C(=O)(C(F)(F)F)O,Active,,,,0.49,EC50,=,490,nM,
+55,442064502,156022203,CCCCCCCCCC(=O)N[C@@H](C1=CC=C(C=C1)OCC2=CC=CC=C2)C(=O)NCC3=CC=C(C=C3)N=C(N)N.C(=O)(C(F)(F)F)O,Active,,,,2.3,EC50,=,2300,nM,
+56,442064609,156022260,CCCCCC(=O)N[C@@H](C1=CC=C(C=C1)OCC2=CC=C(C=C2)C(F)(F)F)C(=O)NCC3=CC=C(C=C3)N=C(N)N.C(=O)(C(F)(F)F)O,Active,,,,3,EC50,=,3000,nM,
+57,461563607,162677490,CCCCCC(=O)N[C@@H](C1=CC=C(C=C1)OCC2=CC=CC=C2)C(=O)NCC3=CC=C(C=C3)CN=C(N)N.C(=O)(C(F)(F)F)O,Active,,,,6.3,EC50,=,6300,nM,

@@ -1,0 +1,14 @@
+PUBCHEM_RESULT_TAG,PUBCHEM_SID,PUBCHEM_CID,PUBCHEM_EXT_DATASOURCE_SMILES,PUBCHEM_ACTIVITY_OUTCOME,PUBCHEM_ACTIVITY_SCORE,PUBCHEM_ACTIVITY_URL,PUBCHEM_ASSAYDATA_COMMENT,Standard Type,Standard Relation,Standard Value,Standard Units
+RESULT_TYPE,,,,,,,,STRING,STRING,FLOAT,STRING
+RESULT_DESCR,,,,,,,,Standardized activity type (e.g. IC50 rather than Ic-50/Ic50/ic50/ic-50),"Qualifier (e.g. >, <, =) for 'Standard Value'",Standardized activity value transformed to common units: e.g. mM concentrations converted to nM,Selected units for 'Standard Type': e.g. concentrations are in nM
+1,336888859,127039493,C1=CC=C(C=C1)[C@H](C(=O)N)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCN=C(N)N)NC(=O)C2=CC=CC=C2,Unspecified,,,,Inhibition,=,99.3,%
+2,336888860,127039494,C1=CC=C(C=C1)C(=O)N[C@@H](CCCN=C(N)N)C(=O)N[C@@H](CCCCN)C(=O)N[C@@H](C2=CC=C(C=C2)O)C(=O)N,Unspecified,,,,Inhibition,=,96.6,%
+3,336889617,127040072,C1=CC=C(C=C1)COC2=CC=C(C=C2)[C@H](C(=O)N)NC(=O)[C@H](CCCN=C(N)N)NC(=O)[C@H](CCCCN)NC(=O)C3=CC=CC=C3,Unspecified,,,,Inhibition,=,77,%
+4,336889618,127040073,C1=CC=C(C=C1)COC2=CC=C(C=C2)[C@H](C(=O)N)NC(=O)[C@@H](CCCN=C(N)N)NC(=O)[C@@H](CCCCN)NC(=O)C3=CC=CC=C3,Unspecified,,,,Inhibition,=,26.8,%
+5,336890050,127040422,C1=CC=C(C=C1)COC2=CC=C(C=C2)[C@@H](C(=O)N)NC(=O)[C@@H](CCCCN)NC(=O)[C@@H](CCCN=C(N)N)NC(=O)C3=CC=CC=C3,Unspecified,,,,Inhibition,=,29.4,%
+6,336890051,127040423,C1=CC=C(C=C1)COC2=CC=C(C=C2)[C@@H](C(=O)N)NC(=O)[C@@H](CCCN=C(N)N)NC(=O)[C@@H](CCCCN)NC(=O)C3=CC=CC=C3,Unspecified,,,,Inhibition,=,23.5,%
+7,336893096,127042681,C1=CC=C(C=C1)C(=O)N[C@@H](CCCN=C(N)N)C(=O)N[C@@H](CCCCN)C(=O)N[C@H](C2=CC=C(C=C2)O)C(=O)N,Unspecified,,,,Inhibition,=,98,%
+8,336893535,127042987,C1=CC=C(C=C1)COC2=CC=C(C=C2)[C@@H](C(=O)N)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCN=C(N)N)NC(=O)C3=CC=CC=C3,Unspecified,,,,Inhibition,=,99.9,%
+9,336893536,127042988,C1=CC=C(C=C1)COC2=CC=C(C=C2)[C@H](C(=O)N)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCN=C(N)N)NC(=O)C3=CC=CC=C3,Unspecified,,,,Inhibition,=,100.1,%
+10,336893537,127042989,C1=CC=C(C=C1)COC2=CC=C(C=C2)[C@H](C(=O)N)NC(=O)[C@H](CCCCN)NC(=O)C3=CC=CC=C3,Unspecified,,,,Inhibition,=,16.4,%
+11,336893538,127042990,C1=CC=C(C=C1)COC2=CC=C(C=C2)[C@H](C(=O)N)NC(=O)[C@H](CCCN=C(N)N)NC(=O)C3=CC=CC=C3,Unspecified,,,,Inhibition,=,31,%

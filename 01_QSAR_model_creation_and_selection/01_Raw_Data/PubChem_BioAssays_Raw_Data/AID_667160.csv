@@ -1,0 +1,17 @@
+PUBCHEM_RESULT_TAG,PUBCHEM_SID,PUBCHEM_CID,PUBCHEM_EXT_DATASOURCE_SMILES,PUBCHEM_ACTIVITY_OUTCOME,PUBCHEM_ACTIVITY_SCORE,PUBCHEM_ACTIVITY_URL,PUBCHEM_ASSAYDATA_COMMENT,Standard Type,Activity Comment
+RESULT_TYPE,,,,,,,,STRING,STRING
+RESULT_DESCR,,,,,,,,Standardized activity type (e.g. IC50 rather than Ic-50/Ic50/ic50/ic-50),Additional comments
+1,160668537,916641,CC(C)(C)C1=CC=C(C=C1)C(=O)NC(=S)NC2=CC=CC=C2,Inactive,,,Potential missing data,Activity,Not Active
+2,160673874,1340630,CC1=C(C=CC=C1Cl)NC(=S)NC(=O)C2=CC=C(C=C2)C(C)(C)C,Inactive,,,Potential missing data,Activity,Not Active
+3,160679200,4594268,CC(C)(C)C1=CC=C(C=C1)C(=O)NC(=S)NC2=CC=C(C=C2)CN3CCCCC3,Inactive,,,Potential missing data,Activity,Not Active
+4,160684515,916633,CC1=CC(=CC(=C1)NC(=S)NC(=O)C2=CC=C(C=C2)C(C)(C)C)C,Inactive,,,Potential missing data,Activity,Not Active
+5,160684547,979164,CC(C)(C)C1=CC=C(C=C1)C(=O)NC(=S)NC2=CC=C(C=C2)CN3CCOCC3,Inactive,,,Potential missing data,Activity,Not Active
+6,160695336,53354795,CC1=CC(=C(C=C1)Cl)NC(=S)NC(=O)C2=CC=C(C=C2)C(C)(C)C,Inactive,,,Potential missing data,Activity,Not Active
+7,160695338,2292161,CC(C)(C)C1=CC=C(C=C1)C(=O)NC(=S)NC2=C(C=CC(=C2)Cl)Cl,Inactive,,,Potential missing data,Activity,Not Active
+8,160695364,70692418,CC(C)(C)C1=CC=C(C=C1)C(=O)NC(=S)NC2=CC(=C(C=C2)NC(=O)C3=CC=C(C=C3)C(=O)O)OC,Inactive,,,Potential missing data,Activity,Not Active
+9,160695368,3728976,CC(=O)N1CCN(CC1)C2=CC=C(C=C2)NC(=S)NC(=O)C3=CC=C(C=C3)C(C)(C)C,Inactive,,,Potential missing data,Activity,Not Active
+10,160700726,70694454,CC(C)(C)C1=CC=C(C=C1)C(=O)NC(=S)NC2=CC(=C(C=C2)N)OC.Cl,Inactive,,,Potential missing data,Activity,Not Active
+11,160700741,70694462,CC(C)(C)C1=CC=C(C=C1)C(=O)NC(=S)NC2=CC(=C(C=C2)NC(=O)C3=CC(=CC=C3)C(=O)O)OC,Inactive,,,Potential missing data,Activity,Not Active
+12,160700743,2722101,CC(C)(C)C1=CC=C(C=C1)C(=O)NC(=S)NC2=CC=C(C=C2)N3CCCCC3,Inactive,,,Potential missing data,Activity,Not Active
+13,160704062,1227109,CC(C)(C)C1=CC=C(C=C1)C(=O)NC(=S)NC2=CC=C(C=C2)N3CCOCC3,Inactive,,,Potential missing data,Activity,Not Active
+14,160706020,3642064,CC(C)(C)C1=CC=C(C=C1)C(=O)NC(=S)NC2=CC=C(C=C2)NC(=O)C3=CC=CC=C3,Inactive,,,Potential missing data,Activity,Not Active

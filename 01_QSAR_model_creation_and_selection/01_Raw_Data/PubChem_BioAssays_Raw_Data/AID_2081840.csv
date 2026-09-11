@@ -1,0 +1,6 @@
+PUBCHEM_RESULT_TAG,PUBCHEM_SID,PUBCHEM_CID,PUBCHEM_EXT_DATASOURCE_SMILES,PUBCHEM_ACTIVITY_OUTCOME,PUBCHEM_ACTIVITY_SCORE,PUBCHEM_ACTIVITY_URL,PUBCHEM_ASSAYDATA_COMMENT,Standard Type,Standard Relation,Standard Value,Standard Units,Data Validity Comment
+RESULT_TYPE,,,,,,,,STRING,STRING,FLOAT,STRING,STRING
+RESULT_DESCR,,,,,,,,Standardized activity type (e.g. IC50 rather than Ic-50/Ic50/ic50/ic-50),"Qualifier (e.g. >, <, =) for 'Standard Value'",Standardized activity value transformed to common units: e.g. mM concentrations converted to nM,Selected units for 'Standard Type': e.g. concentrations are in nM,Comment reflecting whether the values for this activity measurement are likely to be correct
+1,374285335,122689692,CC1=CC2=C(C=C1OC)NC=C2C(=O)C(C3=C(C=C(C=C3)Cl)OC)NC4=CC(=CC(=C4)S(=O)(=O)C)OC,Unspecified,,,,Solubility,>,169000,ug.mL-1,Outside typical range
+2,520018540,121484802,CC1=CC2=C(C=C1OC)NC=C2C(=O)C(C3=C(C=C(C=C3)F)OC)NC4=CC(=CC(=C4)S(=O)(=O)C)OC,Unspecified,,,,Solubility,=,93000,ug.mL-1,Outside typical range
+3,520055856,121484813,COC1=CC(=CC(=C1)NC(C2=C(C=C(C=C2)F)OC)C(=O)C3=CNC4=C3C=CC(=C4)F)S(=O)(=O)C,Unspecified,,,,Solubility,=,41000,ug.mL-1,

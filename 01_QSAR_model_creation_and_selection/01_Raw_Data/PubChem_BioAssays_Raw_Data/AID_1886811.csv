@@ -1,0 +1,23 @@
+PUBCHEM_RESULT_TAG,PUBCHEM_SID,PUBCHEM_CID,PUBCHEM_EXT_DATASOURCE_SMILES,PUBCHEM_ACTIVITY_OUTCOME,PUBCHEM_ACTIVITY_SCORE,PUBCHEM_ACTIVITY_URL,PUBCHEM_ASSAYDATA_COMMENT,Standard Type,Standard Relation,Standard Value
+RESULT_TYPE,,,,,,,,STRING,STRING,FLOAT
+RESULT_DESCR,,,,,,,,Standardized activity type (e.g. IC50 rather than Ic-50/Ic50/ic50/ic-50),"Qualifier (e.g. >, <, =) for 'Standard Value'",Standardized activity value transformed to common units: e.g. mM concentrations converted to nM
+1,103466623,21582568,CC(C)C1=C(C=C2C(=C1)CC[C@@H]3[C@@]2(CCC[C@@]3(C)CO)C)O,Unspecified,,,,FC,=,10
+2,103504725,135398513,C1=NC2=C(N1COCCO)N=C(NC2=O)N,Unspecified,,,,FC,=,100
+3,103617975,13370049,CC(C)C1=C(C=C2C(=C1)CC[C@@H]3[C@@]2(CCC[C@]3(C)C(=O)O)C)O,Unspecified,,,,FC,=,10
+4,103619997,37542,C1=NC(=NN1[C@H]2[C@@H]([C@@H]([C@H](O2)CO)O)O)C(=O)N,Unspecified,,,,FC,=,10
+5,103627460,13370050,CC(C)C1=C(C=C2C(=C1)CC[C@@H]3[C@@]2(CCC[C@@]3(C)C(=O)O)C)O,Unspecified,,,,FC,=,10
+6,194147690,24764296,CC(C)C1=C(C2=C(C=C1)[C@]3(CCC[C@@]([C@@H]3CC2)(C)C(=O)OC)C)O,Unspecified,,,,FC,=,31.62
+7,312359874,16115073,CC(C)C1=C(C=C2C(=C1)CC[C@@H]3[C@@]2(CCC[C@@]3(C)CN4C(=O)C5=CC=CC=C5C4=O)C)O,Unspecified,,,,FC,=,100
+8,312363233,21632843,CC(C)C1=C(C=C2C(=C1)CC[C@@H]3[C@@]2(CCC[C@]3(C)CO)C)O,Unspecified,,,,FC,=,31.62
+9,440111071,14165764,CC(C)C1=C(C=C2C(=C1)CC[C@@H]3[C@@]2(CCC[C@@]3(C)C(=O)OC)C)OC(=O)C,Unspecified,,,,FC,=,31.62
+10,440118215,155516104,CC(C)C1=C(C=C2C(=C1)C(=O)C[C@@H]3[C@@]2(CCC[C@@]3(C)C(=O)O)C)O,Unspecified,,,,FC,=,10
+11,440172368,220356,CC(C)C1=C(C=C2C(=C1)CC[C@@H]3[C@@]2(CCC[C@@]3(C)C(=O)OC)C)C(=O)C,Unspecified,,,,FC,=,10
+12,440181798,102152190,CC(C)C1=C(C=C2C(=C1)C(=O)C[C@@H]3[C@@]2(CCC[C@@]3(C)C(=O)OC)C)O,Unspecified,,,,FC,=,10
+13,440193504,102152189,CC(C)C1=C(C=C2C(=C1)C(=O)C[C@@H]3[C@@]2(CCC[C@@]3(C)C(=O)OC)C)OC(=O)C,Unspecified,,,,FC,=,10
+14,440196801,155556419,CC(C)C1=C(C=C2C(=C1)C(=O)C[C@@H]3[C@@]2(CCC[C@@]3(C)CO)C)O,Unspecified,,,,FC,=,31.62
+15,440211391,14132237,CC(C)C1=C(C=C2C(=C1)CC[C@@H]3[C@@]2(CCC[C@@]3(C)C(=O)OC)C)O,Unspecified,,,,FC,=,31.62
+16,482046858,168269085,CC(C)C1=C(C=C2C(=C1)C(=O)C[C@@H]3[C@@]2(CCC[C@]3(C)CO)C)O,Unspecified,,,,FC,=,31.62
+17,482047123,44268184,CC(C)C1=CC2=C(C=C1)[C@]3(CCCC([C@@H]3CC2)(C)C(=O)OC)C,Unspecified,,,,FC,=,10
+18,482052364,168272866,CC(=O)N[C@@H]1[C@H]([C@@H]([C@H](O[C@@H]1O[C@H]2[C@@H]([C@H]([C@@H](O[C@@H]2C(=O)O)O[C@H]3[C@@H]([C@H]([C@H](O[C@@H]3O)O[C@H]4[C@@H]([C@H]([C@@H](O[C@H]4C(=O)O)O)OS(=O)(=O)O)O)OS(=O)(=O)O)CSO)O)O)COS(=O)(=O)O)O)O,Unspecified,,,,FC,=,1000
+19,482060097,92286084,CC(C)C1=C(C=C2C(=C1)CC[C@@H]3[C@@]2(CCC[C@]3(C)C(=O)OC)C)C(=O)C,Unspecified,,,,FC,=,10
+20,482069646,168285481,CC(C)C1=CC2=C(C=C1)[C@]3(CCCC([C@@H]3CC2)(C)C(=O)O)C,Unspecified,,,,FC,=,10

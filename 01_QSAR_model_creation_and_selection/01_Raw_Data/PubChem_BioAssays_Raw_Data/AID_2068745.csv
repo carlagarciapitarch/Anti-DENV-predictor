@@ -1,0 +1,7 @@
+PUBCHEM_RESULT_TAG,PUBCHEM_SID,PUBCHEM_CID,PUBCHEM_EXT_DATASOURCE_SMILES,PUBCHEM_ACTIVITY_OUTCOME,PUBCHEM_ACTIVITY_SCORE,PUBCHEM_ACTIVITY_URL,PUBCHEM_ASSAYDATA_COMMENT,Standard Type,Standard Relation,Standard Value,Standard Units
+RESULT_TYPE,,,,,,,,STRING,STRING,FLOAT,STRING
+RESULT_DESCR,,,,,,,,Standardized activity type (e.g. IC50 rather than Ic-50/Ic50/ic50/ic-50),"Qualifier (e.g. >, <, =) for 'Standard Value'",Standardized activity value transformed to common units: e.g. mM concentrations converted to nM,Selected units for 'Standard Type': e.g. concentrations are in nM
+1,124963934,44633776,C#C[C@]1([C@@H]([C@H](O[C@H]1N2C=CC3=C(N=CN=C32)N)CO)O)O,Unspecified,,,,Inhibition,=,100,%
+2,520016973,177647491,C1CN(C(=O)C2=C3C1=CN(C3=CC(=C2)C4=CC(=CC=C4)/C(=N/O)/N)CC5=CC=C(C=C5)Br)CC6=CC=C(C=C6)/C(=N/O)/N,Unspecified,,,,Inhibition,=,100,%
+3,520017799,177647885,C1CN(C(=O)C2=C3C1=CN(C3=CC(=C2)C4=CC=C(S4)/C(=N/O)/N)CC5=CC=C(C=C5)Br)CC6=CC=C(C=C6)/C(=N/O)/N,Unspecified,,,,Inhibition,=,60,%
+4,520061567,177659832,C1CN(C(=O)C2=C3C1=CN(C3=CC(=C2)C4=CC(=CC=C4)/C(=N/O)/N)CC5=CC(=CC=C5)Br)CC6=CC=C(C=C6)/C(=N/O)/N,Unspecified,,,,Inhibition,=,100,%

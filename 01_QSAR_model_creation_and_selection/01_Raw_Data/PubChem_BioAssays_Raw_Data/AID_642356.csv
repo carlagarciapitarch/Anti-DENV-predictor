@@ -1,0 +1,18 @@
+PUBCHEM_RESULT_TAG,PUBCHEM_SID,PUBCHEM_CID,PUBCHEM_EXT_DATASOURCE_SMILES,PUBCHEM_ACTIVITY_OUTCOME,PUBCHEM_ACTIVITY_SCORE,PUBCHEM_ACTIVITY_URL,PUBCHEM_ASSAYDATA_COMMENT,PubChem Standard Value,Standard Type,Standard Relation,Standard Value,Standard Units,Activity Comment
+RESULT_TYPE,,,,,,,,FLOAT,STRING,STRING,FLOAT,STRING,STRING
+RESULT_DESCR,,,,,,,,PubChem standardized value transformed from 'Standard Value'. The unit is always micromolar,Standardized activity type (e.g. IC50 rather than Ic-50/Ic50/ic50/ic-50),"Qualifier (e.g. >, <, =) for 'Standard Value'",Standardized activity value transformed to common units: e.g. mM concentrations converted to nM,Selected units for 'Standard Type': e.g. concentrations are in nM,Additional comments
+RESULT_UNIT,,,,,,,,MICROMOLAR,,,,,
+RESULT_IS_ACTIVE_CONCENTRATION,,,,,,,,TRUE,,,,,
+RESULT_IS_ACTIVE_CONCENTRATION_QUALIFIER,,,,,,,,,,TRUE,,,
+1,103556080,68071,C1[C@H](OC2=CC(=CC(=C2C1=O)O)O)C3=CC=CC=C3,Inactive,,,Potential missing data,,IC50,,,,Not Active
+2,103602255,135434165,C1[C@H](O[C@H]([C@@H]1O)N2C=NC3=C2N=C(NC3=O)N)COP(=O)(O)OP(=O)(O)OP(=O)(O)O,Active,,,,0.02,IC50,=,20,nM,
+3,136922674,56834070,C1C(OC2=C(C(=C(C(=C2C1=O)O)C(/C=C/CCCC(=O)O)C3=CC=CC=C3)O)C(CCCC(=O)O)/C=C/C4=CC=CC=C4)C5=CC=CC=C5,Active,,,,1.8,IC50,=,1800,nM,
+4,136922675,56834068,C1C(OC2=C(C1=O)C(=C(C(=C2)O)C(/C=C/CCCC(=O)O)C3=CC=CC=C3)O)C4=CC=CC=C4,Unspecified,,,,72.5,IC50,=,72500,nM,
+5,136925914,56834173,C1[C@H](OC2=C(C1=O)C(=C(C(=C2)O)[C@H](CCCC(=O)O)/C=C/C3=CC=CC=C3)O)C4=CC=CC=C4,Unspecified,,,,27,IC50,=,27000,nM,
+6,136925915,56834172,C1[C@@H](OC2=C(C1=O)C(=C(C(=C2)O)[C@@H](CCCC(=O)O)/C=C/C3=CC=CC=C3)O)C4=CC=CC=C4,Active,,,,9,IC50,=,9000,nM,
+7,136929138,56834067,C1C(OC2=C(C1=O)C(=C(C(=C2)O)C(CCCC(=O)O)/C=C/C3=CC=CC=C3)O)C4=CC=CC=C4,Unspecified,,,,14.8,IC50,=,14800,nM,
+8,136932384,56834170,C1C(OC2=C(C(=C(C(=C2C1=O)O)C(CCCC(=O)O)/C=C/C3=CC=CC=C3)O)C(CCCC(=O)O)/C=C/C4=CC=CC=C4)C5=CC=CC=C5,Active,,,,2.4,IC50,=,2400,nM,
+9,136935831,56834169,C1C(OC2=C(C(=C(C(=C2C1=O)O)C(CCCC(=O)O)/C=C/C3=CC=CC=C3)O)C(/C=C/CCCC(=O)O)C4=CC=CC=C4)C5=CC=CC=C5,Active,,,,2.9,IC50,=,2900,nM,
+10,136935832,56834069,C1C(OC2=C(C(=C(C(=C2C1=O)O)C(/C=C/CCCC(=O)O)C3=CC=CC=C3)O)C(/C=C/CCCC(=O)O)C4=CC=CC=C4)C5=CC=CC=C5,Active,,,,4.2,IC50,=,4200,nM,
+11,136938967,56834171,C1[C@@H](OC2=C(C1=O)C(=C(C(=C2)O)[C@H](CCCC(=O)O)/C=C/C3=CC=CC=C3)O)C4=CC=CC=C4,Unspecified,,,,15.3,IC50,=,15300,nM,
+12,136945339,56834283,C1[C@H](OC2=C(C1=O)C(=C(C(=C2)O)[C@@H](CCCC(=O)O)/C=C/C3=CC=CC=C3)O)C4=CC=CC=C4,Active,,,,7.4,IC50,=,7400,nM,

@@ -1,0 +1,18 @@
+PUBCHEM_RESULT_TAG,PUBCHEM_SID,PUBCHEM_CID,PUBCHEM_EXT_DATASOURCE_SMILES,PUBCHEM_ACTIVITY_OUTCOME,PUBCHEM_ACTIVITY_SCORE,PUBCHEM_ACTIVITY_URL,PUBCHEM_ASSAYDATA_COMMENT,PubChem Standard Value,Standard Type,Standard Relation,Standard Value,Standard Units,Data Validity Comment
+RESULT_TYPE,,,,,,,,FLOAT,STRING,STRING,FLOAT,STRING,STRING
+RESULT_DESCR,,,,,,,,PubChem standardized value transformed from 'Standard Value'. The unit is always micromolar,Standardized activity type (e.g. IC50 rather than Ic-50/Ic50/ic50/ic-50),"Qualifier (e.g. >, <, =) for 'Standard Value'",Standardized activity value transformed to common units: e.g. mM concentrations converted to nM,Selected units for 'Standard Type': e.g. concentrations are in nM,Comment reflecting whether the values for this activity measurement are likely to be correct
+RESULT_UNIT,,,,,,,,MICROMOLAR,,,,,
+RESULT_IS_ACTIVE_CONCENTRATION,,,,,,,,TRUE,,,,,
+RESULT_IS_ACTIVE_CONCENTRATION_QUALIFIER,,,,,,,,,,TRUE,,,
+1,103168561,5351344,COC1=C(C=C(C=C1)/C=C\C2=CC(=C(C(=C2)OC)OC)OC)O,Active,,,,0.000428,CC50,=,0.428,nM,Outside typical range
+2,103313729,9796936,COC1=C(C=C(C=C1)/C=C\C2=CC(=C(C(=C2)OC)OC)OC)N,Active,,,,0.00147,CC50,=,1.47,nM,
+3,440119428,155516940,COC1=C(C=C(C=C1)/C=C\C2=CC(=C(C(=C2)OC)OC)OC)NC(=O)[C@H](CO)NC(=O)[C@H](CCCN=C(N)N)NC(=O)[C@H](CCCCN)NC(=O)C3=CC=CC=C3,Active,,,,0.0618,CC50,=,61.8,nM,
+4,440135013,155527011,COC1=C(C=C(C=C1)/C=C\C2=CC(=C(C(=C2)OC)OC)OC)NC(=O)CNC(=O)[C@H](CCCN=C(N)N)NC(=O)[C@H](CCCN=C(N)N)NC(=O)C3=CC=CC=C3,Active,,,,0.0072,CC50,=,7.2,nM,
+5,440141939,155531573,COC1=C(C=C(C=C1)/C=C\C2=CC(=C(C(=C2)OC)OC)OC)NC(=O)CNC(=O)CNC(=O)[C@H](CCCN=C(N)N)NC(=O)[C@H](CCCN=C(N)N)NC(=O)C3=CC=CC=C3,Active,,,,0.0195,CC50,=,19.5,nM,
+6,440146719,155534746,COC1=C(C=C(C=C1)/C=C\C2=CC(=C(C(=C2)OC)OC)OC)NC(=O)CNC(=O)[C@H](CCCN=C(N)N)NC(=O)[C@H](CCCCN)NC(=O)C3=CC=CC=C3,Active,,,,0.0782,CC50,=,78.2,nM,
+7,440151167,68521859,COC1=C(C=C(C=C1)/C=C\C2=CC(=C(C(=C2)OC)OC)OC)NC(=O)CN,Active,,,,0.0377,CC50,=,37.7,nM,
+8,440152960,155538731,COC1=C(C=C(C=C1)/C=C\C2=CC(=C(C(=C2)OC)OC)OC)NC(=O)CCNC(=O)[C@H](CCCN=C(N)N)NC(=O)[C@H](CCCN=C(N)N)NC(=O)C3=CC=CC=C3,Active,,,,0.952,CC50,=,952,nM,
+9,440159075,155541369,COC1=C(C=C(C=C1)/C=C\C2=CC(=C(C(=C2)OC)OC)OC)NC(=O)[C@H](CO)NC(=O)[C@H](CCCN=C(N)N)NC(=O)[C@H](CCCN=C(N)N)NC(=O)C3=CC=CC=C3,Active,,,,0.0292,CC50,=,29.2,nM,
+10,440180901,68521908,C[C@@H](C(=O)NC1=C(C=CC(=C1)/C=C\C2=CC(=C(C(=C2)OC)OC)OC)OC)N,Active,,,,0.00669,CC50,=,6.69,nM,
+11,440188120,155552994,C[C@@H](C(=O)NC1=C(C=CC(=C1)/C=C\C2=CC(=C(C(=C2)OC)OC)OC)OC)NC(=O)[C@H](CCCN=C(N)N)NC(=O)[C@H](CCCN=C(N)N)NC(=O)C3=CC=CC=C3,Active,,,,0.0657,CC50,=,65.7,nM,
+12,440198785,155557250,C[C@@H](C(=O)NC1=C(C=CC(=C1)/C=C\C2=CC(=C(C(=C2)OC)OC)OC)OC)NC(=O)[C@H](CCCN=C(N)N)NC(=O)[C@H](CCCCN)NC(=O)C3=CC=CC=C3,Active,,,,0.0246,CC50,=,24.6,nM,

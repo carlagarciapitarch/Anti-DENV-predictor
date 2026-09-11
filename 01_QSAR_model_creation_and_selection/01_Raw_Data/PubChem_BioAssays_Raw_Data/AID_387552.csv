@@ -1,0 +1,18 @@
+PUBCHEM_RESULT_TAG,PUBCHEM_SID,PUBCHEM_CID,PUBCHEM_EXT_DATASOURCE_SMILES,PUBCHEM_ACTIVITY_OUTCOME,PUBCHEM_ACTIVITY_SCORE,PUBCHEM_ACTIVITY_URL,PUBCHEM_ASSAYDATA_COMMENT,Standard Type,Standard Relation,Standard Value,Standard Units
+RESULT_TYPE,,,,,,,,STRING,STRING,FLOAT,STRING
+RESULT_DESCR,,,,,,,,Standardized activity type (e.g. IC50 rather than Ic-50/Ic50/ic50/ic-50),"Qualifier (e.g. >, <, =) for 'Standard Value'",Standardized activity value transformed to common units: e.g. mM concentrations converted to nM,Selected units for 'Standard Type': e.g. concentrations are in nM
+1,103624987,44579111,CC1=CC=C(C=C1)OC[C@@H]2[C@H](C[C@@H](O2)N3C=C(N=N3)CN4C=CC(=O)NC4=O)OC5=CC=C(C=C5)C,Unspecified,,,,Inhibition,=,0.82,%
+2,103624988,44579112,C1[C@@H]([C@H](O[C@H]1N2C=C(N=N2)CN3C=CC(=O)NC3=O)CO)O,Unspecified,,,,Inhibition,=,0.75,%
+3,103624989,44579113,CC1=CC=C(C=C1)OC[C@@H]2[C@H](C[C@@H](O2)N3C=C(N=N3)CN4C=CC(=NC4=O)N)OC5=CC=C(C=C5)C,Unspecified,,,,Inhibition,=,-2.26,%
+4,103625059,44579155,C1[C@@H]([C@H](O[C@H]1N2C=C(N=N2)CN3C=CC(=NC3=O)N)CO)O,Unspecified,,,,Inhibition,=,0.95,%
+5,103625060,44579156,CC1=CC=C(C=C1)OC[C@@H]2[C@H](C[C@@H](O2)N3C=C(N=N3)CN4C=CC5=C4N=C(N=C5Cl)N)OC6=CC=C(C=C6)C,Unspecified,,,,Inhibition,=,-2.39,%
+6,103625061,489883,C#CCN1C=CC(=O)NC1=O,Unspecified,,,,Inhibition,=,-4.6,%
+7,103625062,25141370,C#CCN1C=CC2=C1N=CN=C2Cl,Unspecified,,,,Inhibition,=,-0.85,%
+8,103625063,44579157,C1[C@@H]([C@H](O[C@H]1N2C=C(N=N2)CN3C=NC4=C(N=CN=C43)N)CO)O,Unspecified,,,,Inhibition,=,1.02,%
+9,103625064,44579158,C1[C@@H]([C@H](O[C@H]1N2C=C(N=N2)CN3C=NC4=C3N=CN5C4=NC=C5)CO)O,Unspecified,,,,Inhibition,=,2.23,%
+10,103625134,44579213,C1[C@@H]([C@H](O[C@H]1N2C=C(N=N2)CN3C=NC4=C(N=CN=C43)NC(=O)C5=CC=CC=C5)CO)O,Unspecified,,,,Inhibition,=,1.02,%
+11,103625135,44579214,CC1=CC=C(C=C1)OC[C@@H]2[C@H](C[C@@H](O2)N3C=C(N=N3)CN4C=CC5=C4N=CN=C5Cl)OC6=CC=C(C=C6)C,Unspecified,,,,Inhibition,=,-1.05,%
+12,103625136,44579215,C1[C@@H]([C@H](O[C@H]1N2C=C(N=N2)CN3C=CC4=C(N=CN=C43)N)CO)O,Unspecified,,,,Inhibition,=,3.43,%
+13,103625137,44579216,C1[C@@H]([C@H](O[C@H]1N2C=C(N=N2)CN3C=CC4=C3N=C(N=C4Cl)N)CO)O,Unspecified,,,,Inhibition,=,2.49,%
+14,103625138,338596,C#CCN1C=NC2=C(N=CN=C21)N,Unspecified,,,,Inhibition,=,-3.4,%
+15,103625203,15473782,C#CCN1C=NC2=C1N=C(N=C2Cl)N,Unspecified,,,,Inhibition,=,1.56,%

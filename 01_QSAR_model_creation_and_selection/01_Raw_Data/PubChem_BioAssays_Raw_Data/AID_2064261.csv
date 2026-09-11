@@ -1,0 +1,25 @@
+PUBCHEM_RESULT_TAG,PUBCHEM_SID,PUBCHEM_CID,PUBCHEM_EXT_DATASOURCE_SMILES,PUBCHEM_ACTIVITY_OUTCOME,PUBCHEM_ACTIVITY_SCORE,PUBCHEM_ACTIVITY_URL,PUBCHEM_ASSAYDATA_COMMENT,Standard Type,Standard Relation,Standard Value,Activity Comment
+RESULT_TYPE,,,,,,,,STRING,STRING,FLOAT,STRING
+RESULT_DESCR,,,,,,,,Standardized activity type (e.g. IC50 rather than Ic-50/Ic50/ic50/ic-50),"Qualifier (e.g. >, <, =) for 'Standard Value'",Standardized activity value transformed to common units: e.g. mM concentrations converted to nM,Additional comments
+1,440130698,155524190,CC1(CC(CC(N1)(C)C)NC2=NC=CC(=N2)NCC3=CC=C(C=C3)Cl)C,Unspecified,,,,Selectivity Index,=,1.54,
+2,440177207,155548606,CC1(CC(CC(N1)(C)C)NC2=NC=CC(=N2)NC3=CC=C(C=C3)Cl)C,Unspecified,,,,Selectivity Index,=,1.64,
+3,519998091,177638974,CC1(CC(CC(N1)(C)C)NC2=NC3=C(C(=N2)NC4=CC=C(C=C4)C5=CC=CC=C5)SC=C3)C,Unspecified,,,,Selectivity Index,=,1.3,
+4,520012757,171713999,C1CCN(CC1)CCNC2=NC(=CC(=N2)NCC3=CC=C(C=C3)Cl)C(F)(F)F,Unspecified,,,,Selectivity Index,=,20.54,
+5,520012768,177645779,C1CCN(CC1)CCNC2=NC(=CC(=N2)NC3=CC=C(C=C3)C4=CC=CC=C4)C(F)(F)F,Unspecified,,,,Selectivity Index,=,7.55,
+6,520013141,177645927,CN(CC1=CC=C(C=C1)Cl)C2=NC(=NC(=C2)C(F)(F)F)NCCN3CCCCC3,Inconclusive,,,Potential missing data,Selectivity Index,,,Not Determined
+7,520013143,177645929,CC1(CC(CC(N1)(C)C)NC2=NC=NC(=N2)NC3=CC=C(C=C3)C4=CC=CC=C4)C,Inconclusive,,,Potential missing data,Selectivity Index,,,Not Determined
+8,520013234,177645972,CC1(CC(CC(N1)(C)C)NC2=NC(=CC(=N2)NC3=CC=C(C=C3)C4=CC=CC=C4)C(F)(F)F)C,Inconclusive,,,Potential missing data,Selectivity Index,,,Not Determined
+9,520013551,177646109,C1CCC(CC1)C2=CC=C(C=C2)NC3=NC(=NC(=C3)C(F)(F)F)NCCN4CCCCC4,Inconclusive,,,Potential missing data,Selectivity Index,,,Not Determined
+10,520013775,177646206,C1CCN(CC1)CCNC2=NC(=CC(=N2)NCC3=CC=C(C=C3)C4=CC=CC=C4)C(F)(F)F,Unspecified,,,,Selectivity Index,<,2,
+11,520013997,177646284,COC1=CC=C(C=C1)CNC2=NC(=NC(=C2)C(F)(F)F)NCCN3CCCCC3,Unspecified,,,,Selectivity Index,<,2,
+12,520014423,177646441,C1CCN(CC1)CCNC2=NC(=CC(=N2)NC3=CC=C(C=C3)C4=CC=C(C=C4)N)C(F)(F)F,Unspecified,,,,Selectivity Index,<,2,
+13,520014425,177646442,C1CCN(CC1)CCNC2=NC(=CC(=N2)NC(=O)C3=CC=C(C=C3)Cl)C(F)(F)F,Unspecified,,,,Selectivity Index,<,1.05,
+14,520014754,177646574,CC1(CC(CC(N1)(C)C)NC2=NC(=CC(=N2)NC3=CC=C(C=C3)C4=CC=CC=C4)C#N)C,Unspecified,,,,Selectivity Index,=,3.82,
+15,520015271,177646755,C1CCN(CC1)CCNC2=NC(=CC(=N2)NCC3=CN=CC=C3)C(F)(F)F,Unspecified,,,,Selectivity Index,<,4,
+16,520018638,177648281,C1CCN(CC1)CCNC2=NC(=CC(=N2)NC3=CC=C(C=C3)C4=CC=CC=C4)C#N,Unspecified,,,,Selectivity Index,=,3.15,
+17,520019642,177648740,CC1=CC=C(C=C1)CNC2=NC(=NC(=C2)C(F)(F)F)NCCN3CCCCC3,Unspecified,,,,Selectivity Index,<,2.5,
+18,520021312,177649486,C1CCN(CC1)CCNC2=NC3=C(C(=N2)NC4=CC=C(C=C4)C5=CC=CC=C5)SC=C3,Unspecified,,,,Selectivity Index,=,0.92,
+19,520027950,177650989,C1CCN(CC1)CCNC2=NC(=CC(=N2)NCC3=C(C=C(C=C3)Cl)F)C(F)(F)F,Inconclusive,,,Potential missing data,Selectivity Index,,,Not Determined
+20,520059845,177659432,C1CCN(CC1)CCNC2=NC(=CC(=N2)NC3=CC=C(C=C3)Cl)C(F)(F)F,Unspecified,,,,Selectivity Index,=,1.88,
+21,520061559,177659826,C1CCN(CC1)CCNC2=NC(=CC(=N2)NCC3=CC=C(C=C3)N)C(F)(F)F,Inconclusive,,,Potential missing data,Selectivity Index,,,Not Determined
+22,520064341,177660469,C1CCN(CC1)CCNC2=NC(=CC(=N2)NCC3=CC=C(C=C3)F)C(F)(F)F,Unspecified,,,,Selectivity Index,=,2.96,

@@ -1,0 +1,38 @@
+PUBCHEM_RESULT_TAG,PUBCHEM_SID,PUBCHEM_CID,PUBCHEM_EXT_DATASOURCE_SMILES,PUBCHEM_ACTIVITY_OUTCOME,PUBCHEM_ACTIVITY_SCORE,PUBCHEM_ACTIVITY_URL,PUBCHEM_ASSAYDATA_COMMENT,PubChem Standard Value,Standard Type,Standard Relation,Standard Value,Standard Units,Activity Comment
+RESULT_TYPE,,,,,,,,FLOAT,STRING,STRING,FLOAT,STRING,STRING
+RESULT_DESCR,,,,,,,,PubChem standardized value transformed from 'Standard Value'. The unit is always micromolar,Standardized activity type (e.g. IC50 rather than Ic-50/Ic50/ic50/ic-50),"Qualifier (e.g. >, <, =) for 'Standard Value'",Standardized activity value transformed to common units: e.g. mM concentrations converted to nM,Selected units for 'Standard Type': e.g. concentrations are in nM,Additional comments
+RESULT_UNIT,,,,,,,,MICROMOLAR,,,,,
+RESULT_IS_ACTIVE_CONCENTRATION,,,,,,,,TRUE,,,,,
+RESULT_IS_ACTIVE_CONCENTRATION_QUALIFIER,,,,,,,,,,TRUE,,,
+1,163313687,60168115,C1[C@@H]([C@H]([C@@H]([C@H](N1CCCCCCOC2=C(C=CC(=C2)F)F)CO)O)O)O,Active,,,,0.4,EC50,=,400,nM,
+2,163313687,60168115,C1[C@@H]([C@H]([C@@H]([C@H](N1CCCCCCOC2=C(C=CC(=C2)F)F)CO)O)O)O,Unspecified,,,Potential missing data,,Activity,,,,Dose-dependent effect
+3,163313688,60170253,C1[C@@H]([C@H]([C@@H]([C@H](N1CCCCCCOC2=C(C(=C(C(=C2F)F)F)F)F)CO)O)O)O,Active,,,,1.7,EC50,=,1700,nM,
+4,163313997,60170163,CC1=CC(=CC=C1)OCCCCCCN2C[C@@H]([C@H]([C@@H]([C@H]2CO)O)O)O,Active,,,,0.6,EC50,=,600,nM,
+5,163317110,60170339,C1[C@@H]([C@H]([C@@H]([C@H](N1CCCCCCOC2=CC=CC(=C2)C(F)(F)F)CO)O)O)O,Active,,,,0.4,EC50,=,400,nM,
+6,163317111,51031020,CCC(CC)(CCCCCCN1C[C@@H]([C@H]([C@@H]([C@H]1CO)O)O)O)O,Active,,,,6.5,EC50,=,6500,nM,
+7,163317111,51031020,CCC(CC)(CCCCCCN1C[C@@H]([C@H]([C@@H]([C@H]1CO)O)O)O)O,Unspecified,,,Potential missing data,,Activity,,,,Dose-dependent effect
+8,163320587,60170251,C1[C@@H]([C@H]([C@@H]([C@H](N1CCCCCCOC2=CC=C(C=C2)F)CO)O)O)O,Active,,,,1.1,EC50,=,1100,nM,
+9,163320898,60170161,C1[C@@H]([C@H]([C@@H]([C@H](N1CCCCCCOC2=CC=CC=C2)CO)O)O)O,Active,,,,1.7,EC50,=,1700,nM,
+10,163323965,60168110,C1[C@@H]([C@H]([C@@H]([C@H](N1CCCCCCOC2=CC(=CC=C2)F)CO)O)O)O,Active,,,,0.4,EC50,=,400,nM,
+11,163323965,60168110,C1[C@@H]([C@H]([C@@H]([C@H](N1CCCCCCOC2=CC(=CC=C2)F)CO)O)O)O,Unspecified,,,Potential missing data,,Activity,,,,Dose-dependent effect
+12,163323967,60170340,C1[C@@H]([C@H]([C@@H]([C@H](N1CCCCCCOC2=CC=C(C=C2)C(F)(F)F)CO)O)O)O,Active,,,,1.3,EC50,=,1300,nM,
+13,163323968,60169981,C1CCC(CC1)OCCCCCCN2C[C@@H]([C@H]([C@@H]([C@H]2CO)O)O)O,Active,,,,1.6,EC50,=,1600,nM,
+14,163327422,60169980,CCCC(CCC)OCCCCCCN1C[C@@H]([C@H]([C@@H]([C@H]1CO)O)O)O,Active,,,,0.3,EC50,=,300,nM,
+15,163327739,60170429,CCCOC1=CC=CC=C1CCCN2C[C@@H]([C@H]([C@@H]([C@H]2CO)O)O)O,Active,,,,3.2,EC50,=,3200,nM,
+16,163327740,60170513,C1[C@@H]([C@H]([C@@H]([C@H](N1CC/C=C\CCOC2=C(C=CC(=C2)F)F)CO)O)O)O,Active,,,,8.5,EC50,=,8500,nM,
+17,163330912,60170075,CCC1CCC(CC1)OCCCCCCN2C[C@@H]([C@H]([C@@H]([C@H]2CO)O)O)O,Active,,,,0.3,EC50,=,300,nM,
+18,163331260,60170343,COC1=CC=C(C=C1)OCCCCCCN2C[C@@H]([C@H]([C@@H]([C@H]2CO)O)O)O,Active,,,,4,EC50,=,4000,nM,
+19,163331261,60168109,C1CCCC(CC1)OCCCCCCN2C[C@@H]([C@H]([C@@H]([C@H]2CO)O)O)O,Active,,,,0.5,EC50,=,500,nM,
+20,163331261,60168109,C1CCCC(CC1)OCCCCCCN2C[C@@H]([C@H]([C@@H]([C@H]2CO)O)O)O,Unspecified,,,Potential missing data,,Activity,,,,Dose-dependent effect
+21,163334728,60170342,COC1=CC=CC=C1OCCCCCCN2C[C@@H]([C@H]([C@@H]([C@H]2CO)O)O)O,Active,,,,0.8,EC50,=,800,nM,
+22,163334729,60168116,C1[C@@H]([C@H]([C@@H]([C@H](N1CCCCCCOCC2=CC=CC=C2)CO)O)O)O,Active,,,,0.4,EC50,=,400,nM,
+23,163334729,60168116,C1[C@@H]([C@H]([C@@H]([C@H](N1CCCCCCOCC2=CC=CC=C2)CO)O)O)O,Unspecified,,,Potential missing data,,Activity,,,,Dose-dependent effect
+24,163334730,60168117,CCCOC1=CC=CC(=C1)CCCN2C[C@@H]([C@H]([C@@H]([C@H]2CO)O)O)O,Active,,,,0.3,EC50,=,300,nM,
+25,163334730,60168117,CCCOC1=CC=CC(=C1)CCCN2C[C@@H]([C@H]([C@@H]([C@H]2CO)O)O)O,Unspecified,,,Potential missing data,,Activity,,,,Dose-dependent effect
+26,163334731,60170430,CCCOC1=CC=C(C=C1)CCCN2C[C@@H]([C@H]([C@@H]([C@H]2CO)O)O)O,Active,,,,0.5,EC50,=,500,nM,
+27,163334733,60168108,CC1CCC(CC1C)OCCCCCCN2C[C@@H]([C@H]([C@@H]([C@H]2CO)O)O)O,Active,,,,0.4,EC50,=,400,nM,
+28,163334734,60170162,CC1=CC=CC=C1OCCCCCCN2C[C@@H]([C@H]([C@@H]([C@H]2CO)O)O)O,Active,,,,0.5,EC50,=,500,nM,
+29,163338141,60170341,C1[C@@H]([C@H]([C@@H]([C@H](N1CCCCCCOC2=CC=C(C=C2)OC(F)(F)F)CO)O)O)O,Active,,,,0.6,EC50,=,600,nM,
+30,163338143,60170514,C1[C@@H]([C@H]([C@@H]([C@H](N1CC/C=C/CCOC2=C(C=CC(=C2)F)F)CO)O)O)O,Active,,,,2.2,EC50,=,2200,nM,
+31,163338144,60170515,C1[C@@H]([C@H]([C@@H]([C@H](N1CCC#CCCOC2=C(C=CC(=C2)F)F)CO)O)O)O,Unspecified,,,,20,EC50,=,20000,nM,
+32,163338145,60170160,C1CCC(C1)OCCCCCCN2C[C@@H]([C@H]([C@@H]([C@H]2CO)O)O)O,Active,,,,1.4,EC50,=,1400,nM,

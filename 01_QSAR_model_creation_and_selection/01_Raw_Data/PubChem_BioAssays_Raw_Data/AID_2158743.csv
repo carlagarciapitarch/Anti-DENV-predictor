@@ -1,0 +1,46 @@
+PUBCHEM_RESULT_TAG,PUBCHEM_SID,PUBCHEM_CID,PUBCHEM_EXT_DATASOURCE_SMILES,PUBCHEM_ACTIVITY_OUTCOME,PUBCHEM_ACTIVITY_SCORE,PUBCHEM_ACTIVITY_URL,PUBCHEM_ASSAYDATA_COMMENT,PubChem Standard Value,Standard Type,Standard Relation,Standard Value,Standard Text Value,Standard Units,Activity Comment
+RESULT_TYPE,,,,,,,,FLOAT,STRING,STRING,FLOAT,STRING,STRING,STRING
+RESULT_DESCR,,,,,,,,PubChem standardized value transformed from 'Standard Value'. The unit is always micromolar,Standardized activity type (e.g. IC50 rather than Ic-50/Ic50/ic50/ic-50),"Qualifier (e.g. >, <, =) for 'Standard Value'",Standardized activity value transformed to common units: e.g. mM concentrations converted to nM,Standardized version of non-numeric measurement,Selected units for 'Standard Type': e.g. concentrations are in nM,Additional comments
+RESULT_UNIT,,,,,,,,MICROMOLAR,,,,,,
+RESULT_IS_ACTIVE_CONCENTRATION,,,,,,,,TRUE,,,,,,
+RESULT_IS_ACTIVE_CONCENTRATION_QUALIFIER,,,,,,,,,,TRUE,,,,
+1,103538525,3011893,C[C@]1([C@@H]([C@H](O[C@H]1N2C=CC3=C(N=CN=C32)N)CO)O)O,Active,,,,0.045,EC50,=,45,,nM,
+2,103538525,3011893,C[C@]1([C@@H]([C@H](O[C@H]1N2C=CC3=C(N=CN=C32)N)CO)O)O,Active,,,,0.055,EC90,=,0.055,,uM,
+3,469810959,138376585,C1CNCCC1COC2=CN=C(C(=N2)C3=CC=C(C=C3)C4=COC=C4)C5=CC=C(C=C5)CN,Unspecified,,,,16.051,EC50,=,16051,,nM,
+4,469810959,138376585,C1CNCCC1COC2=CN=C(C(=N2)C3=CC=C(C=C3)C4=COC=C4)C5=CC=C(C=C5)CN,Unspecified,,,,16.67,EC90,>,16.67,,uM,Falls Outside The Dose Series
+5,482064522,168281779,B1(C2=C(CO1)C=CC(=C2)NC(=O)C3=CC(=CC=C3)OCC4=C(C=CC=C4Cl)Cl)O,Active,,,,0.155,EC50,=,155,,nM,
+6,482064522,168281779,B1(C2=C(CO1)C=CC(=C2)NC(=O)C3=CC(=CC=C3)OCC4=C(C=CC=C4Cl)Cl)O,Active,,,,0.735,EC90,=,0.735,,uM,
+7,520013871,177646246,COC1=CC(=CC(=C1)N[C@H](C2=C(C=C(C=C2)Cl)OC)C(=O)C3=CNC4=C3C=C(C=C4)OC(F)(F)F)S(=O)(=O)C,Active,,,,0.005,EC50,<,5,,nM,Falls Outside The Dose Series
+8,520013871,177646246,COC1=CC(=CC(=C1)N[C@H](C2=C(C=C(C=C2)Cl)OC)C(=O)C3=CNC4=C3C=C(C=C4)OC(F)(F)F)S(=O)(=O)C,Active,,,,0.005,EC90,<,0.005,,uM,Falls Outside The Dose Series
+9,520070774,177662134,CC1=C(C2=CC=CC=C2N1)CN3CCC(CC3)C4=CNC5=C4C=CC=N5,Unspecified,,,,16.667,EC50,>,16667,,nM,Falls Outside The Dose Series
+10,520070774,177662134,CC1=C(C2=CC=CC=C2N1)CN3CCC(CC3)C4=CNC5=C4C=CC=N5,Unspecified,,,,16.67,EC90,>,16.67,,uM,Falls Outside The Dose Series
+11,520072342,177662566,CC(C)CNC(=O)C1=C(C=CC(=C1)Cl)NS(=O)(=O)C2=CC=C(C=C2)OC3=CC=CC=C3Cl,Active,,,,0.569,EC50,=,569,,nM,
+12,520072342,177662566,CC(C)CNC(=O)C1=C(C=CC(=C1)Cl)NS(=O)(=O)C2=CC=C(C=C2)OC3=CC=CC=C3Cl,Unspecified,,,,16.67,EC90,>,16.67,,uM,Falls Outside The Dose Series
+13,520072980,177662689,C1=CC=C(C=C1)COC(=O)NC2=CC(=CC(=C2)C(=O)NC3=CC=CC(=N3)CCCN)Cl,Active,,,,0.023,EC50,<,23,,nM,Falls Outside The Dose Series
+14,520072980,177662689,C1=CC=C(C=C1)COC(=O)NC2=CC(=CC(=C2)C(=O)NC3=CC=CC(=N3)CCCN)Cl,Active,,,,2.125,EC90,=,2.125,,uM,
+15,520073019,177662726,CC1=CC(=CC(=C1)NC(=O)C2=CC(=CC(=C2)Cl)NC(=O)OCC3=CC=CC=C3)CN,Unspecified,,,,5.556,EC50,>,5556,,nM,Falls Outside The Dose Series
+16,520073019,177662726,CC1=CC(=CC(=C1)NC(=O)C2=CC(=CC(=C2)Cl)NC(=O)OCC3=CC=CC=C3)CN,Unspecified,,,,5.556,EC90,>,5.556,,uM,Falls Outside The Dose Series
+17,520073046,177662752,CC[C@@H](CC1=NNN=N1)C2=CC=C(C=C2)NC(=O)C3=CC(=CC(=C3)Cl)NC(=O)OCC4=CC=CC=C4,Unspecified,,,,5.556,EC50,>,5556,,nM,Falls Outside The Dose Series
+18,520073046,177662752,CC[C@@H](CC1=NNN=N1)C2=CC=C(C=C2)NC(=O)C3=CC(=CC(=C3)Cl)NC(=O)OCC4=CC=CC=C4,Unspecified,,,,5.556,EC90,>,5.556,,uM,Falls Outside The Dose Series
+19,520074747,177663231,C1=CC=C(C=C1)COC(=O)NC2=CC(=CC(=C2)C(=O)NC3=CC=CC(=C3)C4=NNN=N4)Cl,Unspecified,,,,,EC50,,,Could not be calculated,,
+20,520074747,177663231,C1=CC=C(C=C1)COC(=O)NC2=CC(=CC(=C2)C(=O)NC3=CC=CC(=C3)C4=NNN=N4)Cl,Unspecified,,,,,EC90,,,Could not be calculated,,
+21,520078192,177664371,C1C2=C(CN1)C=C(C=C2)NC(=O)C3=CC(=CC(=C3)Cl)NC(=O)OCC4=CC=CC=C4,Active,,,,0.61,EC50,=,610,,nM,
+22,520078192,177664371,C1C2=C(CN1)C=C(C=C2)NC(=O)C3=CC(=CC(=C3)Cl)NC(=O)OCC4=CC=CC=C4,Unspecified,,,,5.556,EC90,>,5.556,,uM,Falls Outside The Dose Series
+23,520078285,177664460,C1=CC=C(C=C1)COC(=O)NC2=CC(=CC(=C2)C(=O)NC3=CC(=CC=C3)N4C(=O)NN=N4)Cl,Unspecified,,,,,EC50,,,Could not be calculated,,
+24,520078285,177664460,C1=CC=C(C=C1)COC(=O)NC2=CC(=CC(=C2)C(=O)NC3=CC(=CC=C3)N4C(=O)NN=N4)Cl,Unspecified,,,,,EC90,,,Could not be calculated,,
+25,520080198,177665035,CC1=CC(=CS1)C2=CC=C(C=C2)[C@H](C(=O)NC3=CC=CC(=C3)CN)NC(=O)OCC4=CC=CC=C4,Active,,,,0.145,EC50,=,145,,nM,
+26,520080198,177665035,CC1=CC(=CS1)C2=CC=C(C=C2)[C@H](C(=O)NC3=CC=CC(=C3)CN)NC(=O)OCC4=CC=CC=C4,Unspecified,,,,5.556,EC90,>,5.556,,uM,Falls Outside The Dose Series
+27,520080200,177665037,C1=CC=C(C=C1)COC(=O)NC2=CC(=CC(=C2)NC(=O)C3=CC=CC(=C3)CN)Cl,Unspecified,,,,5.556,EC50,>,5556,,nM,Falls Outside The Dose Series
+28,520080200,177665037,C1=CC=C(C=C1)COC(=O)NC2=CC(=CC(=C2)NC(=O)C3=CC=CC(=C3)CN)Cl,Unspecified,,,,5.556,EC90,>,5.556,,uM,Falls Outside The Dose Series
+29,520081138,177665288,CC(C)CNC(=O)C1=CC(=C(C=C1NS(=O)(=O)C2=CC=C(C=C2)OC3=CC=CC=C3Cl)F)Cl,Active,,,,0.193,EC50,=,193,,nM,
+30,520081138,177665288,CC(C)CNC(=O)C1=CC(=C(C=C1NS(=O)(=O)C2=CC=C(C=C2)OC3=CC=CC=C3Cl)F)Cl,Unspecified,,,,1.852,EC90,>,1.852,,uM,Falls Outside The Dose Series
+31,520081201,177665350,CC1=C(C=C(C=C1)NC(=O)C2=CC(=CC(=C2)Cl)NC(=O)OCC3=CC=CC=C3)CN,Active,,,,0.023,EC50,<,23,,nM,Falls Outside The Dose Series
+32,520081201,177665350,CC1=C(C=C(C=C1)NC(=O)C2=CC(=CC(=C2)Cl)NC(=O)OCC3=CC=CC=C3)CN,Unspecified,,,,5.556,EC90,>,5.556,,uM,Falls Outside The Dose Series
+33,520081218,177665366,C1=CC=C(C(=C1)OC2=CC=C(C=C2)S(=O)(=O)NC3=C(C=C(C=C3)Cl)C(=O)O)Cl,Active,,,,0.023,EC50,<,23,,nM,Falls Outside The Dose Series
+34,520081218,177665366,C1=CC=C(C(=C1)OC2=CC=C(C=C2)S(=O)(=O)NC3=C(C=C(C=C3)Cl)C(=O)O)Cl,Unspecified,,,,5.556,EC90,>,5.556,,uM,Falls Outside The Dose Series
+35,520082135,177665621,C1CN(CCC1C2=CC=CC3=C2C=CN=C3)CC4=CNC5=CC=CC=C54,Active,,,,0.336,EC50,=,336,,nM,
+36,520082135,177665621,C1CN(CCC1C2=CC=CC3=C2C=CN=C3)CC4=CNC5=CC=CC=C54,Unspecified,,,,13.62,EC90,=,13.62,,uM,
+37,520082140,177665626,CCC1=C(SC(=C1)C(=O)NC2=CC=CC(=C2)CN)C3=CC=C(C=C3)Cl,Active,,,,0.04,EC50,=,40,,nM,
+38,520082140,177665626,CCC1=C(SC(=C1)C(=O)NC2=CC=CC(=C2)CN)C3=CC=C(C=C3)Cl,Active,,,,1.139,EC90,=,1.139,,uM,
+39,520082197,177665678,C1CC[C@H]2[C@@H](CC1)[C@H]([C@H]2C(=O)NC3=CC=CC(=C3)CCN)NC(=O)OCC4=CC=CC=C4,Unspecified,,,,1.852,EC50,>,1852,,nM,Falls Outside The Dose Series
+40,520082197,177665678,C1CC[C@H]2[C@@H](CC1)[C@H]([C@H]2C(=O)NC3=CC=CC(=C3)CCN)NC(=O)OCC4=CC=CC=C4,Unspecified,,,,1.852,EC90,>,1.852,,uM,Falls Outside The Dose Series

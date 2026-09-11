@@ -1,0 +1,16 @@
+PUBCHEM_RESULT_TAG,PUBCHEM_SID,PUBCHEM_CID,PUBCHEM_EXT_DATASOURCE_SMILES,PUBCHEM_ACTIVITY_OUTCOME,PUBCHEM_ACTIVITY_SCORE,PUBCHEM_ACTIVITY_URL,PUBCHEM_ASSAYDATA_COMMENT,PubChem Standard Value,Standard Type,Standard Relation,Standard Value,Standard Units,Activity Comment,Data Validity Comment
+RESULT_TYPE,,,,,,,,FLOAT,STRING,STRING,FLOAT,STRING,STRING,STRING
+RESULT_DESCR,,,,,,,,PubChem standardized value transformed from 'Standard Value'. The unit is always micromolar,Standardized activity type (e.g. IC50 rather than Ic-50/Ic50/ic50/ic-50),"Qualifier (e.g. >, <, =) for 'Standard Value'",Standardized activity value transformed to common units: e.g. mM concentrations converted to nM,Selected units for 'Standard Type': e.g. concentrations are in nM,Additional comments,Comment reflecting whether the values for this activity measurement are likely to be correct
+RESULT_UNIT,,,,,,,,MICROMOLAR,,,,,,
+RESULT_IS_ACTIVE_CONCENTRATION,,,,,,,,TRUE,,,,,,
+RESULT_IS_ACTIVE_CONCENTRATION_QUALIFIER,,,,,,,,,,TRUE,,,,
+1,103207703,54692153,C1=CC=C2C(=C1)C(C3=C(O2)C4=CC=CC=C4OC3=O)C5=C(C6=CC=CC=C6OC5=O)O,Unspecified,,,Potential missing data,,Inhibition,,,%,Dose-dependent effect,
+2,103207703,54692153,C1=CC=C2C(=C1)C(C3=C(O2)C4=CC=CC=C4OC3=O)C5=C(C6=CC=CC=C6OC5=O)O,Unspecified,,,,18.89,IC50,=,18890,nM,,
+3,336892169,54710332,CC1=CC2=C(C=C1)N=C(S2)C3=CC=C(C=C3)NC(=O)C4=C(C5=C(CCCC5)N(C4=O)CC6=CC=CO6)O,Unspecified,,,Potential missing data,,Inhibition,,,%,Dose-dependent effect,
+4,336892169,54710332,CC1=CC2=C(C=C1)N=C(S2)C3=CC=C(C=C3)NC(=O)C4=C(C5=C(CCCC5)N(C4=O)CC6=CC=CO6)O,Unspecified,,,,608.23,IC50,=,608230,nM,,Outside typical range
+5,336892170,54681617,CC(=O)NC1=CC=C(C=C1)OCC2=C(C=CC(=C2)C(C3=C(C4=CC=CC=C4OC3=O)O)C5=C(C6=CC=CC=C6OC5=O)O)OC,Unspecified,,,Potential missing data,,Inhibition,,,%,Dose-dependent effect,
+6,336892170,54681617,CC(=O)NC1=CC=C(C=C1)OCC2=C(C=CC(=C2)C(C3=C(C4=CC=CC=C4OC3=O)O)C5=C(C6=CC=CC=C6OC5=O)O)OC,Unspecified,,,,19.87,IC50,=,19870,nM,,
+7,336892171,2844436,CC1(CC2=C(C(NC3=C2C4=CC=CC=C4C=C3)C5=CC=C(O5)C6=CC(=C(C=C6)O)C(=O)O)C(=O)C1)C,Unspecified,,,Potential missing data,,Inhibition,,,%,Dose-dependent effect,
+8,336892171,2844436,CC1(CC2=C(C(NC3=C2C4=CC=CC=C4C=C3)C5=CC=C(O5)C6=CC(=C(C=C6)O)C(=O)O)C(=O)C1)C,Unspecified,,,,17.46,IC50,=,17460,nM,,
+9,336892172,54715399,COC1=C(C=C(C=C1)C(C2=C(C3=CC=CC=C3OC2=O)O)C4=C(C5=CC=CC=C5OC4=O)O)CSC6=NC7=CC=CC=C7S6,Active,,,,9.09,IC50,=,9090,nM,,
+10,336892172,54715399,COC1=C(C=C(C=C1)C(C2=C(C3=CC=CC=C3OC2=O)O)C4=C(C5=CC=CC=C5OC4=O)O)CSC6=NC7=CC=CC=C7S6,Unspecified,,,Potential missing data,,Inhibition,,,%,Dose-dependent effect,

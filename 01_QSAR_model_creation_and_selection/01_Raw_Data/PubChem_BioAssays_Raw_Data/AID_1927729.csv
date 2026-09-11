@@ -1,0 +1,19 @@
+PUBCHEM_RESULT_TAG,PUBCHEM_SID,PUBCHEM_CID,PUBCHEM_EXT_DATASOURCE_SMILES,PUBCHEM_ACTIVITY_OUTCOME,PUBCHEM_ACTIVITY_SCORE,PUBCHEM_ACTIVITY_URL,PUBCHEM_ASSAYDATA_COMMENT,PubChem Standard Value,Standard Type,Standard Relation,Standard Value,Standard Units,Activity Comment
+RESULT_TYPE,,,,,,,,FLOAT,STRING,STRING,FLOAT,STRING,STRING
+RESULT_DESCR,,,,,,,,PubChem standardized value transformed from 'Standard Value'. The unit is always micromolar,Standardized activity type (e.g. IC50 rather than Ic-50/Ic50/ic50/ic-50),"Qualifier (e.g. >, <, =) for 'Standard Value'",Standardized activity value transformed to common units: e.g. mM concentrations converted to nM,Selected units for 'Standard Type': e.g. concentrations are in nM,Additional comments
+RESULT_UNIT,,,,,,,,MICROMOLAR,,,,,
+RESULT_IS_ACTIVE_CONCENTRATION,,,,,,,,TRUE,,,,,
+RESULT_IS_ACTIVE_CONCENTRATION_QUALIFIER,,,,,,,,,,TRUE,,,
+1,103306778,3137663,CC(CC1=CN(C2=CC=CC=C21)CC3=CC=CC=C3)N,Inactive,,,Potential missing data,,ID50,,,,Not Active
+2,103382840,516666,C1=CC=C(C=C1)S(=O)(=O)C2=CC=C(C=C2)N,Unspecified,,,,200,ID50,=,200,uM,
+3,242152395,3095176,C1=CC=C(C=C1)N(CC(CN)O)C2=CC=CC=C2,Active,,,,0.7,ID50,=,0.7,uM,
+4,242178914,738916,CNC(=O)N1C2=CC=CC=C2CCC3=CC=CC=C31,Inactive,,,Potential missing data,,ID50,,,,Not Active
+5,242218803,1129900,CCN(CC)CCC(=O)N1C2=CC=CC=C2CCC3=C1C=C(C=C3)NC(=O)OCC,Inactive,,,Potential missing data,,ID50,,,,Not Active
+6,242380923,2754711,C1=CC=C2C(=C1)NC(=N2)NC3=CC=C(C=C3)N,Inactive,,,Potential missing data,,ID50,,,,Not Active
+7,242445241,120501,C1CCN(CC1)CC#CC(C2=CC=CC=C2)(C3=CC=CC=C3)O,Inactive,,,Potential missing data,,ID50,,,,Not Active
+8,494395211,3157815,COC1=C(C=C(C=C1)CN)CN2C=CC=N2,Inactive,,,Potential missing data,,ID50,,,,Not Active
+9,494395552,171342827,CC(=O)N1C2=C(CCC3=CC=CC=C31)C=C(C=C2)[N+](=O)[O-],Inactive,,,Potential missing data,,ID50,,,,Not Active
+10,494396744,2956918,CC1CC(CN(C1)S(=O)(=O)C2=CC=C(C=C2)N)C,Inactive,,,Potential missing data,,ID50,,,,Not Active
+11,494398444,171344692,CC(=O)O.C1=CC=C(C=C1)N(C[C@@H](CN)O)C2=CC=CC=C2,Active,,,,0.006,ID50,=,0.006,uM,
+12,494414785,171354286,CC(=O)O.C1=CC=C(C=C1)N(CC(CN)O)C2=CC=CC=C2,Active,,,,0.002,ID50,=,0.002,uM,
+13,494418915,171356617,CC(=O)O.C1=CC=C(C=C1)N(C[C@H](CN)O)C2=CC=CC=C2,Active,,,,0.007,ID50,=,0.007,uM,

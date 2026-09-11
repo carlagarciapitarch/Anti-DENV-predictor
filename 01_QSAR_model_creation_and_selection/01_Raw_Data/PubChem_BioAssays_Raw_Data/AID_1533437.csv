@@ -1,0 +1,29 @@
+PUBCHEM_RESULT_TAG,PUBCHEM_SID,PUBCHEM_CID,PUBCHEM_EXT_DATASOURCE_SMILES,PUBCHEM_ACTIVITY_OUTCOME,PUBCHEM_ACTIVITY_SCORE,PUBCHEM_ACTIVITY_URL,PUBCHEM_ASSAYDATA_COMMENT,Standard Type,Activity Comment
+RESULT_TYPE,,,,,,,,STRING,STRING
+RESULT_DESCR,,,,,,,,Standardized activity type (e.g. IC50 rather than Ic-50/Ic50/ic50/ic-50),Additional comments
+1,440113476,134229904,C1=CC=C2C(=C1)C=C(O2)C3=C4C5=C(C=CO5)N(C4=NC=N3)[C@H]6[C@@H]([C@@H]([C@H](O6)CO)O)O,Inactive,,,Potential missing data,Activity,Not Active
+2,440123001,134229959,C1=COC2=C1N(C3=NC=NC(=C23)N)[C@H]4[C@@H]([C@@H]([C@H](O4)CO)O)O,Inactive,,,Potential missing data,Activity,Not Active
+3,440126267,134229909,CN1C=CC2=C1C3=C(N2[C@H]4[C@@H]([C@@H]([C@H](O4)CO)O)O)N=CN=C3OC,Inactive,,,Potential missing data,Activity,Not Active
+4,440130642,155524154,CC1=C2C3=C(N(C=C3)C)N(C2=NC=N1)[C@H]4[C@@H]([C@@H]([C@H](O4)CO)O)O,Inactive,,,Potential missing data,Activity,Not Active
+5,440132337,134229898,C1=COC(=C1)C2=C3C4=C(C=CO4)N(C3=NC=N2)[C@H]5[C@@H]([C@@H]([C@H](O5)CO)O)O,Inactive,,,Potential missing data,Activity,Not Active
+6,440135066,134229895,CN(C)C1=NC=NC2=C1C3=C(N2[C@H]4[C@@H]([C@@H]([C@H](O4)CO)O)O)C=CO3,Inactive,,,Potential missing data,Activity,Not Active
+7,440138295,155529159,CN1C=CC2=C1N(C3=C2C(=NC=N3)N(C)C)[C@H]4[C@@H]([C@@H]([C@H](O4)CO)O)O,Inactive,,,Potential missing data,Activity,Not Active
+8,440138543,155529316,CN1C=CC2=C1N(C3=C2C(=NC=N3)OC)[C@H]4[C@@H]([C@@H]([C@H](O4)CO)O)O,Inactive,,,Potential missing data,Activity,Not Active
+9,440142413,134229912,CC1=C2C3=C(C=CN3C)N(C2=NC=N1)[C@H]4[C@@H]([C@@H]([C@H](O4)CO)O)O,Inactive,,,Potential missing data,Activity,Not Active
+10,440146666,134229913,CN1C=CC2=C1C3=C(N=CN=C3N2[C@H]4[C@@H]([C@@H]([C@H](O4)CO)O)O)C5=CC6=CC=CC=C6O5,Inactive,,,Potential missing data,Activity,Not Active
+11,440152162,155538272,CN1C=CC2=C1N(C3=C2C(=NC=N3)SC)[C@H]4[C@@H]([C@@H]([C@H](O4)CO)O)O,Inactive,,,Potential missing data,Activity,Not Active
+12,440156879,134229894,COC1=NC=NC2=C1C3=C(N2[C@H]4[C@@H]([C@@H]([C@H](O4)CO)O)O)C=CO3,Inactive,,,Potential missing data,Activity,Not Active
+13,440158047,155540931,CN1C=CC2=C1N(C3=NC=NC(=C23)N)[C@H]4[C@@H]([C@@H]([C@H](O4)CO)O)O,Inactive,,,Potential missing data,Activity,Not Active
+14,440173589,134229886,CN1C=CC2=C1C3=C(N2[C@H]4[C@@H]([C@@H]([C@H](O4)CO)O)O)N=CN=C3Cl,Inactive,,,Potential missing data,Activity,Not Active
+15,440182318,155550681,CN1C=CC2=C1N(C3=NC=NC(=C23)C4=COC=C4)[C@H]5[C@@H]([C@@H]([C@H](O5)CO)O)O,Inactive,,,Potential missing data,Activity,Not Active
+16,440185463,155551943,CN1C=CC2=C1N(C3=C2C(=NC=N3)Cl)[C@H]4[C@@H]([C@@H]([C@H](O4)CO)O)O,Inactive,,,Potential missing data,Activity,Not Active
+17,440185549,155551973,CN1C=CC2=C1N(C3=NC=NC(=C23)C4=CC=CO4)[C@H]5[C@@H]([C@@H]([C@H](O5)CO)O)O,Inactive,,,Potential missing data,Activity,Not Active
+18,440195355,155555792,CN1C=CC2=C1N(C3=NC=NC(=C23)C4=CC5=CC=CC=C5O4)[C@H]6[C@@H]([C@@H]([C@H](O6)CO)O)O,Inactive,,,Potential missing data,Activity,Not Active
+19,440198293,134229916,CN1C=CC2=C1C3=C(N=CN=C3N2[C@H]4[C@@H]([C@@H]([C@H](O4)CO)O)O)N,Inactive,,,Potential missing data,Activity,Not Active
+20,440207323,134229903,CN1C=CC2=C1C3=C(N2[C@H]4[C@@H]([C@@H]([C@H](O4)CO)O)O)N=CN=C3SC,Inactive,,,Potential missing data,Activity,Not Active
+21,440211724,134229914,CN1C=CC2=C1C3=C(N=CN=C3N2[C@H]4[C@@H]([C@@H]([C@H](O4)CO)O)O)C5=COC=C5,Inactive,,,Potential missing data,Activity,Not Active
+22,440220482,134229934,CN1C=CC2=C1C3=C(N=CN=C3N2[C@H]4[C@@H]([C@@H]([C@H](O4)CO)O)O)C5=CC=CO5,Inactive,,,Potential missing data,Activity,Not Active
+23,440223703,134229890,CC1=C2C3=C(C=CO3)N(C2=NC=N1)[C@H]4[C@@H]([C@@H]([C@H](O4)CO)O)O,Inactive,,,Potential missing data,Activity,Not Active
+24,440226742,134229902,C1=COC=C1C2=C3C4=C(C=CO4)N(C3=NC=N2)[C@H]5[C@@H]([C@@H]([C@H](O5)CO)O)O,Inactive,,,Potential missing data,Activity,Not Active
+25,440227324,134229893,CN1C=CC2=C1C3=C(N2[C@H]4[C@@H]([C@@H]([C@H](O4)CO)O)O)N=CN=C3N(C)C,Inactive,,,Potential missing data,Activity,Not Active
+26,440227687,134229926,CSC1=NC=NC2=C1C3=C(N2[C@H]4[C@@H]([C@@H]([C@H](O4)CO)O)O)C=CO3,Inactive,,,Potential missing data,Activity,Not Active

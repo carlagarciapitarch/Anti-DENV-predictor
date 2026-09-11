@@ -1,0 +1,12 @@
+PUBCHEM_RESULT_TAG,PUBCHEM_SID,PUBCHEM_CID,PUBCHEM_EXT_DATASOURCE_SMILES,PUBCHEM_ACTIVITY_OUTCOME,PUBCHEM_ACTIVITY_SCORE,PUBCHEM_ACTIVITY_URL,PUBCHEM_ASSAYDATA_COMMENT,Standard Type,Standard Relation,Standard Value,Standard Units,Activity Comment
+RESULT_TYPE,,,,,,,,STRING,STRING,FLOAT,STRING,STRING
+RESULT_DESCR,,,,,,,,Standardized activity type (e.g. IC50 rather than Ic-50/Ic50/ic50/ic-50),"Qualifier (e.g. >, <, =) for 'Standard Value'",Standardized activity value transformed to common units: e.g. mM concentrations converted to nM,Selected units for 'Standard Type': e.g. concentrations are in nM,Additional comments
+1,160668541,70681854,CC(C)(C)C1=CC=C(C=C1)C(=O)NC(=S)NC2=CC=C(C=C2)NC.Cl,Unspecified,,,,Solubility,=,190,ug.mL-1,
+2,160668542,70681855,CC(C)(C)C1=CC=C(C=C1)C(=O)NC(=S)NC2=CC=C(C=C2)N(C)C.Cl,Unspecified,,,,Solubility,=,36,ug.mL-1,
+3,160695339,70692410,CC(C)(C)C1=CC=C(C=C1)C(=O)NC(=S)NC2=CC=CC=C2CN.Cl,Unspecified,,,,Solubility,=,261,ug.mL-1,
+4,160695340,70692412,CC(C)(C)C1=CC=C(C=C1)C(=O)NC(=S)NC2=C(C=C(C=C2)N(C)C)Cl.Cl,Unspecified,,,Potential missing data,solubility,,,,BLD
+5,160700726,70694454,CC(C)(C)C1=CC=C(C=C1)C(=O)NC(=S)NC2=CC(=C(C=C2)N)OC.Cl,Unspecified,,,,Solubility,=,53,ug.mL-1,
+6,160700727,70694455,CC(C)(C)C1=CC=C(C=C1)C(=O)NC(=S)NC2=CC=CC(=C2)CN.Cl,Unspecified,,,,Solubility,=,248,ug.mL-1,
+7,160700728,70694457,CC(C)(C)C1=CC=C(C=C1)C(=O)NC(=S)NC2=C(C=C(C=C2)NC)Cl.Cl,Unspecified,,,,Solubility,=,3.2,ug.mL-1,
+8,160705998,70696522,CC(C)(C)C1=CC=C(C=C1)C(=O)NC(=S)NC2=C(C=C(C=C2)N)Cl.Cl,Unspecified,,,,Solubility,=,6.4,ug.mL-1,
+9,242610813,90664348,CC(C)(C)C1=CC=C(C=C1)C(=O)NC(=S)NC2=CC(=C(C=C2)N)N.Cl.Cl,Unspecified,,,,Solubility,=,4.2,ug.mL-1,

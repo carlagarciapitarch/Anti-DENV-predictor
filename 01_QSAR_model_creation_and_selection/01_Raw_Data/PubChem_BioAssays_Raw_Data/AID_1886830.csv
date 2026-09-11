@@ -1,0 +1,12 @@
+PUBCHEM_RESULT_TAG,PUBCHEM_SID,PUBCHEM_CID,PUBCHEM_EXT_DATASOURCE_SMILES,PUBCHEM_ACTIVITY_OUTCOME,PUBCHEM_ACTIVITY_SCORE,PUBCHEM_ACTIVITY_URL,PUBCHEM_ASSAYDATA_COMMENT,Standard Type,Standard Units,Activity Comment
+RESULT_TYPE,,,,,,,,STRING,STRING,STRING
+RESULT_DESCR,,,,,,,,Standardized activity type (e.g. IC50 rather than Ic-50/Ic50/ic50/ic-50),Selected units for 'Standard Type': e.g. concentrations are in nM,Additional comments
+1,103627460,13370050,CC(C)C1=C(C=C2C(=C1)CC[C@@H]3[C@@]2(CCC[C@@]3(C)C(=O)O)C)O,Unspecified,,,Potential missing data,Inhibition,%,NA
+2,440118215,155516104,CC(C)C1=C(C=C2C(=C1)C(=O)C[C@@H]3[C@@]2(CCC[C@@]3(C)C(=O)O)C)O,Unspecified,,,Potential missing data,Inhibition,%,NA
+3,440172368,220356,CC(C)C1=C(C=C2C(=C1)CC[C@@H]3[C@@]2(CCC[C@@]3(C)C(=O)OC)C)C(=O)C,Unspecified,,,Potential missing data,Inhibition,%,NA
+4,440181798,102152190,CC(C)C1=C(C=C2C(=C1)C(=O)C[C@@H]3[C@@]2(CCC[C@@]3(C)C(=O)OC)C)O,Unspecified,,,Potential missing data,Inhibition,%,NA
+5,440193504,102152189,CC(C)C1=C(C=C2C(=C1)C(=O)C[C@@H]3[C@@]2(CCC[C@@]3(C)C(=O)OC)C)OC(=O)C,Unspecified,,,Potential missing data,Inhibition,%,NA
+6,440211391,14132237,CC(C)C1=C(C=C2C(=C1)CC[C@@H]3[C@@]2(CCC[C@@]3(C)C(=O)OC)C)O,Unspecified,,,Potential missing data,Inhibition,%,NA
+7,482046858,168269085,CC(C)C1=C(C=C2C(=C1)C(=O)C[C@@H]3[C@@]2(CCC[C@]3(C)CO)C)O,Unspecified,,,Potential missing data,Inhibition,%,NA
+8,482048440,168270170,CC(C)C1=C(C=C2C(=C1)C(=O)C[C@@H]3[C@@]2(CCC[C@]3(C)C(=O)O)C)O,Unspecified,,,Potential missing data,Inhibition,%,NA
+9,482074726,168289184,CC(C)C1=C(C=C2C(=C1)C(=O)C[C@@H]3[C@@]2(CCC[C@]3(C)C(=O)OC)C)O,Unspecified,,,Potential missing data,Inhibition,%,NA

@@ -1,0 +1,49 @@
+PUBCHEM_RESULT_TAG,PUBCHEM_SID,PUBCHEM_CID,PUBCHEM_EXT_DATASOURCE_SMILES,PUBCHEM_ACTIVITY_OUTCOME,PUBCHEM_ACTIVITY_SCORE,PUBCHEM_ACTIVITY_URL,PUBCHEM_ASSAYDATA_COMMENT,Standard Type,Standard Relation,Standard Value,Standard Units,Activity Comment
+RESULT_TYPE,,,,,,,,STRING,STRING,FLOAT,STRING,STRING
+RESULT_DESCR,,,,,,,,Standardized activity type (e.g. IC50 rather than Ic-50/Ic50/ic50/ic-50),"Qualifier (e.g. >, <, =) for 'Standard Value'",Standardized activity value transformed to common units: e.g. mM concentrations converted to nM,Selected units for 'Standard Type': e.g. concentrations are in nM,Additional comments
+1,174489015,72713508,CCCC[C@@H](C(=O)N)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCN=C(N)N)NC(=O)CC1C(=O)N(C(=S)S1)CC2=CC=C(C=C2)OC,Unspecified,,,Potential missing data,permeability,,,,impermeable
+2,174489016,73346535,CCCC[C@@H](C(=O)N)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCN=C(N)N)NC(=O)C1=CC=CC=C1,Unspecified,,,Potential missing data,permeability,,,,impermeable
+3,174489017,72712242,CCCC[C@@H](C(=O)N)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCN=C(N)N)NC(=O)C1=CC=C(C=C1)/C=C\2/C(=O)N(C(=O)S2)CCC3=CC=CC=C3,Unspecified,,,,log Pe,=,-6.09,,
+4,174489017,72712242,CCCC[C@@H](C(=O)N)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCN=C(N)N)NC(=O)C1=CC=C(C=C1)/C=C\2/C(=O)N(C(=O)S2)CCC3=CC=CC=C3,Unspecified,,,,permeability,=,0.82,ucm/s,
+5,174494019,72711597,CCCC[C@@H](C(=O)N)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCN=C(N)N)NC(=O)C1=CC=C(C=C1)/C=C\2/C(=O)N(C(=S)S2)C3=CC=C(C=C3)OC,Unspecified,,,,log Pe,=,-6.23,,
+6,174494019,72711597,CCCC[C@@H](C(=O)N)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCN=C(N)N)NC(=O)C1=CC=C(C=C1)/C=C\2/C(=O)N(C(=S)S2)C3=CC=C(C=C3)OC,Unspecified,,,,permeability,=,0.59,ucm/s,
+7,174494023,72711146,CCCC[C@@H](C(=O)N)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCN=C(N)N)NC(=O)C1=CC=C(C=C1)/C=C\2/C(=O)N(C(=S)S2)CC=C,Unspecified,,,,log Pe,=,-6.38,,
+8,174494023,72711146,CCCC[C@@H](C(=O)N)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCN=C(N)N)NC(=O)C1=CC=C(C=C1)/C=C\2/C(=O)N(C(=S)S2)CC=C,Unspecified,,,,permeability,=,0.42,ucm/s,
+9,174494040,72714178,CCCC[C@@H](C(=O)N)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCN=C(N)N)NC(=O)C1=CC=C(C=C1)/C=C\2/C(=O)N(C(=O)S2)C3CCCC3,Unspecified,,,,log Pe,=,-6.35,,
+10,174494040,72714178,CCCC[C@@H](C(=O)N)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCN=C(N)N)NC(=O)C1=CC=C(C=C1)/C=C\2/C(=O)N(C(=O)S2)C3CCCC3,Unspecified,,,,permeability,=,0.44,ucm/s,
+11,174499157,72714177,CCCC[C@@H](C(=O)N)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCN=C(N)N)NC(=O)C1=CC=C(C=C1)/C=C\2/C(=O)N(C(=S)S2)C3CCCC3,Unspecified,,,,log Pe,=,-5.64,,
+12,174499157,72714177,CCCC[C@@H](C(=O)N)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCN=C(N)N)NC(=O)C1=CC=C(C=C1)/C=C\2/C(=O)N(C(=S)S2)C3CCCC3,Unspecified,,,,permeability,=,2.31,ucm/s,
+13,174499181,72713730,CCCC[C@@H](C(=O)N)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCN=C(N)N)NC(=O)C1=CC=C(C=C1)/C=C\2/C(=O)N(C(=S)N2)C3=CC=CC=C3,Unspecified,,,Potential missing data,permeability,,,,impermeable
+14,174499182,73349552,CCCC[C@@H](C(=O)N)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCN=C(N)N)NC(=O)/C=C/C1=CC=CC=C1,Unspecified,,,,log Pe,=,-5.9,,
+15,174499182,73349552,CCCC[C@@H](C(=O)N)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCN=C(N)N)NC(=O)/C=C/C1=CC=CC=C1,Unspecified,,,,permeability,=,1.26,ucm/s,
+16,174504418,72711599,CCCC[C@@H](C(=O)N)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCN=C(N)N)NC(=O)C1=CC=C(C=C1)/C=C\2/C(=O)N(C(=S)S2)C3=CC=C(C=C3)Cl,Unspecified,,,,log Pe,=,-5.99,,
+17,174504418,72711599,CCCC[C@@H](C(=O)N)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCN=C(N)N)NC(=O)C1=CC=C(C=C1)/C=C\2/C(=O)N(C(=S)S2)C3=CC=C(C=C3)Cl,Unspecified,,,,permeability,=,1.02,ucm/s,
+18,174504419,72712026,CCCC[C@@H](C(=O)N)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCN=C(N)N)NC(=O)C1=CC=C(C=C1)/C=C\2/C(=O)N(C(=S)S2)CC3=CC=C(C=C3)OC,Unspecified,,,,log Pe,=,-6.23,,
+19,174504419,72712026,CCCC[C@@H](C(=O)N)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCN=C(N)N)NC(=O)C1=CC=C(C=C1)/C=C\2/C(=O)N(C(=S)S2)CC3=CC=C(C=C3)OC,Unspecified,,,,permeability,=,0.6,ucm/s,
+20,174504445,72711375,CCCC[C@@H](C(=O)N)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCN=C(N)N)NC(=O)C1=CC=C(C=C1)/C=C\2/C(=O)N(C(=O)S2)CCOC(=O)C,Unspecified,,,Potential missing data,permeability,,,,impermeable
+21,174509534,72711596,CCCC[C@@H](C(=O)N)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCN=C(N)N)NC(=O)C1=CC=C(C=C1)/C=C\2/C(=O)N(C(=O)S2)C3=CC=C(C=C3)C,Unspecified,,,,log Pe,=,-6.18,,
+22,174509534,72711596,CCCC[C@@H](C(=O)N)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCN=C(N)N)NC(=O)C1=CC=C(C=C1)/C=C\2/C(=O)N(C(=O)S2)C3=CC=C(C=C3)C,Unspecified,,,,permeability,=,0.66,ucm/s,
+23,174514694,72710920,CCCC[C@@H](C(=O)N)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCN=C(N)N)NC(=O)C1=CC=C(C=C1)/C=C\2/C(=O)N(C(=S)S2)C3CCCCC3,Unspecified,,,,log Pe,=,-5.74,,
+24,174514694,72710920,CCCC[C@@H](C(=O)N)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCN=C(N)N)NC(=O)C1=CC=C(C=C1)/C=C\2/C(=O)N(C(=S)S2)C3CCCCC3,Unspecified,,,,permeability,=,1.82,ucm/s,
+25,174514709,73354076,CCCC[C@@H](C(=O)N)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCN=C(N)N)NC(=O)C1=CC=C(C=C1)/C=C(\C#N)/C(=O)NC2CC2,Unspecified,,,,log Pe,=,-5.96,,
+26,174514709,73354076,CCCC[C@@H](C(=O)N)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCN=C(N)N)NC(=O)C1=CC=C(C=C1)/C=C(\C#N)/C(=O)NC2CC2,Unspecified,,,,permeability,=,1.11,ucm/s,
+27,174519751,73355606,CCCC[C@@H](C(=O)N)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCN=C(N)N)NC(=O)C1=CC=CC(=C1)/C=C\2/C(=O)N(C(=O)S2)C3CCCC3,Unspecified,,,,log Pe,=,-5.72,,
+28,174519751,73355606,CCCC[C@@H](C(=O)N)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCN=C(N)N)NC(=O)C1=CC=CC(=C1)/C=C\2/C(=O)N(C(=O)S2)C3CCCC3,Unspecified,,,,permeability,=,1.9,ucm/s,
+29,174519752,73355607,CCCC[C@@H](C(=O)N)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCN=C(N)N)NC(=O)C1=CC=C(C=C1)/C=C/C(=O)N,Unspecified,,,Potential missing data,permeability,,,,impermeable
+30,174519754,72712029,CCCC[C@@H](C(=O)N)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCN=C(N)N)NC(=O)C1=CC=C(C=C1)/C=C\2/C(=O)N(C(=O)S2)CC3=CC=C(C=C3)F,Unspecified,,,,log Pe,=,-6.36,,
+31,174519754,72712029,CCCC[C@@H](C(=O)N)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCN=C(N)N)NC(=O)C1=CC=C(C=C1)/C=C\2/C(=O)N(C(=O)S2)CC3=CC=C(C=C3)F,Unspecified,,,,permeability,=,0.43,ucm/s,
+32,174519755,72712670,CCCC[C@H](C(=O)N)NC(=O)[C@@H](CCCCN)NC(=O)[C@@H](CCCN=C(N)N)NC(=O)C1=CC=C(C=C1)/C=C\2/C(=O)N(C(=O)S2)CC3=CC=CC=C3,Unspecified,,,,log Pe,=,-6.54,,
+33,174519755,72712670,CCCC[C@H](C(=O)N)NC(=O)[C@@H](CCCCN)NC(=O)[C@@H](CCCN=C(N)N)NC(=O)C1=CC=C(C=C1)/C=C\2/C(=O)N(C(=O)S2)CC3=CC=CC=C3,Unspecified,,,,permeability,=,0.29,ucm/s,
+34,174525026,72710923,CCCC[C@@H](C(=O)N)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCN=C(N)N)NC(=O)C1=CC=C(C=C1)/C=C\2/C(=O)N(C(=S)S2)C(CCCC)C(=O)OC,Unspecified,,,,log Pe,=,-6.06,,
+35,174525026,72710923,CCCC[C@@H](C(=O)N)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCN=C(N)N)NC(=O)C1=CC=C(C=C1)/C=C\2/C(=O)N(C(=S)S2)C(CCCC)C(=O)OC,Unspecified,,,,permeability,=,0.87,ucm/s,
+36,174525041,72713955,CCCC[C@@H](C(=O)N)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCN=C(N)N)NC(=O)C1=CC=C(C=C1)/C=C\2/C(=O)N(C(=S)S2)CCCC,Unspecified,,,,log Pe,=,-5.79,,
+37,174525041,72713955,CCCC[C@@H](C(=O)N)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCN=C(N)N)NC(=O)C1=CC=C(C=C1)/C=C\2/C(=O)N(C(=S)S2)CCCC,Unspecified,,,,permeability,=,1.61,ucm/s,
+38,174525043,72713509,CCCC[C@@H](C(=O)N)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCN=C(N)N)NC(=O)/C=C\1/C(=O)N(C(=S)S1)CC2=CC=C(C=C2)OC,Unspecified,,,Potential missing data,permeability,,,,impermeable
+39,174525045,73357148,CCCC[C@@H](C(=O)N)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCN=C(N)N)NC(=O)C1=CC=CS1,Unspecified,,,Potential missing data,permeability,,,,impermeable
+40,174525046,72712240,CCCC[C@@H](C(=O)N)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCN=C(N)N)NC(=O)C1=CC=C(C=C1)/C=C\2/C(=O)N(C(=O)S2)CC3=CC=C(C=C3)Cl,Unspecified,,,,log Pe,=,-5.95,,
+41,174525046,72712240,CCCC[C@@H](C(=O)N)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCN=C(N)N)NC(=O)C1=CC=C(C=C1)/C=C\2/C(=O)N(C(=O)S2)CC3=CC=C(C=C3)Cl,Unspecified,,,,permeability,=,1.11,ucm/s,
+42,174525047,72712671,CCCC[C@@H](C(=O)N)NC(=O)[C@H](CCCN)NC(=O)[C@H](CCCN=C(N)N)NC(=O)C1=CC=C(C=C1)/C=C\2/C(=O)N(C(=O)S2)CC3=CC=CC=C3,Unspecified,,,Potential missing data,permeability,,,,impermeable
+43,174525048,72714175,CCCC[C@@H](C(=O)N)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCN=C(N)N)NC(=O)C1=CC=C(C=C1)/C=C\2/C(=O)N(C(=O)S2)CCCC,Unspecified,,,,log Pe,=,-5.93,,
+44,174525048,72714175,CCCC[C@@H](C(=O)N)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCN=C(N)N)NC(=O)C1=CC=C(C=C1)/C=C\2/C(=O)N(C(=O)S2)CCCC,Unspecified,,,,permeability,=,1.18,ucm/s,
+45,174525049,72710921,CCCC[C@@H](C(=O)N)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCN=C(N)N)NC(=O)C1=CC=C(C=C1)/C=C\2/C(=O)N(C(=O)S2)C3CCCCC3,Unspecified,,,,log Pe,=,-5.77,,
+46,174525049,72710921,CCCC[C@@H](C(=O)N)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCN=C(N)N)NC(=O)C1=CC=C(C=C1)/C=C\2/C(=O)N(C(=O)S2)C3CCCCC3,Unspecified,,,,permeability,=,1.69,ucm/s,

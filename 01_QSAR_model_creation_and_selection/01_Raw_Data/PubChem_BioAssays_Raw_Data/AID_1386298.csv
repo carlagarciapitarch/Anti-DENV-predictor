@@ -1,0 +1,17 @@
+PUBCHEM_RESULT_TAG,PUBCHEM_SID,PUBCHEM_CID,PUBCHEM_EXT_DATASOURCE_SMILES,PUBCHEM_ACTIVITY_OUTCOME,PUBCHEM_ACTIVITY_SCORE,PUBCHEM_ACTIVITY_URL,PUBCHEM_ASSAYDATA_COMMENT,Standard Type,Standard Relation,Standard Value,Standard Units,Activity Comment
+RESULT_TYPE,,,,,,,,STRING,STRING,FLOAT,STRING,STRING
+RESULT_DESCR,,,,,,,,Standardized activity type (e.g. IC50 rather than Ic-50/Ic50/ic50/ic-50),"Qualifier (e.g. >, <, =) for 'Standard Value'",Standardized activity value transformed to common units: e.g. mM concentrations converted to nM,Selected units for 'Standard Type': e.g. concentrations are in nM,Additional comments
+1,404675244,86729070,COC1=CC(=CC(=C1)NC(C2=CC=CC=C2)C(=O)C3=CNC4=CC=CC=C43)OCCCO,Unspecified,,,,Drug metabolism,=,8,%,
+2,404676798,42916879,COC1=CC(=CC(=C1)NC(C2=CC=CC=C2)C(=O)C3=CNC4=CC=CC=C43)OC,Unspecified,,,,Drug metabolism,=,14,%,
+3,404676798,42916879,COC1=CC(=CC(=C1)NC(C2=CC=CC=C2)C(=O)C3=CNC4=CC=CC=C43)OC,Unspecified,,,,Drug metabolism,=,16,%,
+4,404676798,42916879,COC1=CC(=CC(=C1)NC(C2=CC=CC=C2)C(=O)C3=CNC4=CC=CC=C43)OC,Unspecified,,,,Drug metabolism,=,11,%,
+5,404684595,86729047,COC1=CC(=CC(=C1)NC(C2=CC=C(C=C2)F)C(=O)C3=CNC4=CC=CC=C43)OCCO,Unspecified,,,,Drug metabolism,=,7,%,
+6,404689015,86729055,COC1=CC(=CC(=C1)NC(C2=CC=CC=C2)C(=O)C3=CNC4=C3C=C(C=C4)CCCO)OC,Unspecified,,,,Drug metabolism,=,38,%,
+7,404689485,71542927,COC1=CC(=CC(=C1)NC(C2=CC=CC=C2)C(=O)C3=CNC4=CC=CC=C43)OCCO,Inconclusive,,,Potential missing data,Drug metabolism,,,,Not Determined
+8,404689485,71542927,COC1=CC(=CC(=C1)NC(C2=CC=CC=C2)C(=O)C3=CNC4=CC=CC=C43)OCCO,Unspecified,,,,Drug metabolism,=,2,%,
+9,404689485,71542927,COC1=CC(=CC(=C1)NC(C2=CC=CC=C2)C(=O)C3=CNC4=CC=CC=C43)OCCO,Unspecified,,,,Drug metabolism,=,13,%,
+10,404689640,86729089,COC1=CC(=CC(=C1)NC(C2=CC=CC=C2)C(=O)C3=CNC4=C3C=C(C=C4)CCO)OC,Inconclusive,,,Potential missing data,Drug metabolism,,,,Not Determined
+11,404691728,71542931,COC1=CC=CC(=C1)NC(C2=NC3=CC=CC=C3O2)C(=O)C4=CNC5=CC=CC=C54,Unspecified,,,,Drug metabolism,=,19,%,
+12,404691825,86728898,CN(C)CCOC1=CC(=CC(=C1)OC)NC(C2=CC=CC=C2)C(=O)C3=CNC4=CC=CC=C43,Inconclusive,,,Potential missing data,Drug metabolism,,,,Not Determined
+13,404692215,86728666,COC1=CN=CC(=C1)NC(C2=CC=CC=C2)C(=O)C3=CNC4=CC=CC=C43,Unspecified,,,,Drug metabolism,=,23,%,
+14,404692277,86728930,COC1=CC(=CC(=C1)NC(C2=CC=CC=C2)C(=O)C3=CNC4=CC=CC=C43)CO,Unspecified,,,,Drug metabolism,=,18,%,

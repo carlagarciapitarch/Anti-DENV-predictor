@@ -1,0 +1,14 @@
+PUBCHEM_RESULT_TAG,PUBCHEM_SID,PUBCHEM_CID,PUBCHEM_EXT_DATASOURCE_SMILES,PUBCHEM_ACTIVITY_OUTCOME,PUBCHEM_ACTIVITY_SCORE,PUBCHEM_ACTIVITY_URL,PUBCHEM_ASSAYDATA_COMMENT,PubChem Standard Value,Standard Type,Standard Relation,Standard Value,Standard Units,Activity Comment
+RESULT_TYPE,,,,,,,,FLOAT,STRING,STRING,FLOAT,STRING,STRING
+RESULT_DESCR,,,,,,,,PubChem standardized value transformed from 'Standard Value'. The unit is always micromolar,Standardized activity type (e.g. IC50 rather than Ic-50/Ic50/ic50/ic-50),"Qualifier (e.g. >, <, =) for 'Standard Value'",Standardized activity value transformed to common units: e.g. mM concentrations converted to nM,Selected units for 'Standard Type': e.g. concentrations are in nM,Additional comments
+RESULT_UNIT,,,,,,,,MICROMOLAR,,,,,
+RESULT_IS_ACTIVE_CONCENTRATION,,,,,,,,TRUE,,,,,
+RESULT_IS_ACTIVE_CONCENTRATION_QUALIFIER,,,,,,,,,,TRUE,,,
+1,318394044,122193303,C1=CC=C(C=C1)[C@@H](C(=O)N)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCN=C(N)N)NC(=O)C2=CC=C(C=C2)C(F)(F)F,Inconclusive,,,Potential missing data,,IC50,,,,Not Determined
+2,318394045,122193304,C1=CC=C(C=C1)[C@@H](C(=O)N)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CC2=CC=C(C=C2)C(=N)N)NC(=O)C3=CC=C(C=C3)C(F)(F)F,Inconclusive,,,Potential missing data,,IC50,,,,Not Determined
+3,318394046,122193305,C1=CC=C(C=C1)[C@@H](C(=O)N)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CC2=CC(=CC=C2)C(=N)N)NC(=O)C3=CC=C(C=C3)C(F)(F)F,Inconclusive,,,Potential missing data,,IC50,,,,Not Determined
+4,318394047,122193306,C1=CC=C(C=C1)[C@@H](C(=O)N)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CC2=CC=C(C=C2)N=C(N)N)NC(=O)C3=CC=C(C=C3)C(F)(F)F,Inconclusive,,,Potential missing data,,IC50,,,,Not Determined
+5,318394048,122193307,C1=CC=C(C=C1)CCC(=O)N[C@@H](CCCN=C(N)N)C(=O)N[C@@H](CCCCN)C(=O)N[C@@H](C2=CC=CC=C2)C(=O)N,Inconclusive,,,Potential missing data,,IC50,,,,Not Determined
+6,318394049,122193308,C1=CC=C(C=C1)CCC(=O)N[C@@H](CC2=CC=C(C=C2)C(=N)N)C(=O)N[C@@H](CCCCN)C(=O)N[C@@H](C3=CC=CC=C3)C(=O)N,Inconclusive,,,Potential missing data,,IC50,,,,Not Determined
+7,318394050,122193309,C1=CC=C(C=C1)CCC(=O)N[C@@H](CC2=CC(=CC=C2)C(=N)N)C(=O)N[C@@H](CCCCN)C(=O)N[C@@H](C3=CC=CC=C3)C(=O)N,Active,,,,4.59,IC50,=,4590,nM,
+8,318394258,122193488,C1=CC=C(C=C1)CCC(=O)N[C@@H](CC2=CC=C(C=C2)N=C(N)N)C(=O)N[C@@H](CCCCN)C(=O)N[C@@H](C3=CC=CC=C3)C(=O)N,Inconclusive,,,Potential missing data,,IC50,,,,Not Determined

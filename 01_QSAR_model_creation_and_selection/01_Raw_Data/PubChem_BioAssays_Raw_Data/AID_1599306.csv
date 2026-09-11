@@ -1,0 +1,17 @@
+PUBCHEM_RESULT_TAG,PUBCHEM_SID,PUBCHEM_CID,PUBCHEM_EXT_DATASOURCE_SMILES,PUBCHEM_ACTIVITY_OUTCOME,PUBCHEM_ACTIVITY_SCORE,PUBCHEM_ACTIVITY_URL,PUBCHEM_ASSAYDATA_COMMENT,PubChem Standard Value,Standard Type,Standard Relation,Standard Value,Standard Units
+RESULT_TYPE,,,,,,,,FLOAT,STRING,STRING,FLOAT,STRING
+RESULT_DESCR,,,,,,,,PubChem standardized value transformed from 'Standard Value'. The unit is always micromolar,Standardized activity type (e.g. IC50 rather than Ic-50/Ic50/ic50/ic-50),"Qualifier (e.g. >, <, =) for 'Standard Value'",Standardized activity value transformed to common units: e.g. mM concentrations converted to nM,Selected units for 'Standard Type': e.g. concentrations are in nM
+RESULT_UNIT,,,,,,,,MICROMOLAR,,,,
+RESULT_IS_ACTIVE_CONCENTRATION,,,,,,,,TRUE,,,,
+RESULT_IS_ACTIVE_CONCENTRATION_QUALIFIER,,,,,,,,,,TRUE,,
+1,103198031,4917,CN1CCN(CC1)CCCN2C3=CC=CC=C3SC4=C2C=C(C=C4)Cl,Active,,,,0.088,EC50,=,88,nM
+2,103581571,5281515,C/C/1=C\CCC(=C)[C@H]2CC([C@@H]2CC1)(C)C,Unspecified,,,,22,IC50,=,22000,nM
+3,103737509,638011,CC(=CCC/C(=C/C=O)/C)C,Unspecified,,,,31,IC50,=,31000,nM
+4,104234156,64143,CC1=C(C=CC=C1O)C(=O)N[C@@H](CSC2=CC=CC=C2)[C@@H](CN3C[C@H]4CCCC[C@H]4C[C@H]3C(=O)NC(C)(C)C)O,Active,,,,3.5,IC50,=,3500,nM
+5,123095012,52946774,CC(C)CC(=O)C1=C2C(=C3C(=C1O)C=CC(O3)(C)C)C(=CC(=O)O2)C4=CC=CC=C4,Active,,,,2.6,EC50,=,2600,nM
+6,124976087,5489487,CCCC1=CC(=O)OC2=C1C(=C(C(=C2C(=O)CC(C)C)O)CC=C(C)C)O,Active,,,,2.6,EC50,=,2600,nM
+7,440124880,155520406,CCOC(=O)C1=C(N(N=C1)C2=CC=CC=C2)N(S(=O)(=O)C3=CC=C(C=C3)[N+](=O)[O-])S(=O)(=O)C4=CC=C(C=C4)[N+](=O)[O-],Active,,,,5.7,EC50,=,5700,nM
+8,440133537,155526068,CCCCC1C(C(CCN1C(=O)OC(C)(C)C)C2=CC=CC=C2)C(=O)N(C)OC,Active,,,,2.4,EC50,=,2400,nM
+9,440145103,155533654,C1=CC=C(C=C1)C2=CC=C(C=C2)CNC3=NC4=C(C(=N3)NC5=CC(=CC=C5)O)NC=N4,Active,,,,2.8,EC50,=,2800,nM
+10,440208140,10361692,CC[C@H]1C[C@@H]2C[C@@]3([C@H]1N(C2)CCC4=C3NC5=C4C=C(C=C5)OC)C(=O)OC,Active,,,,2.6,EC50,=,2600,nM
+11,440222727,155566683,CCCCC1C(C(CCN1C(=O)OC(C)(C)C)C2=CC=CC=C2)C(=O)CC,Active,,,,3.2,EC50,=,3200,nM

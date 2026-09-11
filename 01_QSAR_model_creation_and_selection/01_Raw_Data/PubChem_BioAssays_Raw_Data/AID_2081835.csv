@@ -1,0 +1,13 @@
+PUBCHEM_RESULT_TAG,PUBCHEM_SID,PUBCHEM_CID,PUBCHEM_EXT_DATASOURCE_SMILES,PUBCHEM_ACTIVITY_OUTCOME,PUBCHEM_ACTIVITY_SCORE,PUBCHEM_ACTIVITY_URL,PUBCHEM_ASSAYDATA_COMMENT,PubChem Standard Value,Standard Type,Standard Relation,Standard Value,Standard Units,Activity Comment
+RESULT_TYPE,,,,,,,,FLOAT,STRING,STRING,FLOAT,STRING,STRING
+RESULT_DESCR,,,,,,,,PubChem standardized value transformed from 'Standard Value'. The unit is always micromolar,Standardized activity type (e.g. IC50 rather than Ic-50/Ic50/ic50/ic-50),"Qualifier (e.g. >, <, =) for 'Standard Value'",Standardized activity value transformed to common units: e.g. mM concentrations converted to nM,Selected units for 'Standard Type': e.g. concentrations are in nM,Additional comments
+RESULT_UNIT,,,,,,,,MICROMOLAR,,,,,
+RESULT_IS_ACTIVE_CONCENTRATION,,,,,,,,TRUE,,,,,
+RESULT_IS_ACTIVE_CONCENTRATION_QUALIFIER,,,,,,,,,,TRUE,,,
+1,374285335,122689692,CC1=CC2=C(C=C1OC)NC=C2C(=O)C(C3=C(C=C(C=C3)Cl)OC)NC4=CC(=CC(=C4)S(=O)(=O)C)OC,Active,,,,0.68319,Cmax,=,683.19,nM,standard_value was converted from ug.mL-1 to nM using the parent compound MW
+2,494427311,133083036,COC1=CC(=CC(=C1)N[C@@H](C2=C(C=C(C=C2)Cl)OC)C(=O)C3=CNC4=C3C=C(C=C4)OC(F)(F)F)S(=O)(=O)C,Active,,,,1.07894,Cmax,=,1078.94,nM,standard_value was converted from ug.mL-1 to nM using the parent compound MW
+3,520018540,121484802,CC1=CC2=C(C=C1OC)NC=C2C(=O)C(C3=C(C=C(C=C3)F)OC)NC4=CC(=CC(=C4)S(=O)(=O)C)OC,Unspecified,,,,,Cmax,=,0.263,ug.mL-1,
+4,520021267,126698136,COC1=CC(=CC(=C1)NC(C2=C(C=C(C=C2)F)OCCO)C(=O)C3=CNC4=C3C=CC(=C4)F)S(=O)(=O)C,Unspecified,,,,,Cmax,=,0.104,ug.mL-1,
+5,520055856,121484813,COC1=CC(=CC(=C1)NC(C2=C(C=C(C=C2)F)OC)C(=O)C3=CNC4=C3C=CC(=C4)F)S(=O)(=O)C,Unspecified,,,,,Cmax,=,0.418,ug.mL-1,
+6,520057825,126714640,CC1=CC2=C(C=C1OC)NC=C2C(=O)C(C3=C(C=C(C=C3)Cl)OCCO)NC4=CC(=CC(=C4)S(=O)(=O)C)OC,Unspecified,,,,,Cmax,=,0.103,ug.mL-1,
+7,520059798,126698175,CC1=CC2=C(C=C1OC)NC=C2C(=O)C(C3=C(C=C(C=C3)F)OCCO)NC4=CC(=CC(=C4)S(=O)(=O)C)OC,Unspecified,,,,,Cmax,=,0.094,ug.mL-1,

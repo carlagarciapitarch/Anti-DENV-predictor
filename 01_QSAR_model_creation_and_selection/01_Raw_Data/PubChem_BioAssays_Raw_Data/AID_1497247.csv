@@ -1,0 +1,15 @@
+PUBCHEM_RESULT_TAG,PUBCHEM_SID,PUBCHEM_CID,PUBCHEM_EXT_DATASOURCE_SMILES,PUBCHEM_ACTIVITY_OUTCOME,PUBCHEM_ACTIVITY_SCORE,PUBCHEM_ACTIVITY_URL,PUBCHEM_ASSAYDATA_COMMENT,PubChem Standard Value,Standard Type,Standard Relation,Standard Value,Standard Units
+RESULT_TYPE,,,,,,,,FLOAT,STRING,STRING,FLOAT,STRING
+RESULT_DESCR,,,,,,,,PubChem standardized value transformed from 'Standard Value'. The unit is always micromolar,Standardized activity type (e.g. IC50 rather than Ic-50/Ic50/ic50/ic-50),"Qualifier (e.g. >, <, =) for 'Standard Value'",Standardized activity value transformed to common units: e.g. mM concentrations converted to nM,Selected units for 'Standard Type': e.g. concentrations are in nM
+RESULT_UNIT,,,,,,,,MICROMOLAR,,,,
+RESULT_IS_ACTIVE_CONCENTRATION,,,,,,,,TRUE,,,,
+RESULT_IS_ACTIVE_CONCENTRATION_QUALIFIER,,,,,,,,,,TRUE,,
+1,103583440,23725128,C[C@]1([C@@H]([C@H](O[C@H]1N2C=CC(=O)NC2=O)COP(=O)(O)OP(=O)(O)OP(=O)(O)O)O)F,Unspecified,,,,18,IC50,=,18000,nM
+2,103641237,44586007,C[C@]1([C@@H]([C@H](O[C@H]1N2C=CC(=O)NC2=O)COP(=O)(O)OP(=O)(O)OP(=O)(O)O)O)O,Active,,,,5,IC50,=,5000,nM
+3,404667986,76286400,C#C[C@]1([C@@H]([C@](O[C@H]1N2C=CC(=O)NC2=O)(COP(=O)(O)OP(=O)(O)OP(=O)(O)O)F)O)O,Active,,,,0.65,IC50,=,650,nM
+4,404668699,73891125,C#C[C@]1([C@@H]([C@H](O[C@H]1N2C=CC(=O)NC2=O)COP(=O)(O)OP(=O)(O)OP(=O)(O)O)O)O,Active,,,,1.6,IC50,=,1600,nM
+5,404668736,90044999,CC#C[C@]1([C@@H]([C@H](O[C@H]1N2C=CC(=O)NC2=O)COP(=O)(O)OP(=O)(O)OP(=O)(O)O)O)O,Active,,,,2,IC50,=,2000,nM
+6,404669685,145961743,C#C[C@]1([C@@H]([C@H](O[C@H]1N2C=CC(=O)NC2=O)COP(=O)(O)OP(=O)(O)OP(=O)(O)O)O)F,Unspecified,,,,15.9,IC50,=,15900,nM
+7,404669772,145961801,CC#C[C@]1([C@@H]([C@H](O[C@H]1N2C=CC(=O)NC2=O)COP(=O)(O)OP(=O)(O)OP(=O)(O)O)O)F,Unspecified,,,,20,IC50,>,20000,nM
+8,404669978,145961941,CC#C[C@]1([C@@H]([C@](O[C@H]1N2C=CC(=O)NC2=O)(COP(=O)(O)OP(=O)(O)OP(=O)(O)O)F)O)O,Active,,,,2.8,IC50,=,2800,nM
+9,404670268,76286118,C[C@]1([C@@H]([C@](O[C@H]1N2C=CC(=O)NC2=O)(COP(=O)(O)OP(=O)(O)OP(=O)(O)O)F)O)O,Active,,,,6.6,IC50,=,6600,nM

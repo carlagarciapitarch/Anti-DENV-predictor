@@ -1,0 +1,20 @@
+PUBCHEM_RESULT_TAG,PUBCHEM_SID,PUBCHEM_CID,PUBCHEM_EXT_DATASOURCE_SMILES,PUBCHEM_ACTIVITY_OUTCOME,PUBCHEM_ACTIVITY_SCORE,PUBCHEM_ACTIVITY_URL,PUBCHEM_ASSAYDATA_COMMENT,PubChem Standard Value,Standard Type,Standard Relation,Standard Value,Standard Units,Activity Comment
+RESULT_TYPE,,,,,,,,FLOAT,STRING,STRING,FLOAT,STRING,STRING
+RESULT_DESCR,,,,,,,,PubChem standardized value transformed from 'Standard Value'. The unit is always micromolar,Standardized activity type (e.g. IC50 rather than Ic-50/Ic50/ic50/ic-50),"Qualifier (e.g. >, <, =) for 'Standard Value'",Standardized activity value transformed to common units: e.g. mM concentrations converted to nM,Selected units for 'Standard Type': e.g. concentrations are in nM,Additional comments
+RESULT_UNIT,,,,,,,,MICROMOLAR,,,,,
+RESULT_IS_ACTIVE_CONCENTRATION,,,,,,,,TRUE,,,,,
+RESULT_IS_ACTIVE_CONCENTRATION_QUALIFIER,,,,,,,,,,TRUE,,,
+1,124963934,44633776,C#C[C@]1([C@@H]([C@H](O[C@H]1N2C=CC3=C(N=CN=C32)N)CO)O)O,Active,,,,0.03,EC50,=,30,nM,
+2,336870620,127028693,C1=CC(=CC(=C1)Cl)C2=NN=C(O2)/C=C/C3=CC=C(S3)Br,Inconclusive,,,Potential missing data,,EC50,,,,Not Determined
+3,336870621,127028694,C1=CC=C(C=C1)C2=CC=C(S2)/C=C/C3=NN=C(O3)C4=CC(=CC=C4)Cl,Inconclusive,,,Potential missing data,,EC50,,,,Not Determined
+4,336871066,127029003,C1=CC(=C(C=C1C2=NN=C(O2)/C=C/C3=CC=C(S3)Br)Cl)Cl,Inconclusive,,,Potential missing data,,EC50,,,,Not Determined
+5,336887138,127038180,C1=CC(=CC(=C1)Br)C2=NN=C(O2)/C=C/C3=CC=C(S3)Br,Active,,,,5.7,EC50,=,5700,nM,
+6,336889130,127039686,C1=CC=C(C=C1)C2=CC=C(S2)/C=C/C3=NN=C(O3)C4=CC=C(C=C4)C(F)(F)F,Inconclusive,,,Potential missing data,,EC50,,,,Not Determined
+7,336889134,127039690,C1=CC(=CC=C1C2=NN=C(O2)/C=C/C3=CC=C(S3)Br)Cl,Active,,,,7,EC50,=,7000,nM,
+8,336889552,127040023,C1=CC(=CC=C1C2=NN=C(O2)/C=C/C3=CC=C(S3)Br)Br,Inconclusive,,,Potential missing data,,EC50,,,,Not Determined
+9,336890619,127040854,C1=CC(=CC(=C1)Cl)C2=NOC(=N2)/C=C/C3=CC=C(S3)Br,Active,,,,3,EC50,=,3000,nM,
+10,336890831,127041023,C1=C(SC(=C1)Br)/C=C/C2=NN=C(O2)C3=CC(=CC(=C3)Cl)Cl,Inconclusive,,,Potential missing data,,EC50,,,,Not Determined
+11,336890832,127041024,COC1=CC=CC(=C1)C2=NN=C(O2)/C=C/C3=CC=C(S3)Br,Inconclusive,,,Potential missing data,,EC50,,,,Not Determined
+12,336890833,127041025,C1=CC(=CC=C1C2=NOC(=N2)/C=C/C3=CC=C(S3)Br)Cl,Active,,,,3,EC50,=,3000,nM,
+13,336892825,127042491,COC1=CC=C(C=C1)C2=NN=C(O2)/C=C/C3=CC=C(S3)Br,Inconclusive,,,Potential missing data,,EC50,,,,Not Determined
+14,336892826,127042492,C1=CC(=CC=C1C2=NN=C(O2)/C=C/C3=CC=C(S3)Br)C(F)(F)F,Inconclusive,,,Potential missing data,,EC50,,,,Not Determined

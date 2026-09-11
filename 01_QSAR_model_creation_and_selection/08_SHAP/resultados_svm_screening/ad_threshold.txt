@@ -1,0 +1,2 @@
+Threshold AD: 185715321.75130975
+N vecinos: 5

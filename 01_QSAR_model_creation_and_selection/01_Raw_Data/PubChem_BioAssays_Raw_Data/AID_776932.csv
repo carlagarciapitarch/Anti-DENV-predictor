@@ -1,0 +1,21 @@
+PUBCHEM_RESULT_TAG,PUBCHEM_SID,PUBCHEM_CID,PUBCHEM_EXT_DATASOURCE_SMILES,PUBCHEM_ACTIVITY_OUTCOME,PUBCHEM_ACTIVITY_SCORE,PUBCHEM_ACTIVITY_URL,PUBCHEM_ASSAYDATA_COMMENT,Standard Type,Activity Comment
+RESULT_TYPE,,,,,,,,STRING,STRING
+RESULT_DESCR,,,,,,,,Standardized activity type (e.g. IC50 rather than Ic-50/Ic50/ic50/ic-50),Additional comments
+1,174489016,73346535,CCCC[C@@H](C(=O)N)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCN=C(N)N)NC(=O)C1=CC=CC=C1,Unspecified,,,Potential missing data,Activity,Non-toxic
+2,174489017,72712242,CCCC[C@@H](C(=O)N)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCN=C(N)N)NC(=O)C1=CC=C(C=C1)/C=C\2/C(=O)N(C(=O)S2)CCC3=CC=CC=C3,Unspecified,,,Potential missing data,Activity,Non-toxic
+3,174494021,72712872,CCCC[C@@H](C(=O)N)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCN=C(N)N)NC(=O)C1=CC=C(C=C1)/C=C\2/C(=O)N(C(=S)S2)C,Unspecified,,,Potential missing data,Activity,Non-toxic
+4,174494023,72711146,CCCC[C@@H](C(=O)N)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCN=C(N)N)NC(=O)C1=CC=C(C=C1)/C=C\2/C(=O)N(C(=S)S2)CC=C,Unspecified,,,Potential missing data,Activity,Non-toxic
+5,174494024,72712669,CCCC[C@@H](C(=O)N)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCN=C(N)N)NC(=O)C1=CC=C(C=C1)/C=C\2/C(=O)NC(=O)S2,Unspecified,,,Potential missing data,Activity,Non-toxic
+6,174499182,73349552,CCCC[C@@H](C(=O)N)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCN=C(N)N)NC(=O)/C=C/C1=CC=CC=C1,Unspecified,,,Potential missing data,Activity,Non-toxic
+7,174509532,72712239,CCCC[C@@H](C(=O)N)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCN=C(N)N)NC(=O)C1=CC=C(C=C1)/C=C\2/C(=O)N(C(=S)S2)CC3=CC=C(C=C3)Cl,Unspecified,,,Potential missing data,Activity,Non-toxic
+8,174509533,72712241,CCCC[C@@H](C(=O)N)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCN=C(N)N)NC(=O)C1=CC=C(C=C1)/C=C\2/C(=O)N(C(=S)S2)CCC3=CC=CC=C3,Unspecified,,,Potential missing data,Activity,Non-toxic
+9,174509535,72712873,CCCC[C@@H](C(=O)N)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCN=C(N)N)NC(=O)C1=CC=C(C=C1)/C=C\2/C(=O)N(C(=O)S2)C,Unspecified,,,Potential missing data,Activity,Non-toxic
+10,174514691,72711811,CCCC[C@@H](C(=O)N)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCN=C(N)N)NC(=O)C1=CC=C(C=C1)/C=C\2/C(=O)N(C(=O)S2)CC3=CC=CC=C3,Unspecified,,,Potential missing data,Activity,Non-toxic
+11,174514694,72710920,CCCC[C@@H](C(=O)N)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCN=C(N)N)NC(=O)C1=CC=C(C=C1)/C=C\2/C(=O)N(C(=S)S2)C3CCCCC3,Unspecified,,,Potential missing data,Activity,Non-toxic
+12,174514709,73354076,CCCC[C@@H](C(=O)N)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCN=C(N)N)NC(=O)C1=CC=C(C=C1)/C=C(\C#N)/C(=O)NC2CC2,Unspecified,,,Potential missing data,Activity,Non-toxic
+13,174519752,73355607,CCCC[C@@H](C(=O)N)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCN=C(N)N)NC(=O)C1=CC=C(C=C1)/C=C/C(=O)N,Unspecified,,,Potential missing data,Activity,Non-toxic
+14,174525025,72712457,CCCC[C@@H](C(=O)N)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCN=C(N)N)NC(=O)C1=CC=C(C=C1)/C=C\2/C(=O)NC(=S)S2,Unspecified,,,Potential missing data,Activity,Non-toxic
+15,174525043,72713509,CCCC[C@@H](C(=O)N)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCN=C(N)N)NC(=O)/C=C\1/C(=O)N(C(=S)S1)CC2=CC=C(C=C2)OC,Unspecified,,,Potential missing data,Activity,Non-toxic
+16,174525045,73357148,CCCC[C@@H](C(=O)N)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCN=C(N)N)NC(=O)C1=CC=CS1,Unspecified,,,Potential missing data,Activity,Non-toxic
+17,174525046,72712240,CCCC[C@@H](C(=O)N)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCN=C(N)N)NC(=O)C1=CC=C(C=C1)/C=C\2/C(=O)N(C(=O)S2)CC3=CC=C(C=C3)Cl,Unspecified,,,Potential missing data,Activity,Non-toxic
+18,174525047,72712671,CCCC[C@@H](C(=O)N)NC(=O)[C@H](CCCN)NC(=O)[C@H](CCCN=C(N)N)NC(=O)C1=CC=C(C=C1)/C=C\2/C(=O)N(C(=O)S2)CC3=CC=CC=C3,Unspecified,,,Potential missing data,Activity,Non-toxic

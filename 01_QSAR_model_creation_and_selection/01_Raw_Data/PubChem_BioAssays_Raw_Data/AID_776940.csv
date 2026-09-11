@@ -1,0 +1,17 @@
+PUBCHEM_RESULT_TAG,PUBCHEM_SID,PUBCHEM_CID,PUBCHEM_EXT_DATASOURCE_SMILES,PUBCHEM_ACTIVITY_OUTCOME,PUBCHEM_ACTIVITY_SCORE,PUBCHEM_ACTIVITY_URL,PUBCHEM_ASSAYDATA_COMMENT,Standard Type,Standard Units,Activity Comment
+RESULT_TYPE,,,,,,,,STRING,STRING,STRING
+RESULT_DESCR,,,,,,,,Standardized activity type (e.g. IC50 rather than Ic-50/Ic50/ic50/ic-50),Selected units for 'Standard Type': e.g. concentrations are in nM,Additional comments
+1,174489016,73346535,CCCC[C@@H](C(=O)N)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCN=C(N)N)NC(=O)C1=CC=CC=C1,Active,,,Potential missing data,Inhibition,%,Active
+2,174489017,72712242,CCCC[C@@H](C(=O)N)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCN=C(N)N)NC(=O)C1=CC=C(C=C1)/C=C\2/C(=O)N(C(=O)S2)CCC3=CC=CC=C3,Active,,,Potential missing data,Inhibition,%,Active
+3,174494020,72711813,CCCC[C@@H](C(=O)N)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCN=C(N)N)NC(=O)C1=CC=C(C=C1)/C=C\2/C(=O)N(C(=O)S2)CC3=CC=C(C=C3)C,Active,,,Potential missing data,Inhibition,%,Active
+4,174499157,72714177,CCCC[C@@H](C(=O)N)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCN=C(N)N)NC(=O)C1=CC=C(C=C1)/C=C\2/C(=O)N(C(=S)S2)C3CCCC3,Active,,,Potential missing data,Inhibition,%,Active
+5,174499182,73349552,CCCC[C@@H](C(=O)N)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCN=C(N)N)NC(=O)/C=C/C1=CC=CC=C1,Active,,,Potential missing data,Inhibition,%,Active
+6,174504445,72711375,CCCC[C@@H](C(=O)N)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCN=C(N)N)NC(=O)C1=CC=C(C=C1)/C=C\2/C(=O)N(C(=O)S2)CCOC(=O)C,Active,,,Potential missing data,Inhibition,%,Active
+7,174514691,72711811,CCCC[C@@H](C(=O)N)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCN=C(N)N)NC(=O)C1=CC=C(C=C1)/C=C\2/C(=O)N(C(=O)S2)CC3=CC=CC=C3,Active,,,Potential missing data,Inhibition,%,Active
+8,174514709,73354076,CCCC[C@@H](C(=O)N)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCN=C(N)N)NC(=O)C1=CC=C(C=C1)/C=C(\C#N)/C(=O)NC2CC2,Active,,,Potential missing data,Inhibition,%,Active
+9,174519752,73355607,CCCC[C@@H](C(=O)N)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCN=C(N)N)NC(=O)C1=CC=C(C=C1)/C=C/C(=O)N,Active,,,Potential missing data,Inhibition,%,Active
+10,174519753,72712027,CCCC[C@@H](C(=O)N)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCN=C(N)N)NC(=O)C1=CC=C(C=C1)/C=C\2/C(=O)N(C(=O)S2)CC3=CC=C(C=C3)OC,Active,,,Potential missing data,Inhibition,%,Active
+11,174525041,72713955,CCCC[C@@H](C(=O)N)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCN=C(N)N)NC(=O)C1=CC=C(C=C1)/C=C\2/C(=O)N(C(=S)S2)CCCC,Active,,,Potential missing data,Inhibition,%,Active
+12,174525045,73357148,CCCC[C@@H](C(=O)N)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCN=C(N)N)NC(=O)C1=CC=CS1,Active,,,Potential missing data,Inhibition,%,Active
+13,174525048,72714175,CCCC[C@@H](C(=O)N)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCN=C(N)N)NC(=O)C1=CC=C(C=C1)/C=C\2/C(=O)N(C(=O)S2)CCCC,Active,,,Potential missing data,Inhibition,%,Active
+14,174525049,72710921,CCCC[C@@H](C(=O)N)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCN=C(N)N)NC(=O)C1=CC=C(C=C1)/C=C\2/C(=O)N(C(=O)S2)C3CCCCC3,Active,,,Potential missing data,Inhibition,%,Active

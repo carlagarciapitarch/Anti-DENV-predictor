@@ -1,0 +1,13 @@
+PUBCHEM_RESULT_TAG,PUBCHEM_SID,PUBCHEM_CID,PUBCHEM_EXT_DATASOURCE_SMILES,PUBCHEM_ACTIVITY_OUTCOME,PUBCHEM_ACTIVITY_SCORE,PUBCHEM_ACTIVITY_URL,PUBCHEM_ASSAYDATA_COMMENT,Standard Type,Standard Relation,Standard Value,Standard Units
+RESULT_TYPE,,,,,,,,STRING,STRING,FLOAT,STRING
+RESULT_DESCR,,,,,,,,Standardized activity type (e.g. IC50 rather than Ic-50/Ic50/ic50/ic-50),"Qualifier (e.g. >, <, =) for 'Standard Value'",Standardized activity value transformed to common units: e.g. mM concentrations converted to nM,Selected units for 'Standard Type': e.g. concentrations are in nM
+1,163313687,60168115,C1[C@@H]([C@H]([C@@H]([C@H](N1CCCCCCOC2=C(C=CC(=C2)F)F)CO)O)O)O,Unspecified,,,,PPB,=,68,%
+2,163313997,60170163,CC1=CC(=CC=C1)OCCCCCCN2C[C@@H]([C@H]([C@@H]([C@H]2CO)O)O)O,Unspecified,,,,PPB,=,79,%
+3,163317110,60170339,C1[C@@H]([C@H]([C@@H]([C@H](N1CCCCCCOC2=CC=CC(=C2)C(F)(F)F)CO)O)O)O,Unspecified,,,,PPB,=,90,%
+4,163317111,51031020,CCC(CC)(CCCCCCN1C[C@@H]([C@H]([C@@H]([C@H]1CO)O)O)O)O,Unspecified,,,,PPB,=,30,%
+5,163323965,60168110,C1[C@@H]([C@H]([C@@H]([C@H](N1CCCCCCOC2=CC(=CC=C2)F)CO)O)O)O,Unspecified,,,,PPB,=,71,%
+6,163327422,60169980,CCCC(CCC)OCCCCCCN1C[C@@H]([C@H]([C@@H]([C@H]1CO)O)O)O,Unspecified,,,,PPB,=,77,%
+7,163331261,60168109,C1CCCC(CC1)OCCCCCCN2C[C@@H]([C@H]([C@@H]([C@H]2CO)O)O)O,Unspecified,,,,PPB,=,65,%
+8,163334728,60170342,COC1=CC=CC=C1OCCCCCCN2C[C@@H]([C@H]([C@@H]([C@H]2CO)O)O)O,Unspecified,,,,PPB,=,70,%
+9,163334729,60168116,C1[C@@H]([C@H]([C@@H]([C@H](N1CCCCCCOCC2=CC=CC=C2)CO)O)O)O,Unspecified,,,,PPB,=,49,%
+10,163334730,60168117,CCCOC1=CC=CC(=C1)CCCN2C[C@@H]([C@H]([C@@H]([C@H]2CO)O)O)O,Unspecified,,,,PPB,=,57,%
