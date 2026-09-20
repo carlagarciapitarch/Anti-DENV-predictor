@@ -154,3 +154,12 @@ Once the server is running, the API will be available at:
 ```
 http://localhost:8000
 ```
+
+### **Interactive API Documentation**
+FastAPI automatically provides interactive API documentation at:
+
+```
+http://localhost:8000/docs
+```
+
+This interface can be used to inspect the available endpoints and test the API directly from a web browser. For this purpose, "ejemplo_entrada_screening.csv" is provided in the folder.
