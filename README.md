@@ -107,8 +107,50 @@ The main results obtained in the study include:
 To reproduce the analysis, it is recommended to create a virtual environment and install the dependencies indicated in requirements.txt. 
 
 
-## **02_AntiDENV_predictor_creation**
-It contains "modelo_svm_pearson_0,6_api.pkl" and "API_AntiDenv_predictor.py". On one hand, "modelo_svm_pearson_0,6_api.pkl" is the best model obtained in the previous comparison. It is SVM model with radial kernel. On the other hand, "API_AntiDenv_predictor.py" is the API code that is used to connect the trained model to the website’s frontend. It handles the communication between the user input and the model, sending the user’s input to the model and retrieving the corresponding results to display on the website.
+## **02_AntiDENV_predictor_creation: FastAPI API**
+This folder contains the backend only. It does not include a web page or graphical user interface.
 
-### **Reproducibility**
+### **Files**
+- API_AntiDenv_predictor.py: FastAPI application.
+- modelo_svm_pearson_0,6_api.pkl: SVM model prepared for deployment.
+- requirements.txt: Python dependencies.
+- ejemplo_entrada_screening.csv: example input file.
+
+The deployed model preserves exactly the fitted pipeline from the original file:
+- StandardScaler
+- SVC(C=1, kernel="rbf", class_weight="balanced", probability=True)
+- Classes [0, 1], where 1 represents the active class.
+- 80 molecular descriptors.
+- 5,023 training samples.
+
+### **Input**
+The API accepts a POST /screening request using multipart/form-data. The uploaded file must be provided in the field named file and it must be a CSV file. The CSV file must contain exactly the following columns: id and smiles, but column names are case-insensitive. Invalid SMILES strings are automatically removed from the input before screening.
+
+### **Output**
+The HTTP response is returned directly as a CSV file. File name is "resultados_screening_svm" and it contains:
+- id: molecule identifier.
+- smiles: input SMILES string.
+- probabilidad_activo: predicted probability of belonging to the active class (1).
+- dominio_aplicabilidad: applicability-domain status (inside or outside).
+
+### **Installation and Usage**
 To reproduce the analysis, it is recommended to create a virtual environment and install the dependencies indicated in requirements.txt. 
+```
+python -m venv .venv
+source .venv/bin/activate     # Linux/macOS
+.venv\Scripts\activate        # Windows
+```
+```
+pip install -r requirements.txt
+```
+
+Uvicorn is needed to start the API. For that, use the following command:
+
+```
+uvicorn api_svm_screening_validada:app --host 0.0.0.0 --port 8000
+```
+
+Once the server is running, the API will be available at:
+```
+http://localhost:8000
+```
